@@ -1,0 +1,4677 @@
+AAA	All Asia Asset Capital L
+AADD	Albion Development Vct Plc
+AADV	Albion Development Vct Plc
+AAEV	Albion Enterprise Vct Plc
+AAIF	Aberdeen Asian Income Fund Ltd
+AAIG	Albion Income & Growth Vct Plc
+AAL	Anglo American Plc
+AAM	Artemis Vct Plc
+AAS	Aberdeen Asian Smaller Companies Investm
+AASC	Aberdeen Asian Smaller Companies Investm
+AASI	Amundi Investment Solutions
+AASU	Amundi Investment Solutions
+AATG	Albion Technology & General Vct Plc
+AAU	Ariana Resources Plc
+AAVC	Albion Venture Capital Tst Plc
+AAZ	Anglo Asian Mining Plc
+ABAA	Aberdeen All Asia Inv Tst Plc
+ABB	Abbey Protection Plc
+ABBY	Abbey Plc
+ABC	Abcam Plc
+ABD	Aberdeen New Dawn Investment Trust Plc
+ABDP	Ab Dynamics Plc
+ABF	Associated British Foods Plc
+ABG	African Barrick Gold Plc
+ABM	Albemarle & Bond Holdings Plc
+ABND	SSGA SPDR Etfs Europe I Plc
+ABR	Absolute Return Trust Ld
+ABRE	Absolute Return Trust Ld
+ABT	Abbott Laboratories
+ABTX	Aqua Bounty Technologies Inc.
+AC24	FTSE Japan LMS Index
+ACC	Access Intelligence Plc
+ACD	Acencia Debt Strategies Ltd
+ACE	Auhua Clean Energy Plc
+ACHL	Asian Citrus Holdings Limited
+ACID	ACER INC GDR EACH REPR 5 ORD TWD10 REG`S`(CIT)
+ACIM	SSGA SPDR Etfs Europe I Plc
+ACL	Acal Plc
+ACM	Accumuli Plc
+ACMG	Acm Shipping Group Plc
+ACP	Armadale Capital Plc
+ACTA	Acta S.P.A
+ACTG	UBS Ag
+ACU	African Copper Plc
+ACWD	SSGA SPDR Etfs Europe I Plc
+ACWI	SSGA SPDR Etfs Europe I Plc
+AD01	FTSE Developed
+AD02	FTSE Developed ex US
+AD03	FTSE Developed ex North America
+AD04	FTSE Developed ex UK
+AD05	FTSE Developed ex Japan
+AD06	FTSE Developed Europe
+AD07	FTSE Developed Europe ex UK
+AD09	FTSE Dev LMS ex US Index
+AD13	FTSE Dev Europe LMS Index
+AD17	FTSE Dev LMS ex NA Index
+AD20	FTSE Dev Europe LMS ex UK Index
+ADA	Adams Plc
+ADI	Alexander David Investments Plc
+ADM	Admiral Group Plc
+ADMF	Advance Developing Markets Fund Limited
+ADN	Aberdeen Asset Management Plc
+ADT	Adept Telecom Plc
+AE01	FTSE Emerging
+AE57	AVIVA 6.125% RESET SUB NTS 14/11/2036 GBP(VAR)
+AEC	Aec Education Plc
+AEEM	Amundi Investment Solutions
+AEFS	Alcentra European Floating Rate Income F
+AEG	Active Energy Group Plc
+AEN	Andes Energia Plc
+AEO	Aeorema Communications Plc
+AEP	Anglo-Eastern Plantations Plc
+AERL	Aer Lingus Group Plc
+AEX	Aminex Plc
+AEXK	Amundi Investment Solutions
+AEY	Antrim Energy Inc
+AFC	Afc Energy Plc
+AFCR	African Consolidated Resources Plc
+AFE	African Eagle Resources Plc
+AFF	Afferro Mining Inc.
+AFID	AFI DEVELOPMENT PLC GDR EACH REPR 1 ORD `REGS`
+AFMF	Advance Frontier Markets Fund Limited
+AFN	Advfn Plc
+AFPO	African Potash Limited
+AFR	Afren Plc
+AFRB	Afi Development Plc
+AFRI	Afriag Plc
+AFS	Amiad Water Systems Ltd
+AFSL	Lyxor International Asse
+AG01	FTSE All-Emerging
+AG02	FTSE All-Emerging Latin America
+AG03	FTSE All-Emerging Asia Pacific
+AG14	FTSE All-Emer LMS Index
+AG15	FTSE All-Emer Latin America LMS Idx
+AG16	FTSE All-Emer Asia Pacific LMS Idx
+AG41	NORTHUMBRIAN WATER FINANCE 6% GTD BDS 11/10/2017 GBP(VAR)
+AG93	SAFEWAY 6% NOTES 10/1/2017 GBP(VAR)
+AG99	GLAXOSMITHKLINE CAPITAL 5.25% GTD NTS 19/12/33 GBP1000
+AGA	Aga Rangemaster Group Plc
+AGAP	Etfs Commodity Securities Limited
+AGCP	Etfs Commodity Securities Limited
+AGD	Anglogold Ashanti Ld
+AGGP	Etfs Commodity Securities Limited
+AGGS	Barclays Bank Plc
+AGIT	Aberforth Geared Income Trust Plc
+AGIZ	Aberforth Geared Income Trust Plc
+AGK	Aggreko Plc
+AGL	Angle Plc
+AGOL	Ashmore Global Opportunities Limited
+AGOU	Ashmore Global Opportunities Limited
+AGP	Asian Growth Properties Limited
+AGQ	Arian Silver Corporation
+AGR	Assura Group Ld
+AGRI	Etfx Fund Company Plc
+AGRO	Ros Agro Plc
+AGRP	Etfx Fund Company Plc
+AGTA	Agriterra Ld
+AGY	Allergy Therapeutics Plc
+AH09	SOUTHERN ELECTRIC POWER DISTRIBUTIO 5.5% BDS 7/6/2032 GBP(VAR)
+AHT	Ashtead Group Plc
+AI68	NATIONAL GRID GAS 6% INSTRUMENTS 7/6/2017 GBP(VAR)
+AIA	Altin Ag
+AIE	Anite Plc
+AIEA	Airea Plc
+AIF	Acorn Income Fund Ld
+AIFZ	Acorn Income Fund Ld
+AIGA	Etfs Commodity Securities Limited
+AIGC	Etfs Commodity Securities Limited
+AIGE	Etfs Commodity Securities Limited
+AIGG	Etfs Commodity Securities Limited
+AIGI	Etfs Commodity Securities Limited
+AIGL	Etfs Commodity Securities Limited
+AIGO	Etfs Commodity Securities Limited
+AIGP	Etfs Commodity Securities Limited
+AIGS	Etfs Commodity Securities Limited
+AIGX	Etfs Commodity Securities Limited
+AIM1	FTSE-AIM UK100 Index
+AIM5	FTSE-AIM UK50 Index
+AIND	Amundi Investment Solutions
+AIP	Air Partner Plc
+AIS	Alternative Investment Strategies Ld
+AJG	Atlantis Japan Growth Fund Ld
+AK44	ENTERPRISE INNS 6.375% SEC BDS 26/9/2031 GBP1000
+AKR	Akers Biosciences Inc.
+AKRN	ACRON JSC GDR EACH REPR 0.1 SH `REGS`
+AKT	Ark Therapeutics Group Plc
+ALAI	Aberdeen Latin American Income Fund Limi
+ALAS	Aberdeen Latin American Income Fund Limi
+ALAT	Amundi Investment Solutions
+ALAU	Amundi Investment Solutions
+ALBA	Alba Mineral Resources Plc
+ALBH	Aluminium Bahrain B.S.C.
+ALK	Alkane Energy Plc
+ALL	Allocate Software Plc
+ALLG	All Leisure Group Plc
+ALNT	Alent Plc
+ALO	Alecto Minerals Plc
+ALPH	Alpha Pyrenees Trust Ltd
+ALR	Alternative Energy Limited
+ALT	Altitude Group Plc
+ALTE	Etfx Fund Company Plc
+ALTP	Etfx Fund Company Plc
+ALU	Alumasc Group Plc
+ALUM	Etfs Commodity Securities Limited
+ALY	Ashley [Laura] Holdings Plc
+AM37	ANNES GATE PROPERTY 3.237% IDX LKD GTD SEC BDS 31/3/30 GBP
+AM58	CO-OPERATIVE BANK 5.875% SUB NOTES 28/3/33 GBP(VAR)
+AMA	Amara Mining Plc
+AMBR	Ambrian Capital
+AMC	Amur Minerals Corporation
+AME	African Mining & Exploration Plc
+AMEC	Amec Plc
+AMER	Amerisur Resources Plc
+AMI	African Minerals Limited
+AML	Amlin Plc
+AMO	Amino Technologies Plc
+AMP	Amphion Innovations Plc
+AMR	Armour Group Plc
+AMS	Advanced Medical Solutions Group Plc
+AN	ALTERNATIVE NETWORKS ORD GBP0.00125
+AN22	LEGAL & GENERAL FINANCE 5.875% NOTES 5/4/33 GBP(VAR)
+AN37	LLOYDS BANKING GROUP PLC 5.875% SUB GTD BDS 8/7/14 EUR(VAR)
+AN94	BARCLAYS BANK PLC 6.125% SUB NTS PERP GBP(VAR)
+AN95	BARCLAYS BANK PLC 6.375% UND SUB NTS GBP(VAR)
+ANA	All Nippon Airways Co Ld
+ANCR	Animalcare Group Plc
+AND	Andor Technology Plc
+ANDEAN40	
+ANH	Al Noor Hospitals Group
+ANP	Anpario Plc
+ANR	Altona Energy Plc
+ANRJ	Amundi Investment Solutions
+ANTO	Antofagasta Plc
+ANW	Aberdeen New Thai Investment Trust Plc
+ANX	Amundi Investment Solutions
+ANXU	Amundi Investment Solutions
+AOF	Africa Opportunity Fund Limited
+AOL	Africa Oilfield Logistic
+AOR	Aortech International Plc
+APC	Advanced Power Components Plc
+APEF	Aberdeen Private Equity Fund Ld
+APF	Anglo Pacific Group Plc
+APH	Alliance Pharma Plc
+APHA	Alliance Pharma Plc
+API	Api Group Plc
+APR	Apr Energy Plc
+APS	Alpha Strategic Plc
+APT	Axa Property Trust Limited
+AQP	Aquarius Platinum Ld
+AR	Archhipelago Resources
+ARBB	Arbuthnot Banking Group Plc
+ARC	Arcontech Group Plc
+ARCH	Arc Capital Holdings Limited
+ARCL	Altus Resource Capital Limited
+ARDN	Arden Partners Plc
+AREO	Argo Real Estate Opportunities Fd
+ARG	Argos Resources Limited
+ARG20	
+ARGO	Argo Group Limited
+ARGP	Alpha Returns Group PLC
+ARI	Active Risk Group Plc
+ARM	Arm Holdings Plc
+ARP	Ashcourt Rowan Plc
+ARR	Aurora Investment Trust Plc
+ARTA	Artilium Plc
+ARTL	Alpha Real Trust Limited
+AS14	EQUITY RELEASE FUNDING(NO.2) 5.88% MTG BKD  NTS 26/5/32 GBP(VAR)`A2`
+ASAP	Aimshell Acquisitions Pl
+ASAT	FTSE Asian Autos & Trucks Index
+ASBA	FTSE Asian Banks Index
+ASBE	Associated British Engineering Plc
+ASBR	FTSE Asian Basic Resources Index
+ASC	Asos Plc
+ASCH	Aberdeen Smaller Companies High Income T
+ASCM	FTSE Asian Construction & Materials Inde
+ASDV	SSGA SPDR Etfs Europe I
+ASEAN40	
+ASECE	Ftse/Athex Capped 20 Index
+ASECU	Ftse/Athex 20 Capped Index
+ASFS	FTSE Asian Financial Services Index
+ASH	Ashley House Plc
+ASHC	FTSE Asian Health Care Index
+ASHM	Ashmore Group Plc
+ASIA	SSGA SPDR Etfs Europe I Plc
+ASIG	FTSE Asian Industrial Goods & Services I
+ASIL	Lyxor International Asse
+ASIU	Lyxor International Asse
+ASL	Aberforth Smaller Companies Trust Plc
+ASM	Antisoma Plc
+ASMT	FTSE Asian Marine Transportation Index
+ASOG	FTSE Asian Oil & Gas Index
+ASPH	FTSE Asian Personal & Household Goods In
+ASPL	Aseana Properties Limited
+ASPR	FTSE Asian Personal & Household Goods In
+ASRE	FTSE Asian Retail Index
+AST	Ascent Resources Plc
+ASTA	Astar Minerals Plc
+ASTC	FTSE Asian Telecommunications Index
+ASTE	FTSE Asian Technology Index
+ASTL	FTSE Asian Travel Leisure & Media Index
+ASTO	Assetco Plc
+ASUT	FTSE Asian Utilities Index
+ASW	Advanced Computer Software Grp Plc
+ASX	FTSE All-Share
+ASXX	FTSE All-Share [Exit]
+ASY	Andrews Sykes Group Plc
+AT03	LLOYDS TSB BANK 5.875% SUB NOTES 20/6/2014 GBP(VAR)
+ATAD	Oao Tatneft
+ATC	Atlantic Coal Plc
+ATGOV01	
+ATI	Amati Vct Plc
+ATK	Atkins [Ws] Plc
+ATR	Asian Total Return Inves
+ATS	Artemis Alpha Trust Plc
+ATSS	Artemis Alpha Trust Plc
+ATST	Alliance Trust Plc
+ATUK	UK Plc
+ATY	Athelney Trust Plc
+AUCO	Etfx Fund Company Plc
+AUCP	Etfx Fund Company Plc
+AUDP	Etfs Foreign Exchange Limited
+AUE	Aureus Mining Inc.
+AUEM	Amundi Investment Solutions
+AUG	Augean Plc
+AUGB	Etfs Foreign Exchange Limited
+AUK	Aukett Fitzroy Robinson Group Plc
+AUKD	Amundi Investment Solutions
+AUKT	Aberdeen UK Tracker Trus
+AUMP	Alpha UK Multi Property Trust Plc
+AUP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X LONG AUD SHORT GBP
+AUR	Aurum Mining Plc
+AURR	Aurora Russia Limited
+AV	Aviva
+AV.A	Aviva Plc
+AV.B	Aviva Plc
+AVA	Avanti Capital Plc
+AVAP	Avation Plc
+AVCT	Avacta Group Plc
+AVG	Avingtrans Plc
+AVGR	AVANGARDCO INVESTMENTS PUBLIC LTD GDRS EACH 10 REPR 1 SH `REG S` WI
+AVM	Avocet Mining Plc
+AVN	Avanti Communications Group Plc
+AVO	Advanced Oncotherapy Plc
+AVON	Avon Rubber Plc
+AVP	Armstrong Ventures Plc
+AVR	Avarae Global Coins Plc
+AVS	Avesco Group Plc
+AVV	Aveva Group Plc
+AW01	FTSE All World
+AW02	FTSE All World ex US
+AW03	FTSE All World ex UK
+AW04	FTSE All World ex Japan
+AW05	FTSE All World ex South Africa
+AW06	FTSE All World Asia Pacific
+AW07	FTSE All World Asia Pacific ex Japan
+AW08	FTSE All World Asia Pac ex Jap India&Pa
+AW09	FTSE All World Asia Pac ex Jap Ind Pak
+AW10	FTSE All World Greater China
+AW11	FTSE All World Europe
+AW12	FTSE All World Europe ex UK
+AW13	FTSE All World Europe ex Eurobloc
+AW14	FTSE All World Eurobloc
+AWAMERS	FTSE Americas Index
+AWDEURSG	FTSE Developed Europe In
+AWDPACXJ	FTSE All-World Devlop Asia Pacific Exclu
+AWDPCXJE	FTSE Developed Asia Paci
+AWDPCXJG	FTSE Developed Asia Paci
+AWNAMERS	FTSE All-World North America Index
+AXB	Axis Bank Limited
+AXM	Alexander Mining Plc
+AXS	Accsys Technologies Plc
+AXX	FTSE Aim All-Share Index
+AYM	Anglesey Mining Plc
+AZEM	Az Electronic Materials S.A.
+AZN	Astrazeneca Plc
+B026	BARCLAYS BANK PLC SIMPLE`963`0% NTS 24/03/14(FTSE100) GBP1
+B033	BARCLAYS BANK PLC SIMPLE`1068`4/11/14(FTSE 100 IDX)GBX100
+BA	Bae Systems Plc
+BA69	CITY OF LONDON INVESTMENT TRUST 4.2% CUM 1ST PRF STK
+BA90	CHARLWOOD ALLIANCE HLDGS 7.5% U LN STK 50P
+BAB	Babcock International Group Plc
+BABE	Bluecrest Allblue Fund Limited
+BABS	Bluecrest Allblue Fund Limited
+BABU	Bluecrest Allblue Fund Limited
+BAC	Bank Of America Corporation
+BACT	Bacit Limited
+BAE	Beale Plc
+BAF	British & American Investment Trust Plc
+BAG	Barr [A.G.] Plc
+BAJA	Bajaj Hindusthan Limited
+BAO	Baobab Resources Plc
+BARC	Barclays Plc
+BATS	British American Tobacco Plc
+BAUD	BAJAJ AUTO GDR EACH REPR 1 SHS INR10 REG'S'
+BAV	Baronsmead Vct 5 Plc
+BB34	ABBEY NATIONAL 10 1/16% EXCH CAP SEC GBP1000(RG)
+BB50	BARCLAYS BANK PLC 14% STEP-UP CALL PERP RCI GBP50000
+BB77	NATIONAL WESTMINSTER BANK 7.875% SUB NTS 9/9/2015GBP(VAR)
+BBA	Bba Aviation Plc
+BBGI	Bilfinger Berger Global Infrastructure S
+BBTS	Bluecrest Bluetrend Limited
+BBTU	Bluecrest Bluetrend Limited
+BBY	Balfour Beatty Plc
+BBYB	Balfour Beatty Plc
+BC18	SCOTTISH & SOUTHERN ENERGY 5.875% BDS 22/9/2022 GBP(VAR)
+BC41	PRUDENTIAL 6 7/8% BDS 20/1/2023 GBP(VAR)(BR)
+BC52	YORKSHIRE ELECTRICITY DIST 9.25% BDS 17/1/2020 GBP1(REGD)
+BC69	LEWIS(JOHN) 10.5% BDS 23/1/14 GBP(VAR)(BR)
+BC80	ENTERPRISE INNS 6% 1ST MTG DEB 2014
+BC83	NATIONAL GRID GAS 7% BDS 16/12/24 GBP1000
+BC84	TRAFFORD CENTRE FINANCE(THE) 'A2' 6.50% SEC NTS 28/7/2033 GBP10000
+BC94	SAMSUNG ELECTRONICS CO GDR EACH REP 1/2 KRW(REG`S`/144A) REGD
+BCAP	Better Capital Pcc Limited
+BCB	Bcb Holdings Limited
+BCGR	Blue Capital Global Rein
+BD12	UNITED UTILITIES ELECTRICITY LTD 8.875% BDS 25/3/26 GBP(VAR)
+BD15	TATE & LYLE 6.5% CUM PRF GBP1
+BD32	LEWIS(JOHN)PARTNERSHIP 7.5% CUM PRF STK GBP1
+BD45	LEWIS(JOHN)PARTNERSHIP 5% CUM PRF STK GBP1
+BD56	NATIONAL GRID ELECTRICITY TRANS. 5.875% BDS 2/2/2024 GBP(VAR)
+BD82	BOOT(HENRY) CUM PRF(5.25%)GBP1
+BD95	HAVEN FUNDING 8.125% SEC BDS 30/9/2037 GBP1
+BDEV	Barratt Developments Plc
+BDI	Bond International Software Plc
+BDV	Baronsmead Vct Plc
+BEE	Baring Emerging Europe Plc
+BEEP	Blackrock Emerging Europ
+BEG	Begbies Traynor Group Plc
+BEGOV01	
+BEM	Beowulf Mining Plc
+BES	Blavod Wines And Spirits Plc
+BEST	Best Of The Best Plc
+BET	Betfair Group Plc
+BEZ	Beazley Plc
+BFA	Basf Se
+BG	BG Group
+BG91	PEARSON 7% BDS 27/10/2014 GBP(VAR)
+BGBL	Bglobal Plc
+BGEO	Bank Of Georgia Holdings Plc
+BGFD	Baillie Gifford Japan Trust Plc
+BGHL	Boussard & Gavaudan Holding Limited
+BGHS	Boussard & Gavaudan Holding Limited
+BGL	Bullabulling Gold Limited
+BGO	Bango Plc
+BGS	Baillie Gifford Shin Nippon Plc
+BHCG	Bh Credit Catalysts Limited
+BHCU	Bh Credit Catalysts Limited
+BHGE	Bh Global Limited
+BHGG	Bh Global Limited
+BHGU	Bh Global Limited
+BHME	Bh Macro Limited
+BHMG	Bh Macro Limited
+BHMU	Bh Macro Limited
+BHR	Beacon Hill Resources Plc
+BHUE	Blackrock Hedge Selector Ltd
+BHY	Boot [Henry] Plc
+BILL	Billing Services Group Limited
+BILN	Billington Holdings Plc
+BIOG	Biotech Growth Trust [The] Plc
+BIOM	Biome Technologies Plc
+BISI	Bisichi Mining Plc
+BJU	Brainjuicer Group Plc
+BKG	Berkeley Group Holdings [The] Plc
+BKIR	Bank Of Ireland [Governor & Company Of T
+BKM	BANK MUSCAT GDR EACH REPR 4 ORD REG`S`
+BKSA	Black Sea Property Fund Limited [The]
+BKY	Berkeley Resources Limited
+BL23	SCOTTISH POWER UK 8.375% BDS 20/2/2017 GBP(VAR)(BR)
+BLBD	BLOM BANK SAL GDS EACH REPR 1 ORD`B`SHS(REG`S`)
+BLCK	Blackstar Group Se
+BLEY	Bailey [C.H.] Plc
+BLND	British Land Company Plc
+BLNX	Blinkx Plc
+BLP	Blue Planet International Financials Inv
+BLT	Bhp Billiton Plc
+BLU	Blue Star Capital Plc
+BLUR	Blur (Group) Plc
+BLV	Belvoir Lettings Plc
+BLVN	Bowleven Plc
+BLZ	Emblaze Ld
+BMD	Baronsmead Vct 3 Plc
+BMN	Bushveld Minerals Limited
+BMR	Berkeley Mineral Resources Plc
+BMS	Braemar Shipping Services Plc
+BMT	Braime [T.F. & J.H.] [Holdings] Plc
+BMY	Bloomsbury Publishing Plc
+BMZ	Black Mountain Resources Limited
+BNC	Banco Santander S.A.
+BNK	Bankers Petroleum Limited
+BNKR	Bankers Investment Trust Plc
+BNS	Baronsmead Vct 4 Plc
+BNZL	Bunzl Plc
+BO46	SEGRO PLC 6.75% NOTES 23/2/2024 GBP(VAR)
+BOD	Botswana Diamonds Plc
+BODI	Bodisen Biotech Inc.
+BOE	Boeing Co.
+BOI	Bank Of Ireland [Governor & Company Of T
+BOIL	Baron Oil Plc
+BOK	Booker Group Plc
+BOR	Borders & Southern Petroleum Plc
+BOY	Bodycote Plc
+BP	Bp - British Petroleum Plc
+BP.A	Bp Plc
+BP.B	Bp Plc
+BPC	Bahamas Petroleum Company Plc
+BPI	British Polythene Industries Plc
+BPKD	BANK PEKAO SA GDS EACH REPR 1 PLN1  REG`S
+BPM	B.P. Marsh & Partners Plc
+BPTY	Bwin.Party Digital Entertainment Plc
+BQAD	BANK AUDI SAL(AUDI-SARADAR GP) GDR REPR 1`B`SHR LBP2000(REG S)
+BQE	Bioquell Plc
+BR06	HSBC BANK PLC 6.5% SUB NTS 7/7/2023 GBP(VAR)
+BRAM	Brammer Plc
+BRBY	Burberry Group Plc
+BRCI	Blackrock Commodities Income Investment
+BRD	Bluerock Diamonds PLC
+BRDG	Bridge Energy Asa
+BRDX	RBS Market Access
+BREE	Breedon Aggregates Ld
+BRFC	Blackrock Frontiers Inve
+BRFI	Blackrock Frontiers Investment Trust Plc
+BRGE	Blackrock Greater Europe Investment Trus
+BRGS	Blackrock Greater Europe
+BRH	Braveheart Investment Group Plc
+BRIC	Ishares II Plc
+BRIG	Blackrock Income And Growth Investment T
+BRK	Brooks Macdonald Group Plc
+BRLA	Blackrock Latin American Investment Trus
+BRLB	Blackrock Latin American Investment Trus
+BRNA	Blackrock North American
+BRNE	Blackrock New Energy Inv Tst Plc
+BRNS	Blackrock New Energy Inv Tst Plc
+BRNT	Etfs Commodity Securities Limited
+BRSC	Blackrock Smaller Co Trust Plc
+BRSN	Berendsen Plc
+BRT	Brightside Group Plc
+BRW	Brewin Dolphin Holdings Plc
+BRWM	Blackrock World Mining Trust Plc
+BRY	Brady Plc
+BRZ	Amundi Investment Solutions
+BS41	3I GROUP 6.875% BDS 9/3/23 GBP1000
+BS89	BARCLAYS BANK PLC 6.875% UNDATED SUB NTS GBP(VAR)
+BSC	British Smaller Companies Vct2 Plc
+BSE	Base Resources Limited
+BSET	British Assets Trust Plc
+BSIF	Bluefield Solar Income F
+BSRT	Baker Steel Resources Trust Limited
+BSST	Bluestar Secutech Inc
+BSV	British Smaller Companies Vct Plc
+BSY	British Sky Broadcasting Group Plc
+BT.A	Bt Group Plc
+BTEM	British Empire Securities & General Trus
+BTG	Btg Plc
+BULL	Etfs Commodity Securities Limited
+BULP	Etfs Commodity Securities Limited
+BUMI	Bumi Plc
+BUPF	Bupa Finance Plc
+BUR	Burford Capital Limited
+BUT	Brunner Investment Trust Plc
+BVA	Banco Bilbao Vizcaya Argentaria Sa
+BVC	Batm Advanced Communications Ld
+BVIC	Britvic Plc
+BVM	Belgravium Technologies Plc
+BVS	Bovis Homes Group Plc
+BVT	Baronsmead Vct 2 Plc
+BWNG	Brown [N] Group Plc
+BWRA	Bristol Water Plc
+BWSA	Bristol & West Plc
+BWY	Bellway Plc
+BWYA	Bellway Plc
+BXP	Beximco Pharmaceuticals Limited
+BYB	BYBLOS BANK GDR EACH REPR 50 ORD `REG S`
+BYG	Big Yellow Group Plc
+BYOT	Byotrol Plc
+BZM	Bellzone Mining Plc
+BZT	Bezant Resources Plc
+C21	21ST CENTURY TECHNOLOGY PLC ORD GBP0.10
+CAD	Cadogan Petroleum Plc
+CADP	Etfs Foreign Exchange Limited
+CAE	Charteris Plc
+CAE1	CS ETF(IE)PLC CREDIT SUISSE GBL ALTER ENERGY GBP
+CAF	China Africa Resources Plc
+CAGB	Etfs Foreign Exchange Limited
+CAGP	Cheltenham & Gloucester Plc
+CAI	Castle Alternative Invest Ag
+CAL	Capital & Regional Plc
+CAM	Camellia Plc
+CAMB	Cambria Automobiles Plc
+CAMK	Camkids Group Plc
+CAML	Central Asia Metals Plc
+CAP	Clean Air Power Limited
+CAPC	Capital & Counties Properties Plc
+CAPD	Capital Drilling Limited
+CAR	Carclo Plc
+CARB	Etfs Oil Securities Limited
+CARP	Etfs Oil Securities Limited
+CAT	Catco Reinsurance Opportunities Fund Lim
+CATF	Etfs Commodity Securities Limited
+CATL	Etfs Commodity Securities Limited
+CAU	Centaur Media Plc
+CAU1	CS ETF(IE) MSCI AUSTRALIA USD(GBP)
+CAY	Charles Stanley Group Plc
+CAZA	Caza Oil & Gas Inc
+CBE0	CS ETF(IE) IBOXX EUR GOVT 7-10 EUR
+CBE3	CS ETF(IE) IBOXX EUR GOVT 1-3 EUR
+CBE7	CS ETF(IE) IBOXX EUR GVT 3-7 EUR
+CBG	Close Brothers Group Plc
+CBIE	CS ETF [Ie] Plc
+CBIU	CS ETF [Ie] Plc
+CBKD	COMMERCIAL INTL BANK(EGYPT)S.A.E GDR EACH REPR 1 ORD EGP10 REG`S`
+CBQS	COMMERCIAL BANK OF QATAR GDR EACH REPR 0.20 ORD `REGS`
+CBR1	CS ETF(IE) MSCI BRAZIL USD(GBP)
+CBU0	CS ETF(IE) IBOXX USD GOVT 7-10 USD
+CBU3	CS ETF(IE) IBOXX USD GOVT 1-3 USD
+CBU7	CS ETF(IE) IBOXX USD GOVT 3-7 USD
+CCAP	Charlemagne Capital Limited
+CCC	Computacenter Plc
+CCE	Camco Clean Energy Plc
+CCH	Coca-Cola Hbc Ag
+CCL	Carnival Plc
+CCL1	CS ETF(IE) MSCI CHILE USD(GBP)
+CCP	Celtic Plc
+CCPA	Celtic Plc
+CCPC	Celtic Plc
+CCPE	Cvc Credit Partners Euro
+CCPG	Cvc Credit Partners Euro
+CCR	C&C Group Plc
+CCS1	CS ETF(IE) CSI 300 USD(GBP)
+CCSI	CS ETF [Ie] Plc
+CCT	Character Group Plc
+CDC	Copper Development Corporation
+CDFF	Cardiff Property Plc
+CDI	Candover Investments Plc
+CDY	Casdon Plc
+CE01	CS ETF(IE) IBOXX EUR GOVT 7-10 EUR(GBP)
+CEA1	CS ETF(IE) MSCI EM ASIA USD(GBP)
+CEB	Clean Energy Brazil Plc
+CEBA	Nationwide Building Society
+CEBB	Nationwide Building Society
+CECL	Lyxor International Asse
+CEIR	COMPAL ELECTRONICS INC GDR EACH REPR 5 ORD SHS `REG S`
+CEL1	CS ETF(LUX) MSCI EMU LARGE CAP EUR(GBP)
+CEM1	CS ETF(LUX) MSCI EMU MID CAP EUR(GBP)
+CEMA	CS ETF [Ie] Plc
+CEME	CS ETF [Ie] Plc
+CEML	CS ETF [Ie] Plc
+CEN	Centurion Resources Plc
+CEO	Coastal Energy Company
+CEPS	Ceps Plc
+CES1	CS ETF(IE) MSCI EMU SMALL CAP EUR(GBP)
+CEU	CS ETF [Ie] Plc
+CEU1	CS ETF(IE) MSCI EMU EUR(GBP)
+CEUL	CS ETF [Lux]
+CEUM	CS ETF [Lux]
+CEUR	Amundi Investment Solutions
+CEUS	CS ETF [Ie] Plc
+CEY	Centamin Plc
+CF	CANACCORD FINANCIAL INC COM NPV
+CFC	China Food Company Plc
+CFHS	CATHAY FINANCIAL HLDG CO GDR EACH REPR 10 ORD SHS REG`S`(BNY)
+CFR	Amundi Investment Solutions
+CFU	Ceramic Fuel Cells Limited
+CFX	Colefax Group Plc
+CFYN	Caffyns Plc
+CG1	
+CGG	Coburg Group Plc
+CGH	Chaarat Gold Holdings Ltd
+CGI	Canadian General Investments Ld
+CGL	Catlin Group Ltd
+CGNR	Conroy Gold & Natural Resources Plc
+CGOP	China Growth Opportunities Ld
+CGS	Castings Plc
+CGT	Capital Gearing Trust Plc
+CGVD	CROMPTON GREAVES GDR-EACH REPR 5 ORD SHS(REG'S')
+CGW	Chelverton Growth Trust Plc
+CH80	
+CHA	Concha Plc
+CHAR	Chariot Oil & Gas Limited
+CHE	Ojsc Cherkizovo Group
+CHFP	Etfs Foreign Exchange Limited
+CHG	Chemring Group Plc
+CHGB	Etfs Foreign Exchange Limited
+CHGG	CHAGALA GROUP LTD GDR EACH REPR 4 ORD `REGS`
+CHH	Churchill China Plc
+CHL	Churchill Mining Plc
+CHRT	Cohort Plc
+CHW	Chime Communications Plc
+CHZN	CHELIABINSK ELEKTROLIT ZINK PLANT GDR EACH REPR 1 ORD SHS`REGS`
+CIC	Conygar Investment Company Plc [The]
+CICC	Cic Capital Ltd.
+CID1	CS ETF(IE) DOW JONES INDUST AVE TM USD(GBP)
+CIE1	CS ETF(IE) IBOXX EUR INFLATION LKD EUR(GBP)
+CIFU	Carador Income Fund Plc
+CIN	City Of London Group Plc
+CIN1	CS ETF(IE) MSCI INDIA USD(GBP)
+CIND	CS ETF [Ie] Plc
+CINE	Cineworld Group Plc
+CIRC	Circle Holdings Plc
+CIU	Cape Plc
+CIU1	CS ETF(IE) IBOXX USD INFLATION LKD USD(GBP)
+CJPL	CS ETF [Ie] Plc
+CJPS	CS ETF [Ie] Plc
+CKN	Clarkson Plc
+CKR1	CS ETF(IE) MSCI KOREA USD(GBP)
+CLA	Capital Lease Aviation Plc
+CLDN	Caledonia Investments Plc
+CLI	Cls Holdings Plc
+CLIG	City Of London Investment Group Plc
+CLIN	Clinigen Group Plc
+CLL	Cello Group Plc
+CLLN	Carillion Plc
+CLNR	Cluff Natural Resources Plc
+CLON	Clontarf Energy Plc
+CLP	Clear Leisure Plc
+CLTV	Cellcast Plc
+CM1	CS ETF(LUX) MSCI EMERGING MKTS USD(GBP)
+CMB	Cambria Africa Plc
+CMB1	CS ETF(IE) FTSE MIB EUR(GBP)
+CMCG	UBS Ag
+CMCI	UBS Ag
+CMCL	Caledonia Mining Corporation
+CME1	CS ETF(IE) MSCI EM EMEA USD(GBP)
+CMFP	Etfx Fund Company Plc
+CMH	Chamberlin Plc
+CMHY	City Merchants High Yield Trust Limited
+CMI	Ceres Media International Plc
+CMIB	CS ETF [Ie] Plc
+CMIP	Capital Management & Investment Plc
+CML	Cml Microsystems Plc
+CML1	CS ETF(IE) MSCI EM LATIN AMERICA USD(GBP)
+CMS	Communisis Plc
+CMU	Amundi Investment Solutions
+CMX	Catalyst Media Group Plc
+CMX1	CS ETF(IE) MSCI MEXICO CAPPED USD(GBP)
+CMXC	CS ETF [Ie] Plc
+CN2H	CONSOLIDATED 2 1/2% STK
+CN4	CONSOLIDATED 4% LN
+CNA	Centrica Plc
+CNC	Concurrent Technologies Plc
+CNDX	CS ETF [Ie] Plc
+CNE	Cairn Energy Plc
+CNEL	China New Energy Limited
+CNIC	Centralnic Group PLC
+CNKS	Cenkos Securities Plc
+CNKY	CS ETF [Ie] Plc
+CNMI	Camper & Nicholsons Marina Investments L
+CNN	Caledonian Trust Plc
+CNR	Condor Gold Plc
+CNS	Corero Network Security Plc
+CNSD	China Steel Corporation
+CNX1	CS ETF(IE) NASDAQ 100 USD(GBP)
+COAL	Etfx Fund Company Plc
+COAP	Etfx Fund Company Plc
+COB	Cobham Plc
+COCE	UBS Ag
+COCG	UBS Ag
+COCO	Etfs Commodity Securities Limited
+COD	Compagnie De Saint Gobain Sa
+COFF	Etfs Commodity Securities Limited
+COG	Cambridge Cognition Hold
+COLOM20	
+COLT	Colt Group S.A.
+COMF	Etfx Fund Company Plc
+COMS	Coms Plc
+CON	Connemara Mining Company Plc
+COOL	Continental Coal Limited
+COP	Circle Oil Plc
+COPA	Etfs Commodity Securities Limited
+COPG	Societe Generale Effekten Gmbh
+COPU	Societe Generale Effekten Gmbh
+CORN	Etfs Commodity Securities Limited
+CORP	Ishares Plc
+COSG	Multi Units France
+COST	Costain Group Plc
+COTN	Etfs Commodity Securities Limited
+COUK	Multi Units France
+CPBA	Co-Operative Bank Plc
+CPBB	Co-Operative Bank Plc
+CPBC	Co-Operative Bank Plc
+CPEH	China Private Equity Investment Holdings
+CPG	Compass Group Plc
+CPI	Capita Plc
+CPJ1	CS ETF(IE) MSCI PACIFIC EX JPN USD(GBP)
+CPP	Cppgroup Plc
+CPR	Carpetright Plc
+CPS	Cpl Resources Plc
+CPW	Carphone Warehouse Group Plc
+CPX	Cap-Xx Limited
+CPXJ	CS ETF [Ie] Plc
+CQS	Cqs Diversified Fund Limited
+CQSU	Cqs Diversified Fund Limited
+CR3	core vct iii ord gbp0.0001
+CR3B	core vct iii `b`shs gbp0.0001
+CR4	CORE VCT IV PLC ORD GBP0.0001
+CR5	CORE VCT V PLC ORD GBP0.0001
+CRA	Corac Group Plc
+CRAW	Crawshaw Group Plc
+CRBL	Lyxor International Asse
+CRBU	Lyxor International Asse
+CRCL	Caracal Energy Inc.
+CRDA	Croda International Plc
+CRDG	Societe Generale Effekten Gmbh
+CRE	Creston Plc
+CREF	Coalfield Resources PLC
+CREN	Coalfield Resources PLC
+CRES	Coalfield Resources Plc
+CRH	Crh Plc
+CRHL	Creat Resources Holdings Ld
+CRL	Creightons Plc
+CRM	Carr's Milling Industries Plc
+CRND	Central Rand Gold Limited
+CRNE	UBS Ag
+CRNG	UBS Ag
+CRNL	Lyxor International Asse
+CRNO	Lyxor International Asse
+CRNU	UBS Ag
+CRO	Creon Resources Plc
+CRPH	Ishares Vi Plc (The Comp
+CRPR	Cropper [James] Plc
+CRPS	Ishares Plc
+CRS	Crystal Amber Fund Limited
+CRST	Crest Nicholson Holdings
+CRU	Coral Products Plc
+CRU1	CS ETF(IE) MSCI RUSSIA USD(GBP)
+CRUD	Etfs Commodity Securities Limited
+CRV	Craven House Capital Plc
+CRW	Craneware Plc
+CRWN	Crown Place Vct Plc
+CRX	Cyprotex Plc
+CS51	CS ETF(IE) DOW JONES EURO STOX`50` EUR(GBP)
+CSAE	CS ETF [Ie] Plc
+CSAU	CS ETF [Ie] Plc
+CSBR	CS ETF [Ie] Plc
+CSCA	CS ETF [Ie] Plc
+CSCL	CS ETF [Ie] Plc
+CSE1	CS ETF(IE) MSCI EUROPE EUR(GBP)
+CSEM	CS ETF [Lux]
+CSEO	CS ETF [Ie] Plc
+CSEU	CS ETF [Ie] Plc
+CSFF	CS ETF [Ie] Plc
+CSFG	Csf Group Plc
+CSG	Sweett Group Plc
+CSIN	CS ETF [Ie] Plc
+CSJP	CS ETF [Ie] Plc
+CSKR	CS ETF [Ie] Plc
+CSN	Chesnara Plc
+CSP1	CS ETF(IE) S&P 500 USD(GBP)
+CSPX	CS ETF [Ie] Plc
+CSR	Csr Plc
+CSRT	Consort Medical Plc
+CSRU	CS ETF [Ie] Plc
+CSSG	Croma Security Solutions Group Plc
+CSTW	CS ETF [Ie] Plc
+CSUK	CS ETF [Ie] Plc
+CSUS	CS ETF [Ie] Plc
+CSW	Amundi Investment Solutions
+CSWD	CS ETF [Ie] Plc
+CSX5	CS ETF(IE) DOW JONES EURO STOX`50` EUR
+CSZA	CS ETF [Ie] Plc
+CTA	Caterpillar Incorporated
+CTAG	Cloudtag Inc
+CTEK	China Chaintek United Co. Ltd.
+CTG	Christie Group Plc
+CTH	Caretech Holdings Plc
+CTI	Cathay International Holdings Ld
+CTO	Clarke [T.] Plc
+CTR	Charles Taylor Plc
+CTW1	CS ETF(IE) MSCI TAIWAN USD(GBP)
+CTY	City Of London Investment Trust Plc
+CU01	CS ETF(IE) IBOXX USD GOVT 7-10 USD(GBP)
+CU1	CS ETF(IE) MSCI USA USD(GBP)
+CU71	CS ETF(IE) IBOXX USD GOVT 3-7 USD(GBP)
+CUK	Amundi Investment Solutions
+CUKL	CS ETF [Ie] Plc
+CUKS	CS ETF [Ie] Plc
+CUKX	CS ETF [Ie] Plc
+CUL1	CS ETF(IE) MSCI USA LARGE CAP USD(GBP)
+CUP	Cupid Plc
+CUS1	CS ETF(IE) MSCI USA SMALL CAP USD(GBP)
+CUSL	CS ETF [Ie] Plc
+CUSS	CS ETF [Ie] Plc
+CV3H	CONVERSION 3.5% LN
+CVB	Coventry Building Society
+CVBP	Coventry Building Society
+CVR	Conviviality Retail Plc
+CVSG	Cvs Group Plc
+CWC	Cable & Wireless Communications Plc
+CWD	Countrywide Plc
+CWD1	CS ETF(IE)PLC MSCI WORLD GBP
+CWE	Amundi Investment Solutions
+CWF	Amundi Investment Solutions
+CWK	Cranswick Plc
+CWR	Ceres Power Holdings Plc
+CXM	Conexion Media Group Plc
+CYAN	Cyan Holdings Plc
+CYN	City Natural Resources High Yield Trust
+CYNC	City Natural Resources High Yield Trust
+CYS	Chrysalis Vct Plc
+CZA	Coal Of Africa Limited
+CZA1	CS ETF(IE) MSCI SOUTH AFRICA USD(GBP)
+CZB	Commerzbank Ag
+DA1C	DOWNING ABSOLUTE INCOME VCT 1 PLC ORD GBP0.01 C
+DA1O	DOWNING ABSOLUTE INCOME VCT 1 PLC ORD GBP0.50
+DA2A	DOWNING ABSOLUTE INCOME VCT 2 PLC `A` ORD GBP0.001
+DA2O	DOWNING ABSOLUTE INCOME VCT 2 PLC ORD GBP0.001
+DAB	Dexion Absolute Ltd
+DABE	Dexion Absolute Ltd
+DABU	Dexion Absolute Ltd
+DAIP	Daily Internet Plc
+DAN	Daniel Stewart Securities Plc
+DAY	Daisy Group Plc
+DBRC	Ishares II Plc
+DCC	Dcc Plc
+DCD	Dcd Media Plc
+DCG	Dairy Crest Group Plc
+DCI	Dolphin Capital Investors Limited
+DCP	Diamondcorp Plc
+DDD	DDD Group Plc
+DDV1	AIM DISTRIBUTION TRUST ORD GBP0.25
+DEB	Debenhams Plc
+DEGOV01	
+DEIN	Ishares II Plc
+DEL2	ETFS FUND COMPANY PLC DAX 2X LONG FD SHS EUR(EUR)
+DEMG	Deltex Medical Group Plc
+DEMV	Ossiam Lux
+DES	Desire Petroleum Plc
+DES2	ETFS FUND COMPANY PLC DAX 2X SHORT FD SHS EUR(EUR)
+DGB	Digital Barriers Plc
+DGE	Diageo Plc
+DGED	Diageo Plc
+DGO	Dragon Oil Plc
+DGS	Digital Globe Services
+DH2O	EUROPEAN EXCHANGE-TRADED FUND CO ISHARES S&P GLOBAL WATER USD
+DIA	Dialight Plc
+DIG	Dunedin Income Growth Investment Trust P
+DIGS	Gcp Student Living Plc
+DIL	Damille Investments Limited
+DISG	Multi Units Luxembourg
+DISW	Multi Units Luxembourg
+DIV	Multi Units France
+DIVI	Diverse Income Trust [The] Plc
+DIVO	Downing Income Vct Plc
+DJAN	Daejan Holdings Plc
+DJEL	Lyxor International Asse
+DJMC	Ishares Plc
+DJSC	Ishares Plc
+DJUB	Barclays Bank Plc
+DKL	Dekeloil Public Limited
+DKUS	FTSE Nasdaq Dubai Kuwait 15 Shariah Inde
+DKUW	FTSE Nasdaq Dubai Kuwait 15 Index
+DL2P	ETFS FUND COMPANY PLC DAX 2X LONG FD SHS EUR(GBP)
+DLAR	De La Rue Plc
+DLC	Delcam Plc
+DLG	Direct Line Insurance Gr
+DLN	Derwent London Plc
+DLTM	Ishares II Plc
+DMGO	Daily Mail & General Trust Plc
+DMGT	Daily Mail & General Trust Plc
+DNA	Doric Nimrod Air One Limited
+DNDL	Dunedin Smaller Companies Investment Tru
+DNE	Dunedin Enterprise Investment Trust Plc
+DNLM	Dunelm Group Plc
+DNO	Domino Printing Sciences Plc
+DNRG	Ishares II Plc
+DO1A	DOWNING STRUCTURED OPPS VCT 1 PLC CLASS`A`SHS GBP0.001
+DO1O	DOWNING STRUCTURED OPPS VCT 1 PLC ORD GBP0.001
+DODS	Dods [Group] Plc
+DOM	Domino's Pizza Group Plc
+DOR	Doriemus Plc
+DOTD	Dotdigital Group Plc
+DOW	DOW Chemical Company
+DP2C	DOWNING PROTECTED VCT II `C` SHS GBP0.001
+DP2E	DOWNING PLANNED EXIT VCT 2 PLC `E` SHS GBP0.001
+DP3D	DOWNING PLANNED EXIT VCT 3 PLC `D` SHS GBP0.001
+DP9A	DOWNING PROTECTED VCT IX PLC `A` ORD GBP0.001
+DPH	Dechra Pharmaceuticals Plc
+DPLM	Diploma Plc
+DPP	Dp Poland Plc
+DPV6	DOWNING PROTECTED VCT VI PLC ORD GBP0.001
+DPV7	DOWNING PROTECTED VCT VII PLC ORD GBP0.001
+DPV8	DOWNING PROTECTED VCT VIII PLC ORD GBP0.001
+DPV9	DOWNING PROTECTED VCT IX PLC ORD GBP0.001
+DPW	Dp World Limited
+DQAS	FTSE Nasdaq Dubai Qatar 10 Shariah Index
+DQAT	FTSE Nasdaq Dubai Qatar 10 Index
+DQE	Dq Entertainment Plc
+DREF	Duet Real Estate Finance Limited
+DRG	Draganfly Investments Limited
+DRS	Drs Data & Research Services Plc
+DRTY	Darty Plc
+DRV	Driver Group Plc
+DRX	Drax Group Plc
+DS2P	ETFS FUND COMPANY PLC DAX 2X SHORT FD SHS EUR(GBP)
+DSC	Development Securities Plc
+DSG	Dillistone Group Plc
+DSN	Densitron Technologies Plc
+DTC	Datatec Limited
+DTG	Dart Group Plc
+DTL	Dexion Trading Ld
+DTY	Dignity Plc
+DUAE	FTSE Nasdaq Dubai Uae 20 Index USD
+DUAED	FTSE Nasdaq Dubai Uae 20 Index Aed
+DUPD	Dragon-Ukrainian Properties & Developmen
+DVO	Devro Plc
+DVW	Dee Valley Group Plc
+DVWA	Dee Valley Group Plc
+DWHA	Dewhurst Plc
+DWHT	Dewhurst Plc
+DWOD	Ishares II Plc
+DXNS	Dixons Retail Plc
+DY89	UK TREASURY STRIP UK TREASURY STRIP 7/3/2014 COUPON
+DY92	UK TREASURY STRIP UK TREASURY STRIP 7/9/2015 COUPON
+DY96	UK TREASURY STRIP UK TREASURY STRIP 7/9/2017 COUPON
+DY97	UK TREASURY STRIP UK TREASURY STRIP 7/3/2018 COUPON
+DY98	UK TREASURY STRIP UK TREASURY STRIP 7/9/2018 COUPON
+DY99	UK TREASURY STRIP UK TREASURY STRIP 7/3/2019 COUPON
+DZ00	UK TREASURY STRIP UK TREASURY STRIP 7/9/2019 COUPON
+DZ01	UK TREASURY STRIP UK TREASURY STRIP 7/3/2020 COUPON
+DZ02	UK TREASURY STRIP UK TREASURY STRIP 7/9/2020 COUPON
+DZ03	UK TREASURY STRIP UK TREASURY STRIP 7/3/2021 COUPON
+E0500	FTSEurofirst Oil & Gas
+E0EU	
+E0RA	
+E0UK	
+E1300	FTSEurofirst Chemicals
+E1700	FTSEurofirst Basic Resources
+E1X	FTSE Eurotop 100
+E2300	FTSEurofirst Construction & Materials
+E2700	FTSEurofirst Industrial Goods & Services
+E2V	E2V TECHNOLOGIES ORD GBP0.05
+E3300	FTSEurofirst Automobiles & Parts
+E3500	FTSEurofirst Food & Beverage
+E3700	FTSEurofirst Personal & Household Goods
+E3X	FTSE Eurotop 300
+E3X0001	FTSE EFST300 Oil & Gas
+E3X0530	FTSE EFST300 Oil & Gas Producers
+E3X0570	FTSE EFST300 Oil Equipment Services
+E3X1000	FTSE EFST300 Basic Materials
+E3X1350	FTSE EFST300 Chemicals
+E3X1750	FTSE EFST300 Industrial Metals
+E3X1770	FTSE EFST300 Mining
+E3X2000	FTSE EFST300 Industrials
+E3X2350	FTSE EFST300 Construction & Materials
+E3X2710	FTSE EFST300 Aerospace & Defence
+E3X2720	FTSE EFST300 General Industrials
+E3X2730	FTSE EFST300 Electronic & Electrical Equipment
+E3X2750	FTSE EFST300 Industrial Engineering
+E3X2770	FTSE EFST300 Industrial Transportation
+E3X2790	FTSE EFST300 Support Services
+E3X3000	FTSE EFST300 Consumer Goods
+E3X3350	FTSE EFST300 Automoblie & Parts
+E3X3530	FTSE EFST300 Beverages
+E3X3570	FTSE EFST300 Food Producers
+E3X3720	FTSE EFST300 Household Goods
+E3X3760	FTSE EFST300 Personal Goods
+E3X3780	FTSE EFST300 Tobacco
+E3X4000	FTSE EFST300 Healthcare
+E3X4530	FTSE EFST300 Healthcare Equipment & Service
+E3X4570	FTSE EFST300 Pharmaceuticals & Biotechnology
+E3X5000	FTSE EFST300 Consumer Services
+E3X5330	FTSE EFST300 Food & Drug Retailers
+E3X5370	FTSE EFST300 General Retailers
+E3X5550	FTSE EFST300 Media
+E3X5750	FTSE EFST300 Travel & Leisure
+E3X6000	FTSE EFST300 Telecommunications
+E3X6530	FTSE EFST300 Fixed Line Telecommunications
+E3X6570	FTSE EFST300 Mobile Telecommunications
+E3X7000	FTSE EFST300 Utilities
+E3X7530	FTSE EFST300 Electricity
+E3X7570	FTSE EFST300 Gas Water & Utilities
+E3X8000	FTSE EFST300 Finanicals
+E3X8350	FTSE EFST300 Banks
+E3X8530	FTSE EFST300 Non-Life Insurance
+E3X8570	FTSE EFST300 Life Insurance
+E3X8670	
+E3X8770	FTSE EFST300 General Financial
+E3X9000	FTSE EFST300 Technology
+E3X9530	FTSE EFST300 Software & Computer Services
+E3X9570	FTSE EFST300 Technology Hardware & Equipment
+E4500	FTSEurofirst Health Care
+E5300	FTSEurofirst Retail
+E5500	FTSEurofirst Media
+E5700	FTSEurofirst Travel & Leisure
+E6500	FTSEurofirst Telecommunications
+E7500	FTSEurofirst Utilities
+E8300	FTSEurofirst Banks
+E8500	FTSEurofirst Insurance
+E8600	
+E8700	FTSEurofirst Financial Services
+E9500	FTSEurofirst Technology
+EAH	Eco Animal Health Group Plc
+EAPSIV	FTSE KLD Europe Asia Pacific Sustain Iop
+EAS	Energy Assets Group Plc
+EAST	Eastpharma Ltd
+EAT	European Assets Trust Nv
+EB0500	FTSEurofirst Euro Oil & Gas
+EB1300	FTSEurofirst Euro Chemicals
+EB1700	FTSEurofirst Euro Basic Resources
+EB1X	FTSE Euro 100
+EB2300	FTSEurofirst Euro Construction & Materia
+EB2700	FTSEurofirst Euro Industrial Goods & Ser
+EB3300	FTSEurofirst Euro Automobiles & Parts
+EB3500	FTSEurofirst Euro Food & Beverage
+EB3700	FTSEurofirst Euro Personal & Household G
+EB4500	FTSEurofirst Euro Health Care
+EB5300	FTSEurofirst Euro Retail
+EB5500	FTSEurofirst Euro Media
+EB5700	FTSEurofirst Euro Travel & Leisure
+EB6500	FTSEurofirst Euro Telecommunications
+EB7500	FTSEurofirst Euro Utilities
+EB8300	FTSEurofirst Euro Banks
+EB8500	FTSEurofirst Euro Insurance
+EB8600	
+EB8700	FTSEurofirst Euro Financial Services
+EB9500	FTSEurofirst Euro Technology
+EBGOV01	
+EBGOV03	
+EBGOV05	
+EBGOV07	
+EBGOV10	
+EBGOV30	
+EBMC	Bnp Paribas Energy-Base Metals [3]
+EBQ	Ebiquity Plc
+ECAP	Elephant Capital Plc
+ECDC	European Convergence Development Company
+ECK	Eckoh Plc
+ECM	Electrocomponents Plc
+ECR	Ecr Minerals Plc
+ECV	Eco City Vehicles Plc
+ECWL	Ecofin Water & Power Opportunities Plc
+ECWO	Ecofin Water & Power Opportunities Plc
+ECWZ	EW&Po Finance Plc
+ECX	Eastcoal Inc.
+EDCL	Eurasia Drilling Company
+EDEN	Eden Research Plc
+EDG	Edge Resources Inc
+EDGC	Edge Performance Vct Plc
+EDGD	Edge Performance Vct Plc
+EDGE	Edge Performance Vct Plc
+EDHAPAC	FTSE Edhec Risk Asia/Pacific
+EDHAPXJ	FTSE Edhec Risk Asia/Pacific Ex JP
+EDHAW	FTSE Edhec Risk All World
+EDHAWXUK	FTSE Edhec Risk All Ex UK
+EDHAWXUS	FTSE Edhec Risk All Ex US
+EDHDAXJ	FTSE Edhec-Risk Efficient Developed Asia
+EDHDEUR	FTSE Edhec Risk Dvlp EUR
+EDHDEUXU	FTSE Edhec Risk Dvlp EUR Ex UK
+EDHDEV	FTSE Edhec Risk Dvlp
+EDHDXJ	FTSE Edhec Risk Eff Dev Japan
+EDHEBLOC	FTSE Edhec-Risk Efficient Eurobloc Index
+EDHEMER	FTSE Edhec Risk Emerging
+EDHJPN	FTSE Edhec Efficient Japan
+EDHUK	FTSE Edhec Risk UK
+EDHUSA	FTSE Edhec Risk US
+EDIN	Edinburgh Investment Trust Plc
+EDL	Edenville Energy Plc
+EDP	Electronic Data Processing Plc
+EDR	Egdon Resources Plc
+EDV	Elderstreet Vct Plc
+EDVD	SSGA SPDR Etfs Europe I Plc
+EEMB	Ishares II Plc
+EEP	Eastern European Property Fund Limited
+EEUI	FTSE Epra/Nareit Developed EMEA Index
+EEX5	ISHARES III PLC BARCLAYS EURO CORP BD EX-FINLS 1-5(GBP)
+EEXF	Ishares III Plc
+EF80	FTSE Eurofirst 80
+EFC1	FTSE Eurofirst 100
+EFGD	EFG HERMES HLDGS GDR EACH REPR 2 ORD EGP5 REG`S(SPON)
+EFM	Edinburgh Dragon Trust Plc
+EFMC	Edinburgh Dragon Trust Plc
+EGAS	Epra Asia Index [Eur]
+EGI	Electrical Geodesics In
+EGIL	Ishares III Plc
+EGNA	Epra North America Index
+EGS	EG Solutions Plc
+EGXU	Epra/Nareit Global [Ex Us] Index
+EGYPT30	
+EGYPT30U	
+EHP	Epistem Holdings Plc
+EIB	European Investment Bank
+EIF	Enhanced Income
+EIIB	European Islamic Investment Bank Plc
+EIT	Enables It Group Plc
+EKF	Ekf Diagnostics Holdings Plc
+EKT	Elektron Technology Plc
+ELA	Eland Oil & Gas Plc
+ELAU	Epra Australia Index
+ELCO	Eleco Plc
+ELE	Electric Word Plc
+ELHK	Epra Hong Kong Index
+ELJP	Epra Japan Index
+ELLA	Ecclesiastical Insurance Office Plc
+ELM	Elementis Plc
+ELR	Eastern Platinum Limited
+ELTA	Electra Private Equity Plc
+ELTC	Electra Private Equity Plc
+ELTZ	Electra Private Equity Investments Plc
+ELUK	Epra UK Index
+ELX	El Oro Ltd
+EMAD	SSGA SPDR Etfs Europe I Plc
+EMAS	SSGA SPDR Etfs Europe I Plc
+EMBE	Ishares Vi Plc (The Comp
+EMCB	SSGA SPDR Etfs Europe I
+EMCO	SSGA SPDR Etfs Europe I
+EMCP	Ishares V Public Limited Company
+EMCR	Ishares V Public Limited Company
+EMDD	SSGA SPDR Etfs Europe I Plc
+EMDL	SSGA SPDR Etfs Europe I Plc
+EMDV	SSGA SPDR Etfs Europe I Plc
+EME	Empyrean Energy Plc
+EMEA40CE	
+EMEA40CU	
+EMED	Emed Mining Public Ld
+EMEO	SSGA SPDR Etfs Europe I Plc
+EMG	Man Group Plc
+EMIL	SSGA SPDR Etfs Europe I
+EMIN	SSGA SPDR Etfs Europe I
+EMIS	Emis Group Plc
+EMLA	SSGA SPDR Etfs Europe I Plc
+EMLB	Pimco Fixed Income Source Etfs Plc
+EMLD	SSGA SPDR Etfs Europe I Plc
+EMMV	Ishares Vi Plc (The Comp
+EMOD	SSGA SPDR Etfs Europe I Plc
+EMR	Empresaria Group Plc
+EMRD	SSGA SPDR Etfs Europe I Plc
+EMRG	SSGA SPDR Etfs Europe I Plc
+EMSD	SSGA SPDR Etfs Europe I Plc
+EMSM	SSGA SPDR Etfs Europe I Plc
+EMUE	SSGA SPDR Etfs Europe I
+EMV	Ishares Vi Plc (The Comp
+ENA3	
+ENAD	Epra/Nareit Asia Index [Us Version]
+ENDEM	FTSE Epra/Nareit Developed Ex Mea Index
+ENDP	FTSE Epra Europe Ex UK Dividend +
+ENDV	Endeavour International Corporation
+ENEA	FTSE Epra/Nareit Emer Asia Pac Index
+ENEE	FTSE Epra/Nareit Europe Non-Reit
+ENEF	Etfs Commodity Securities Limited
+ENEG	Enegi Oil Plc
+ENEI	FTSE Epra/Nareit Emerging Index
+ENEL	FTSE Epra/Nareit Emer Americas Index
+ENEM	FTSE Epra/Nareit Emerging EMEA Index
+ENEU	FTSE Epra/Nareit Emerging Europe Index
+ENGD	Epra/Nareit Global Index
+ENGI	Energiser Investments Plc
+ENGL	Epra Global Index
+ENHA	FTSE Epra/Nareit Americas Index
+ENHE	FTSE Epra/Nareit Global Ex US Index
+ENHG	FTSE Epra/Nareit Global Index
+ENHM	FTSE Epra/Nareit Middle East And Africa
+ENHN	FTSE Epra/Nareit EMEA Index
+ENHP	FTSE Epra/Nareit Asia Pacific Index
+ENHU	FTSE Epra/Nareit Europe Index
+ENME	FTSE Epra/Nareit Emer M East&Africa Idx
+ENQ	Enquest Plc
+ENRC	Eurasian Natural Resources Corporation P
+ENRG	UBS Ag
+ENRT	Environmental Recycling Tech. Plc
+ENUD	Epra/Nareit US Index
+ENV	Enova Systems Inc
+EO100	
+EOAIM	FTSE Evm Opport Aim Index
+EOAP	FTSE Evm Opport Asia Pac Index
+EOAS	FTSE Env Opp All-Shares Idx
+EOAX	FTSE Evm Opport Asia Pac Ex-Japan Index
+EOEE	FTSE Env Opp Energy Eff Idx
+EOEE50	
+EOEU	FTSE Evm Opport Europe Index
+EOG	Europa Oil & Gas [Holdings] Plc
+EOJP	FTSE Evm Opportjapan Index
+EORE	FTSE Env Opp Re+Alt Energy Eff Idx
+EORE50	
+EOS	Espirito Santo Financial
+EOUK	FTSE Evm Opport UK Index
+EOUS	FTSE Evm Opport US Index
+EOWP	FTSE Env Opp Waste+Pollution Control Idx
+EOWP30	
+EOWR	FTSE Env Opp Water Tech Index
+EOWR30	
+EPEU	Epra Euro Zone Index
+EPG	Ep Global Opportunities Trust Plc
+EPHG	Epra Europe [Uk Restricted] Index
+EPIS	EPISTAR CORP GDR EACH REPR 5 SHS `REG S`
+EPL	Economic Lifestyle Property Investment C
+EPO	Earthport Plc
+EPRA	Epra Europe Index
+EQQQ	Powershares Glbal Funds Ireland Plc
+ERE	Eredene Capital Plc
+EREE	FTSE Epra/Nareit Europe REIT
+ERET	European Real Estate Inv
+ERII	European Residual Income Investments Cel
+ERM	Euromoney Institutional Investor Plc
+EROS	Eros International Plc
+ESCH	Escher Group Holdings Public Limited Com
+ESG	Eservglobal Limited
+ESGOV01	
+ESM	Amundi Investment Solutions
+ESNT	Essentra Plc
+ESO	Epe Special Opportunities Plc
+ESR	Ensor Holdings Plc
+ESS	Essenden Plc
+ESSR	Essar Energy Plc
+ESSU	UBS Ag
+ESUR	Esure Group Plc
+ET	Establishment Investment Trust
+ET50	
+ETI	Enterprise Inns Plc
+ETLN	
+ETO	Entertainment One Limited
+ETQ	Energy Technique Plc
+ETX	E-Therapeutics Plc
+EUA	Eurasia Mining Plc
+EUCF	Ishares Vi Plc (The Comp
+EUDI	SSGA SPDR Etfs Europe I Plc
+EUDV	SSGA SPDR Etfs Europe I Plc
+EUE	Ishares II Plc
+EUMV	Ossiam Lux
+EUN	Ishares II Plc
+EUP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X LONG EUR SHORT GBP
+EURCORPA	
+EURO	SSGA SPDR Etfs Europe I
+EURP	Etfs Foreign Exchange Limited
+EUT	The European Investment Trust Plc
+EVO	Evocutis Plc
+EVR	Evraz Plc
+EWG	EW Group Limited
+EWI	Edinburgh Worldwide Investment Trust Plc
+EWR	East West Resources Plc
+EX12	EXCHEQUER 12% STK 2013/17
+EXEF	Etfs Commodity Securities Limited
+EXI	Exillon Energy Plc
+EXPN	Experian Plc
+EXUK	Epra Europe Ex UK Index
+EZJ	Easyjet Plc
+FAGR	Etfs Commodity Securities Limited
+FAIG	Etfs Commodity Securities Limited
+FAS	Fidelity Asian Values Plc
+FASS	Fidelity Asian Values Plc
+FAST	Fastnet Oil & Gas Plc
+FAUSA	FTSE Asfa Australia All-Share Index
+FAUSLC	FTSE Asfa Australia Large Cap 50 Index
+FAUSLMC	FTSE Asfa Australia 200 Index
+FAUSMC	FTSE Asfa Australia Mid Cap 150 Index
+FAUSO	FTSE Asfa Australia 100 Index
+FAUSSC	FTSE Asfa Australia Small Cap Index
+FAUST	FTSE Asfa Australia 300 Index
+FAUSX	FTSE Asfa Australia All-Share Ex 100 Ind
+FBDU	Flying Brands Ld
+FBH	Fbd Holdings Plc
+FBM100	
+FBM70	
+FBMAPM	FTSE Bursa Malaysia Asian Palm Oil Plant
+FBMAPU	FTSE Bursa Malaysia Asian Palm Oil Plant
+FBMEMAS	FTSE Bursa Malaysia Emas Index
+FBMFLG	FTSE Bursa Malaysia Fledgling Index
+FBMHS	FTSE Bursa Malaysia Hijrah Shar
+FBMKLCI	FTSE Bursa Malaysia Klci
+FBMMES	FTSE Bursa Malaysia Mesdaq Index
+FBMPM	FTSE Burse Malaysia Palm Oil Plant Index
+FBMS	FTSE Bursa Malaysia Emas Shariah Indexi
+FBMSCAP	FTSE Bursa Malaysia Small Cap Index
+FBND	FUBON FINANCIAL HLDGS CO GDR EACH REP 10 ORD REG`S
+FBRIC	FTSE BRIC 50 Index
+FBRT	Etfs Commodity Securities Limited
+FBT	Forbidden Technologies Plc
+FCAM	F&C Asset Management Plc
+FCAP	Frm Credit Alpha Limited
+FCCN	French Connection Group Plc
+FCI	F&C Capital & Income Investment Trust Pl
+FCNBCA	
+FCNBCG	
+FCPT	F&C Commercial Property Trust Limited
+FCR	Ferrum Crescent Limited
+FCRE	F&C UK Real Estate Inves
+FCRM	Fulcrum Utility Services Ld
+FCRU	Etfs Commodity Securities Limited
+FCS	F&C Global Smaller Companies Plc
+FCSE	FTSE Cse Morocco 15 Index
+FCSELIQ	FTSE Cse Morocco All-Liquid Index
+FCSS	Fidelity China Special Situations Plc
+FDBK	Feedback Plc
+FDEV	Frontier Developments Pl
+FDI	Firestone Diamonds Plc
+FDL	Findel Plc
+FDP	First Derivatives Plc
+FDSA	Fidessa Group Plc
+FEC	FAR EASTONE TELECOMMUNICATIONS GDR EACH REPR 15 ORD SHS`REGS`
+FEDS	Federal Bank Limited (Th
+FEM	First Trust Global Funds
+FEN	Frenkel Topping Group Plc
+FENR	Fenner Plc
+FEP	Forum Energy Plc
+FETD	FAR EASTERN TEXTILE GDS EACH REPR 10 ORD SHS REGS
+FEV	Fidelity European Values Plc
+FEX	First Trust Global Funds
+FF50	FTSE Frontier 50 Index
+FFY	Fyffes Plc
+FGP	Firstgroup Plc
+FGT	Finsbury Growth & Income Trust Plc
+FH01	FTSE Hang Seng Asiatop
+FH02	
+FIF	Finsbury Food Group Plc
+FIGOV01	
+FII3	
+FIND	Etfs Commodity Securities Limited
+FING	Multi Units Luxembourg
+FINU	Lyxor International Asse
+FINW	Multi Units Luxembourg
+FIP	Fusion Ip Plc
+FIPP	Frontier Ip Group Plc
+FITB	Fitbug Holdings Plc
+FIVE	X5 Retail Group N.V
+FJET	Fastjet Plc
+FJV	Fidelity Japanese Values Plc
+FKE	Fiske Plc
+FKL	Falkland Islands Holdings Plc
+FKU	First Trust Global Funds
+FLIV	Etfs Commodity Securities Limited
+FLK	Fletcher King Plc
+FLKS	FTSE Lujain Kuwait Shariah Index
+FLKW	FTSE Lujain Kuwait Index
+FLOW	Flowgroup Plc
+FLX	Falanx Group Limited
+FLYB	Flybe Group Plc
+FML	Frontier Mining Ltd
+FMPG	F&C Managed Portfolio Trust Plc
+FMPI	F&C Managed Portfolio Trust Plc
+FN10	
+FN11	
+FN12	
+FN13	
+FN13C	
+FN14	
+FN15	
+FN16	
+FN17	
+FN17C	
+FN18	
+FN19	
+FN20	
+FN20C	
+FN21	
+FN22	
+FN23	
+FN24	
+FN26	
+FN42	
+FN43	
+FNAR	FTSE Nareit All Reits
+FNCO	FTSE Nareit Composite
+FNER	FTSE Nareit Equity Reits
+FNMR	FTSE Nareit Mortgage Reits
+FNMRC	FTSE Nareit All Mortgage Capped Index
+FNR5	
+FNRE	FTSE Nareit Equity
+FOG	Falcon Oil & Gas Ltd.
+FOGL	Falkland Oil And Gas Limited
+FOOD	UBS Ag
+FOUR	4Imprint Group Plc
+FOX	Fox Marble Holdings Plc
+FPEO	F&C Private Equity Trust Plc
+FPET	Etfs Commodity Securities Limited
+FPEZ	F&C Private Equity Zeros Plc
+FPM	Faroe Petroleum Plc
+FPO	First Property Group Plc
+FQM	First Quantum Minerals Ltd
+FR10	
+FR100001	
+FR101000	
+FR102000	
+FR103000	
+FR104000	
+FR105000	
+FR106000	
+FR107000	
+FR108000	
+FR15	
+FR20	
+FR30	
+FRAU200	
+FRAW3	
+FRBRIC	FTSE Rafi BRIC Index
+FRCAN	FTSE Rafi Canada Index
+FRCHEN	FTSE Rafi Switzerland Index
+FRCL	Foreign & Colonial Investment Trust Plc
+FRD	FTSE Rafi Dev 1000 Idx
+FRDAPXJ	FTSE Rafi Dev Asia/Pac Ex Japan
+FRDAPXJN	FTSE Rafi Dev Asia Pacific Ex Jap Net In
+FRDMS	FTSE Rafi Developed Mid Small 1500
+FREM	FTSE Rafi Emerging Index
+FREMN	FTSE Rafi Emer Nt Index
+FRES	Fresnillo Plc
+FREU	FTSE Europe Index
+FREZ	FTSE Rafi Eurozone Index
+FRGBR1	
+FRGOV01	
+FRHKG	FTSE Rafi Hong Kong/China Index
+FRI	Frontier Resources Inter
+FRITA3	
+FRJPN	FTSE Rafi Japan Index
+FRJPNUH	FTSE Rafi Japan Index [Cad]
+FRM	Formation Group Plc
+FRND	FTSE Rafi Nordic Index
+FRO	Frontline Ld
+FRP	Fairpoint Group Plc
+FRR	Frontera Resources Corporation
+FRSDEURN	FTSE Rafi Dveu Net Index
+FRSDEURS	FTSE Rafi Developed Europe Mid Small
+FRSDPXJ	FTSE Rafi Developed Asia Pacific Ex Japa
+FRSDXUS	FTSE Rafi Developed Ex US Mid Small 1500
+FRSDXUSN	FTSE Rafi Dev Ex US Ms Index
+FRSWE100	
+FRSWEAC	FTSE Rafi Sweden All Cap Index
+FRTW100	
+FRTW50	
+FRUR	FTSE Rafi US 100 Real Estate Index
+FRX	Ferrex Plc
+FRX1	
+FRX1C	
+FRXR	FTSE Rafi Global Ex US Real Estate
+FSC	F&C U.S. Smaller Companies Plc
+FSJ	Fisher [James] & Sons Plc
+FSTA	Fuller Smith & Turner Plc
+FSTAM	FTSE ST Maritime Index
+FSTAS	
+FSTC	FTSE ST China Index
+FSTCT	FTSE UK Dividend+ Index
+FSTF	FTSE ST Fledgling Index
+FSTHA	FTSE Set All Shares Index
+FSTHF	FTSE Set Fledgling Index
+FSTHL	FTSE Set Large Cap Index
+FSTHM	FTSE Set Mid Cap Index
+FSTHMS	FTSE Set Mid Small Cap Index
+FSTHS	FTSE Set Small Cap Index
+FSTICA	FTSE ST Catalist Index
+FSTM	FTSE ST Mid Cap Index
+FSTS	FTSE ST Small Cap Index
+FSTSH	FTSE Set Shariah Index
+FSV	Fidelity Special Values Plc
+FTAL	SSGA SPDR Etfs Europe I Plc
+FTASBE	FTSE Asian Food & Beverage Index
+FTASCH	FTSE Asian Chemicals Index
+FTC	Filtronic Plc
+FTCOASX	FTSE Cdp Carbon Strategy All-Share Index
+FTCODEUR	FTSE Cdp Carbon Strategy Europe Index
+FTCOJPN	FTSE Cdp Carbon Strategy Japan Index
+FTCONMX	FTSE Cdp Carbon Strategy 350 Index
+FTD	Foresight 3 Vct Plc
+FTE	Forte Energy Nl
+FTECP	FTSE Ecpi Italia Sri Index
+FTECPL	FTSE Ecpi Leaders Index
+FTEMSLU	FTSE Emerging Super Liqu
+FTF	Foresight 4 Vct Plc
+FTFA	FTSE Csag Terror-Free All World Ex US
+FTFC	Foresight 4 Vct Plc
+FTFD	FTSE Csag Terror-Free Developed Ex US
+FTFE	FTSE Csag Terror-Free Emer Idx
+FTN	Foresight 2 Vct Plc
+FTNP	Foresight 2 Vct Plc
+FTO	Fortune Oil Plc
+FTSC	Foresight Solar Vct Plc
+FTSD10	
+FTSD14	
+FTSEMIB	FTSE MIB Index
+FTSEMIBN	FTSE MIB Net Total Return [Lux] Index
+FTSTI	Lse Unknown
+FTSV	Foresight Solar Vct Plc
+FTSWD	FTSE Shariah Developed Europe Index
+FTUGAS	Epra/Nareit Asia Index [Usd]
+FTUKSLSP	FTSE UK Large Cap Super Liquid Expiry Index
+FTUSLU	FTSE USA Super Liquid In
+FTV	Foresight Vct Plc
+FTVP	Foresight Vct Plc
+FUDP	FTSE UK Dividend+ Index
+FUJ	Fujitsu Ld
+FUM	Futura Medical Plc
+FUTR	Future Plc
+FWEB	Fiberweb Plc
+FXC	Ishares Plc
+FXI	Fusionex International P
+FXPO	Ferrexpo Plc
+FXRU	Finex Funds Plc
+G06	FTSE Asia Pac LMS Index
+G07	FTSE Asia Pac LMS ex Japan Index
+G08	FTSE Asia Pac LMS ex Japan India & Pak I
+G09	FTSE Asia Pac LMS ex Jp India Pak Au & N
+G10	FTSE Greater China LMS Index
+G11	FTSE Europe LMS Index
+G12	FTSE Europe LMS ex UK Index
+G13	FTSE Europe LMS ex Eurobloc Index
+G14	FTSE Eurobloc LMS Index
+GACA	General Accident Plc
+GACB	General Accident Plc
+GAH	Gable Holdings Inc.
+GAID	GAIL(INDIA) GDR EACH REP 6 ORD INR10 REG`S`
+GAL	Galantas Gold Corporation
+GAS	Gasol Plc
+GASG	Societe Generale Effekten Gmbh
+GAW	Games Workshop Group Plc
+GAZ	Jsc Gazprom Neft
+GB30	GOLDMAN SACHS & CO WERTPAPIER GMBH REV CNV CERT 28/07/14(FTSE 100 INDEX)GBP
+GB68	GOLDMAN SACHS INTERNATIONAL CERT 18/02/15(FTSE 100 INDEX)GBP
+GB78	GOLDMAN SACHS INTERNATIONAL STRUCT CERT 26/05/16(FTSE 100)BAR 50
+GB82	GOLDMAN SACHS INTERNATIONAL STRUCT CERT 30/06/16(FTSE AND SPX)GBP
+GB95	GOLDMAN SACHS INTERNATIONAL STRUCT CERT 06/02/17(FTSE 100)GBP
+GB97	GOLDMAN SACHS INTERNATIONAL STRUCT CERT 07/02/14(FSTE VS UKGATR )GBP
+GBAU	Etfs Foreign Exchange Limited
+GBCA	Etfs Foreign Exchange Limited
+GBCH	Etfs Foreign Exchange Limited
+GBDV	SSGA SPDR Etfs Europe I
+GBG	Gb Group Plc
+GBJP	Etfs Foreign Exchange Limited
+GBNO	Etfs Foreign Exchange Limited
+GBNZ	Etfs Foreign Exchange Limited
+GBO	Globo Plc
+GBP	Global Petroleum Limited
+GBPCORPA	
+GBPP	Etfs Foreign Exchange Limited
+GBR	Global Brands S.A
+GBRE	SSGA SPDR Etfs Europe I
+GBS	Gold Bullion Securities Ld
+GBSK	Etfs Foreign Exchange Limited
+GBSP	Etfs Hedged Metal Securi
+GBSS	Gold Bullion Securities Ld
+GBUR	Etfs Foreign Exchange Limited
+GBUS	Etfs Foreign Exchange Limited
+GCL	Geiger Counter Limited
+GCLA	Grupo Clarin S.A.
+GCM	Gcm Resources Plc
+GCO	Green Compliance Plc
+GCP	Gcp Infrastructure Investments Limited
+GD07	FTSE Global Energy
+GDG	Green Dragon Gas Ltd.
+GDIV	Etfx Fund Company Plc
+GDL	Greka Drilling Limited
+GDP	Goldplat Plc
+GDWN	Goodwin Plc
+GEC	General Electric Company
+GED	Global Energy Development Plc
+GEEC	Great Eastern Energy Corporation Limited
+GEM	Gemfields Plc
+GEMD	Gem Diamonds Limited
+GENL	Genel Energy Plc
+GFIR	Global Fixed Income Real
+GFM	Griffin Mining Limited
+GFRD	Galliford Try Plc
+GFS	G4S Plc
+GFTU	Grafton Group Plc
+GGP	Greatland Gold Plc
+GHE	Gresham House Plc
+GHH	Gooch & Housego Plc
+GHT	Gresham Computing Plc
+GHYS	Ishares Vi Plc (The Comp
+GILI	Multi Units France
+GILS	Multi Units France
+GKN	Gkn Plc
+GKO	Greenko Group Plc
+GKP	Gulf Keystone Petroleum Ltd
+GLB	Glanbia Plc
+GLDD	UBS Ag
+GLDG	UBS Ag
+GLDV	SSGA SPDR Etfs Europe I
+GLE	Gleeson [M.J.] Group Plc
+GLEN	Glencore Xstrata Plc
+GLIF	Greenwich Loan Income Fund Ld
+GLPR	
+GLR	Galileo Resources Plc
+GLRE	SSGA SPDR Etfs Europe I
+GLTL	SSGA SPDR Etfs Europe I Plc
+GLTR	GLOBALTRANS INVESTMENT PLC GDR EACH REPR 1 ORD `REGS`(WI)
+GLTS	SSGA SPDR Etfs Europe I Plc
+GLTY	SSGA SPDR Etfs Europe I Plc
+GMC	Global Market Group Limited
+GMR	Gaming Realms Plc
+GNC	Greencore Group Plc
+GNG	Geong International Limited
+GNK	Greene King Plc
+GNS	Genus Plc
+GOAL	Goals Soccer Centres Plc
+GOG	Go-Ahead Group Plc
+GOLB	RBS Market Access
+GOLE	Societe Generale Effekten Gmbh
+GOLG	Societe Generale Effekten Gmbh
+GOOD	Good Energy Group Plc
+GPBGI028	
+GPCST001	
+GPE	Graphite Enterprise Trust Plc
+GPFF001	
+GPFF002	
+GPFF003	
+GPFF004	
+GPG	Guinness Peat Group Plc
+GPK	Geopark Holdings Limited
+GPM	Golden Prospect Precious Metals Limited
+GPMS	Golden Prospect Precious Metals Limited
+GPNIKK1	
+GPOR	Great Portland Estates Plc
+GPRT	Goldenport Holdings Inc.
+GPSCW002	
+GPSSG239	
+GPVAN001	
+GPVAN013	
+GPVP002	
+GPVP005	
+GPVP007	
+GPVP009	
+GPVPJP	FTSE Value Stocks Japan Index
+GPX	Gulfsands Petroleum Plc
+GPXIECH1	
+GRA	Grafenia Plc
+GRAF	Etfs Commodity Securities Limited
+GRG	Greggs Plc
+GRI	Grainger Plc
+GRIO	Ground Rents Income Fund Plc
+GRIP	Ground Rents Income Fund
+GRIW	Ground Rents Income Fund Plc
+GRL	Goldstone Resources Limited
+GRN	Green REIT Plc
+GRPH	Graphene Nanochem Plc
+GRTB	GUARANTY TRUST BANK GDR EACH REPR 50 ORD `REGS`
+GSAU	Multi Units Luxembourg
+GSK	Glaxosmithkline Plc
+GSR	Golden Saint Resources L
+GSS	Genesis Emerging Markets Fund Ld
+GTC	Getech Group Plc
+GVC	Gvc Holdings Plc
+GWI	Globalworth Real Estate
+GWMO	Great Western Mining Corporation Plc
+GWP	Gw Pharmaceuticals Plc
+GWUSA	FTSE Gwa US Index
+H50E	HSBC ETFS PLC DJ EURO STOXX 50 ETF
+HAG	Hoang Anh Gia Lai Joint
+HAIK	Haike Chemical Group Ltd
+HALO	Halosource Inc.
+HALP	Halifax Plc
+HALS	Hals-Development Jsc
+HAN	Hansa Trust Plc
+HANA	Hansa Trust Plc
+HAS	Hays Plc
+HAT	H&T Group Plc
+HAWK	Nighthawk Energy Plc
+HAYT	Hayward Tyler Group Plc
+HBRL	HSBC Etfs Plc
+HCAD	HSBC Etfs Plc
+HCAN	HSBC Etfs Plc
+HCFT	Highcroft Investments Plc
+HCL	Hellenic Carriers Limited
+HCM	Hutchison China Meditech Limited
+HCP	Hotel Corporation [The] Plc
+HDD	Hardide Plc
+HDIV	Henderson Diversified Income Limited
+HDT	Holders Technology Plc
+HDY	Hardy Oil & Gas Plc
+HEAD	Headlam Group Plc
+HEAF	Etfs Commodity Securities Limited
+HEAT	Etfs Commodity Securities Limited
+HEFT	Henderson European Focus Trust Plc
+HEGY	Helius Energy Plc
+HER	Herencia Resources Plc
+HFD	Halfords Group Plc
+HFEL	Henderson Far East Income Limited
+HFG	Hilton Food Group Plc
+HGG	Henderson Group Plc
+HGL	Henderson Global Trust Plc
+HGM	Highland Gold Mining Ld
+HGR8	HANGAR 8 PLC ORD GBP0.01
+HGT	Hg Capital Trust Plc
+HHI	Henderson High Income Trust Plc
+HHPD	Hon Hai Precision Indust
+HHR	Helphire Group Plc
+HHV	Hargreave Hale Aim Vct 1 Plc
+HHVT	Hargreave Hale Aim Vct 2 Plc
+HICL	Hicl Infrastructure Company Ld
+HIDD	HSBC Etfs Plc
+HIDR	HSBC Etfs Plc
+HIK	Hikma Pharmaceuticals Plc
+HILS	Hill & Smith Holdings Plc
+HINS	Henderson International Income Trust Plc
+HINT	Henderson International Income Trust Plc
+HIO	Healthcare Investment Op
+HIX	FTSE Actuaries 350 High Yield
+HKOD	HSBC Etfs Plc
+HKOR	HSBC Etfs Plc
+HL	HARGREAVES LANSDOWN PLC ORD GBP0.004 WI
+HLCL	Helical Bar Plc
+HLMA	Halma Plc
+HLTG	Multi Units Luxembourg
+HLTW	Multi Units Luxembourg
+HMB	Hambledon Mining Plc
+HMBR	HSBC Etfs Plc
+HMCD	HSBC Etfs Plc
+HMCH	HSBC Etfs Plc
+HMCX	HSBC Etfs Plc
+HMED	HSBC Etfs Plc
+HMEF	HSBC Etfs Plc
+HMEM	HSBC Etfs Plc
+HMEU	HSBC Etfs Plc
+HMEX	HSBC Etfs Plc
+HMFD	HSBC Etfs Plc
+HMFE	HSBC Etfs Plc
+HMJD	HSBC Etfs Plc
+HMJP	HSBC Etfs Plc
+HMLA	HSBC Etfs Plc
+HMLD	HSBC Etfs Plc
+HMLH	Hml Holdings Plc
+HMSG	Hms Hydraulic Machines &
+HMSO	Hammerson Plc
+HMUD	HSBC Etfs Plc
+HMUS	HSBC Etfs Plc
+HMWD	HSBC Etfs Plc
+HMWO	HSBC Etfs Plc
+HMXD	HSBC Etfs Plc
+HMXJ	HSBC Etfs Plc
+HMYD	HSBC Etfs Plc
+HMYR	HSBC Etfs Plc
+HNE	Henderson Eurotrust Plc
+HNT	Huntsworth Plc
+HOC	Hochschild Mining Plc
+HOGS	Etfs Commodity Securities Limited
+HOIL	Heritage Oil Plc
+HOME	Home Retail Group Plc
+HON	Honeywell International Incorporated
+HOT	Henderson Opportunites Trust Plc
+HOTS	Henderson Opportunites Trust Plc
+HPAC	Hermes Pacific Investmen
+HPRD	HSBC Etfs Plc
+HPRO	HSBC Etfs Plc
+HRCO	Hirco Plc
+HRG	Hogg Robinson Group Plc
+HRI	Herald Investment Trust Plc
+HRN	Hornby Plc
+HRO	H.R. Owen Plc
+HRUB	HSBC Etfs Plc
+HRUD	HSBC Etfs Plc
+HSBA	HSBC Holdings Plc
+HSBK	Jsc Halyk Bank
+HSBR	HSBC Etfs Plc
+HSD	Hansard Global Plc
+HSL	Henderson Smaller Companies Investment T
+HSLE	Harbourvest Senior Loans Europe Ltd
+HSM	Heath [Samuel] & Sons Plc
+HSP	Hargreaves Services Plc
+HSPB	HSBC Etfs Plc
+HSPD	HSBC Etfs Plc
+HSPX	HSBC Etfs Plc
+HSTN	Hansteen Holdings Plc
+HSV	Homeserve Plc
+HSX	Hiscox Ltd
+HTG	Hunting Plc
+HTIG	Hightex Group Plc
+HTRD	HSBC Etfs Plc
+HTRY	HSBC Etfs Plc
+HTWD	HSBC Etfs Plc
+HTWN	HSBC Etfs Plc
+HTY	Hellermanntyton Group Pl
+HUKX	HSBC Etfs Plc
+HUM	Hummingbird Resources Plc
+HUN	Hunter Resources Plc
+HUW	Hampden Underwriting Plc
+HVE	Havelock Europa Plc
+HVN	Harvey Nash Group Plc
+HVPE	Harbourvest Global Private Equity Limite
+HVT	Heavitree Brewery Plc
+HVTA	Heavitree Brewery Plc
+HVTR	Henderson Value Trust Pl
+HWC	Highway Capital Plc
+HWDN	Howden Joinery Group Plc
+HYC	Hyder Consulting Plc
+HYD	Hydro International Plc
+HYDG	Hydrogen Group Plc
+HYDR	RUSHYDRO OJSC GDR EACH REPR 100 ORD  REG-S
+HYG	Hygea Vct Plc
+HYLD	Ishares Plc
+HYNS	Haynes Publishing Group Plc
+HYR	Hydrodec Group Plc
+HYUD	Hyundai Motor Company
+HYUO	HYUNDAI MOTOR CO GDS EACH REPR 0.5 ORD SHARE
+HYUP	HYUNDAI MOTOR CO GDS EACH REP 0.5 PFD N/VTG
+HZAD	HSBC Etfs Plc
+HZAR	HSBC Etfs Plc
+HZM	Horizonte Minerals Plc
+IAAA	Ishares Vi Plc (The Comp
+IACC	Ishares III Plc
+IAE	Ithaca Energy Inc
+IAES	Impax Asian Environmental Markets Plc
+IAEX	Ishares Plc
+IAG	International Consolidated Airlines Grou
+IAP	Icap Plc
+IAPD	Ishares Plc
+IASP	Ishares II Plc
+IAT	Invesco Asia Trust Plc
+IAUP	Ishares V Public Limited Company
+IAUS	Ishares III Plc
+IAUT	Ishares V Public Limited Company
+IBCI	Ishares Plc
+IBCX	Ishares Plc
+IBEL	Ishares V Public Limited Company
+IBEX	Ibex Global Solutions Pl
+IBGE	Ishares III Plc
+IBGL	Ishares II Plc
+IBGM	Ishares II Plc
+IBGS	Ishares Plc
+IBGX	Ishares II Plc
+IBGY	Ishares III Plc
+IBGZ	Ishares III Plc
+IBM	International Business Machines Corporat
+IBPO	Ienergizer Ld
+IBT	International Biotechnology Trust Plc
+IBTM	Ishares II Plc
+IBTS	Ishares Plc
+IBZL	Ishares Plc
+ICAN	Ishares III Plc
+ICGC	Irish Continental Group Plc
+ICOV	Ishares III Plc
+ICP	Intermediate Capital Group Plc
+ICTA	Investors Capital Trust Plc
+ICTB	Investors Capital Trust Plc
+ICTU	Investors Capital Trust Plc
+IDAP	Ishares Plc
+IDAR	Ishares II Plc
+IDBT	Ishares Plc
+IDBZ	Ishares Plc
+IDEA	Ideagen Plc
+IDEE	Ishares Plc
+IDEM	Ishares Plc
+IDEU	Ishares V Public Limited Company
+IDFE	Ishares II Plc
+IDFF	Ishares Plc
+IDFX	Ishares Plc
+IDH	Immunodiagnostic Systems Holdings Plc
+IDIN	Ishares II Plc
+IDJG	Ishares Plc
+IDJP	Ishares III Plc
+IDJV	Ishares Plc
+IDKO	Ishares Plc
+IDM	Inditherm Plc
+IDNA	Ishares Plc
+IDOX	Idox Plc
+IDP6	ISHARES III PLC S&P SMALLCAP 600 USD(USD)
+IDPE	Ishares II Plc
+IDRA	Ishares IV Plc
+IDRC	Ishares IV Plc
+IDRE	Ishares IV Plc
+IDRM	Ishares IV Plc
+IDTK	Ishares II Plc
+IDTM	Ishares II Plc
+IDTP	Ishares II Plc
+IDTW	Ishares Plc
+IDUP	Ishares II Plc
+IDUS	Ishares Plc
+IDVY	Ishares Plc
+IDWP	Ishares II Plc
+IDWR	Ishares Plc
+IE15	ISHARES III PLC BARCLAYS EURO CORP BD 1-5EUR
+IEAC	Ishares III Plc
+IEAG	Ishares III Plc
+IEBC	Ishares III Plc
+IEDY	Ishares V Public Limited Company
+IEEM	Ishares Plc
+IEER	Ishares Plc
+IEGA	Ishares III Plc
+IEGE	Ishares III Plc
+IEGL	Ishares II Plc
+IEGM	Ishares II Plc
+IEGOV01	
+IEGX	Ishares II Plc
+IEGY	Ishares III Plc
+IEGZ	Ishares III Plc
+IEM	Impax Environmental Markets Plc
+IEMA	Ishares III Plc
+IEMB	Ishares II Plc
+IEMI	Ishares II Plc
+IEML	Ishares III Plc
+IEMS	Ishares III Plc
+IERE	Invista European Real Estate Trust Sicaf
+IERP	Invista European Real Estate Trust Sicaf
+IERW	Invista European Real Estate Trust Sicaf
+IESE	Ishares II Plc
+IESG	Ishares II Plc
+IESP	Ishares V Public Limited Company
+IEUA	Ishares III Plc
+IEUR	Ishares Plc
+IEUT	Ishares Plc
+IEUX	Ishares Plc
+IEV1	INGENIOUS ENTERTAINMENT VCT 1 PLC ORD GBP0.01
+IEV2	INGENIOUS ENTERTAINMENT VCT 2 PLC ORD GBP0.01
+IEX5	ISHARES III PLC BARCLAYS EURO CORP BD EX-FINLS 1-5EUR
+IEXF	Ishares III Plc
+IFASI	Ishares FTSE Epra/Nareit Asia Index Fund
+IFEUI	Ishares FTSE Epra/Nareit Europe Index Fu
+IFFF	Ishares Plc
+IFGLI	Ishares FTSE Epra/Nareit Global Real Est
+IFIN	Ishares V Public Limited Company
+IFL	International Ferro Metals Limited
+IFM	Intandem Films Plc
+IFNAI	Ishares FTSE Epra/Nareit North America I
+IFNG	Multi Units France
+IFP	Ifg Group Plc
+IFRB	Ishares V Public Limited Company
+IFSMI	Ishares FTSE Dev Small Cap Ex North Amer
+IGAS	Igas Energy Plc
+IGC	India Capital Growth Fund Limited
+IGCC	Ishares III Plc
+IGE	Image Scan Holdings Plc
+IGEA	Ishares III Plc
+IGG	Ig Group Holdings Plc
+IGHY	Ishares Plc
+IGIL	Ishares III Plc
+IGLN	Ishares Physical Metals Plc
+IGLO	Ishares III Plc
+IGLS	Ishares III Plc
+IGLT	Ishares II Plc
+IGP	Intercede Group Plc
+IGR	International Greetings Plc
+IGRE	Investors In Global Real Estate Limited
+IGSG	Ishares II Plc
+IGSU	Ishares II Plc
+IGUS	Ishares V Public Limited Company
+IGV	Income & Growth Vct [The] Plc
+IGWD	Ishares V Public Limited Company
+IH2O	EUROPEAN EXCHANGE-TRADED FUND CO ISHARES S&P GLOBAL WATER GBP
+IHG	Intercontinental Hotels Group Plc
+IHUK	Impact Holdings [Uk] Plc
+IHYG	Ishares Plc
+IHYU	Ishares II Plc
+III	3I Group Plc
+IIIP	3I Group Plc
+IIP	Infrastructure India Plc
+IIT	Independent Investment Trust Plc
+IITB	Ishares V Public Limited Company
+IJPA	Ishares III Plc
+IJPE	Ishares V Public Limited Company
+IJPH	Ishares V Public Limited Company
+IJPN	Ishares Plc
+IJPU	Ishares Plc
+IKA	Ilika Plc
+IKK	Inch Kenneth Kajang Rubber Plc
+IKOR	Ishares Plc
+ILH	Invesco Leveraged High Yield Fund Ld
+ILX	Ilx Group Plc
+IMAC	Ingenious Media Active Capital Limited
+IME	Immedia Group Plc
+IMEA	Ishares III Plc
+IMET	Barclays Bank Plc
+IMEU	Ishares II Plc
+IMEX	Ishares Vi Plc [The Company]
+IMG	Imagination Technologies Group Plc
+IMI	IMI Plc
+IMIB	Ishares II Plc
+IMIC	International Mining & Infrastructure Co
+IMID	SSGA SPDR Etfs Europe I Plc
+IMM	Immupharma Plc
+IMT	Imperial Tobacco Group Plc
+IMTK	Imaginatik Plc
+IMV	Ishares Vi Plc (The Comp
+INAA	Ishares Plc
+INB	Interbulk Group Plc
+INC	Insetco Plc
+INCA	Incadea Plc
+INCH	Inchcape Plc
+IND	Indigovision Group Plc
+INDI	Indus Gas Limited
+INDU	UBS Ag
+INDW	Multi Units Luxembourg
+INF	Informa Plc
+INFA	Infrastrata Plc
+INFR	Ishares II Plc
+INL	Inland Homes Plc
+INLD	Ishares V Public Limited Company
+INLZ	Inland Zdp Plc
+INM	Independent News & Media Plc
+INPP	International Public Partnerships Ld
+INRG	Ishares II Plc
+INRL	Lyxor International Asse
+INRU	Lyxor International Asse
+INS	Instem Plc
+INSE	Inspired Energy Plc
+INSP	Inspirit Energy Holdings
+INTE	Integra Group
+INTQ	Internetq Plc
+INTU	Intu Properties Plc
+INUG	Multi Units Luxembourg
+INV	Investment Company Plc
+INVP	Investec Plc
+INVR	Investec Plc
+INVU	Invu Plc
+INXG	Ishares II Plc
+IOF	Iofina Plc
+IOGP	Ishares V Public Limited Company
+IOL	In-Deed Online Plc
+IOM	Iomart Group Plc
+IONA	Iona Environmental Vct Plc
+IPDM	Ishares Physical Metals Plc
+IPEL	Impellam Group Plc
+IPF	International Personal Finance Plc
+IPI	Invesco Property Income Trust Ld
+IPLT	Ishares Physical Metals Plc
+IPO	Ip Group Plc
+IPOL	Ishares V Public Limited Company
+IPOS	FTSE Renaissance US Ipo Index
+IPOSAP	FTSE Renaissance Asia Pacific Ex Japan I
+IPOSC	FTSE Renaissance US Ipo Capped Index
+IPOSCN	FTSE Renaissance Canada Ipo Index
+IPOSE	FTSE Renaissance EMEA Ipo Index
+IPOSEC	FTSE Renaissance EMEA Ipo Capped Index
+IPOSEM	FTSE Renaissance Emerging Markets Ipo
+IPOSG	FTSE Renaissance Global Ipo Index
+IPOSGC	FTSE Renaissance Global Ipo Capped Index
+IPOSHKT	FTSE Renaissance Hong Kong/China Top Ipo
+IPOSLM	FTSE Renaissance Latin America Ipo Index
+IPOSNA	FTSE Renaissance North America Ipo Index
+IPOST	FTSE Renaissance US Ipo Investable Index
+IPOSXJ	FTSE Renaissance Global Ex Japan Ipo Ind
+IPOSXU	FTSE Renaissance Global Ex US Ipo Index
+IPP	Ipplus Plc
+IPRP	Ishares Plc
+IPRV	Ishares II Plc
+IPSA	Ipsa Group Plc
+IPU	Invesco Perpetual UK Smaller Companies I
+IPX	Impax Asset Management Group Plc
+IPXJ	Ishares III Plc
+IQE	Iqe Plc
+IRAO	Open Joint Stock Company
+IRCP	Ishares V Public Limited
+IRF	Irf European Finance Investments Ltd
+IRG	Independent Resources Plc
+IRHC	Ishares V Public Limited
+IRIS	Dcg Iris Limited
+IRON	Ironveld Plc
+IRSA	Ishares III Plc
+IRSS	Ishares IV Plc
+IRV	Interserve Plc
+IS15	ISHARES PLC  ISHARES MARKIT IBOXX
+ISAC	Ishares V Public Limited Company
+ISAG	Ishares V Public Limited Company
+ISAM	Ishares V Public Limited Company
+ISAT	Inmarsat Plc
+ISDE	Ishares II Plc
+ISDU	Ishares II Plc
+ISDW	Ishares II Plc
+ISEM	Ishares II Plc
+ISF	Ishares Plc
+ISFE	Ishares II Plc
+ISG	Interior Services Group Plc
+ISJP	Ishares III Plc
+ISL	Is Solutions Plc
+ISLN	Ishares Physical Metals Plc
+ISP	Investec Structured Products Calculus Vc
+ISP6	ISHARES III PLC S&P SMALLCAP 600 USD(GBP)
+ISUS	Ishares II Plc
+ISWD	Ishares II Plc
+ISXF	Ishares III Plc
+ISYS	Invensys Plc
+IT0001	
+IT0500	
+IT1000	
+IT1300	
+IT1700	
+IT2000	
+IT2300	
+IT2700	
+IT3000	
+IT3300	
+IT3500	
+IT3700	
+IT4000	
+IT4500	
+IT5000	
+IT5300	
+IT5500	
+IT5700	
+IT6000	
+IT6500	
+IT7000	
+IT7500	
+IT8000	
+IT8300	
+IT8500	
+IT8600	
+IT8700	
+IT9000	
+IT9500	
+ITA	Itacare Capital Investments Limited
+ITE	Ite Group Plc
+ITGOVP01	
+ITKY	Ishares II Plc
+ITLMS	FTSE Italia All-Share Index
+ITLMSC	FTSE Italia All-Share Capped Index
+ITM	Itm Power Plc
+ITMC	FTSE Italia Mid Cap Index
+ITMI	FTSE Italia Micro Cap Index
+ITPS	Ishares II Plc
+ITQ	Interquest Group Plc
+ITRK	Intertek Group Plc
+ITSC	FTSE Italia Small Cap Index
+ITSTAR	FTSE Italia Star Index
+ITV	Itv Plc
+ITWN	Ishares Plc
+IUAG	Ishares II Plc
+IUKD	Ishares Plc
+IUKP	Ishares II Plc
+IUSA	Ishares Plc
+IUSE	Ishares V Public Limited Company
+IUSP	Ishares II Plc
+IVI	Invesco Income Growth Trust Plc
+IVO	Imperial Innovations Group Plc
+IVPB	Invesco Perpetual Select Trust Plc
+IVPG	Invesco Perpetual Select Trust Plc
+IVPM	Invesco Perpetual Select Trust Plc
+IVPU	Invesco Perpetual Select Trust Plc
+IWDA	Ishares III Plc
+IWDE	Ishares V Public Limited Company
+IWDP	Ishares II Plc
+IWRD	Ishares Plc
+IWXU	Ishares III Plc
+IXMU	Ishares III Plc
+J055	JP MORGAN INTL DERIVATIVES CALL WTS 17/06/05BARCLAYS A1 GBX550 C
+J100	
+J101	
+J135	
+J140	
+J143	
+J150	
+J151	
+J153	
+J154	
+J173	
+J175	
+J177	
+J200	
+J201	
+J202	
+J203	
+J204	
+J20U	
+J210	
+J211	
+J212	
+J213	
+J230	
+J231	
+J232	
+J233	
+J235	
+J250	
+J253	
+J254	
+J255	
+J256	
+J257	
+J258	
+J259	
+J260	
+J263	
+J272	
+J273	
+J275	
+J277	
+J279	
+J283	
+J2EQ	
+J300	
+J303	
+J335	
+J353	
+J357	
+J372	
+J376	
+J400	
+J403	
+J453	
+J457	
+J500	
+J510	
+J520	
+J530	
+J533	
+J537	
+J540	
+J550	
+J555	
+J560	
+J575	
+J580	
+J590	
+J653	
+J657	
+J835	
+J853	
+J857	
+J863	
+J867	
+J877	
+J898	
+J953	
+J957	
+JA00	
+JA0R	
+JA30	
+JA3R	
+JAI	Jpmorgan Asian Investement Trust Plc
+JAIS	Jpmorgan Asian Investement Trust Plc
+JAM	Jpmorgan American Investment Trust Plc
+JAPAN	FTSE All-World Index Japan
+JARJ	Jardine Matheson Holding
+JCH	Jpmorgan Claverhouse Investment Trust Pl
+JD	John David Group
+JDG	Judges Scientific Plc
+JDSB	Jardine Strategic Holdings Ld
+JDT	Jupiter Dividend & Growth Trust Plc
+JDTC	Jupiter Dividend & Growth Trust Plc
+JDTZ	Jupiter Dividend & Growth Trust Plc
+JDW	Wetherspoon [ J.D.] Plc
+JEL	Jersey Electricity Plc
+JEMI	Jpmorgan Global Emerging Markets Income
+JEO	Jupiter European Opportunities Trust Plc
+JESC	Jpmorgan Euro Small Co. Trust Plc
+JETG	Jpmorgan European Investment Trust Plc
+JETI	Jpmorgan European Investment Trust Plc
+JFJ	Jpmorgan Japanese Investment Trust Plc
+JGC	Jupiter Green Investment Trust Plc
+JGCI	Jpmorgan Global Converti
+JHD	James Halstead Plc
+JIGC	Jpmorgan Income & Growth Investment Trus
+JIGI	Jpmorgan Income & Growth Investment Trus
+JIGU	Jpmorgan Income & Growth Investment Trus
+JII	Jpmorgan Indian Investment Trust Plc
+JIIS	Jpmorgan Indian Investment Trust Plc
+JIL	Juridica Investments Limited
+JIM	Jarvis Securities Plc
+JKX	Jkx Oil & Gas Plc
+JLF	Jelf Group Plc
+JLH	John Lewis Of Hungerford Plc
+JLIF	John Laing Infrastructure Fund Limited
+JLP	Jubilee Platinum Plc
+JLT	Jardine Lloyd Thompson Group Plc
+JMAT	Johnson Matthey Plc
+JMC	Jpmorgan Chinese Investment Trust Plc
+JMF	Jpmorgan Mid Capital Investment Trust Pl
+JMG	Jpmorgan Emerging Markets Investment Tru
+JMGS	Jpmorgan Emerging Markets Investment Tru
+JMI	Jpmorgan Smaller Companies Investment TR
+JMO	Jpmorgan Overseas Investment Trust Plc
+JMOS	Jpmorgan Overseas Invest
+JNKE	SSGA SPDR Etfs Europe I Plc
+JNY	Journey Group Plc
+JPB	Jpmorgan Brazil Investment Trust Plc
+JPE	Jpmorgan Elect Plc
+JPEC	Jpmorgan Elect Plc
+JPEI	Jpmorgan Elect Plc
+JPEL	J.P. Morgan Private Equity Ld
+JPG	Jupiter Primadona Growth Trust Plc
+JPGB	Etfs Foreign Exchange Limited
+JPI	Jpmorgan Income & Capital Trust Plc
+JPIU	Jpmorgan Income & Capital Trust Plc
+JPIZ	Jpmorgan Income & Capital Trust Plc
+JPM	Jpmorgan Chase & Co
+JPNL	Lyxor International Asse
+JPP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X LONG JPY SHORT GBP
+JPR	Johnston Press Plc
+JPRL	Jupiter Energy Limited
+JPS	Jpmorgan Japan Smaller Co Tst Plc
+JPSS	Jpmorgan Japan Smaller Co Tst Plc
+JPSZ	J.P. Morgan Private Equity Ld
+JPYP	Etfs Foreign Exchange Limited
+JPZZ	J.P. Morgan Private Equity Ld
+JRIC	Japan Residential Investment Company Lim
+JRS	Jpmorgan Russian Securities Plc
+JSG	Johnson Service Group Plc
+JSJS	Jsjs Designs Plc
+JSS	Jupiter Second Split Trust Plc
+JSSU	Jupiter Second Split Trust Plc
+JSSZ	Jupiter Second Split Trust Plc
+JUB	Jubilant Energy N.V
+JUP	Jupiter Fund Management Plc
+JUSC	Jpmorgan US Smaller Co. Inv Tst Plc
+JWNG	Jaywing Plc
+JZCN	Jz Capital Partners Limited
+JZCP	Jz Capital Partners Limited
+KADA	Kada Technology Holdings Limited
+KAG	KAZAKHSTAN KAGAZY PLC GDR EACH REPR 1 ORD  `REGS`
+KAKU	Kakuzi Ld
+KAY	Kings Arms Yard Vct Plc
+KAZ	Kazakhmys Plc
+KBC	Kbc Advanced Technologies Plc
+KBE	Kimberly Enterprises N.V.
+KBT	K3 Business Technology Group Plc
+KCOM	Kcom Group Plc
+KDR	Karelian Diamond Resources Plc
+KEA	Kea Petroleum Plc
+KED	Kedco Plc
+KEFI	Kefi Minerals Plc
+KEM	Kemin Resources Plc
+KENV	Kennedy Ventures Plc
+KENZ	Kentz Corporation Limited
+KFX	Kofax Plc
+KGF	Kingfisher Plc
+KGI	Kirkland Lake Gold Inc
+KGLD	Kolar Gold Limited
+KGP	Kingspan Group Plc
+KIBO	Kibo Mining Plc
+KIE	Kier Group Plc
+KIT	Keystone Investment Trust Plc
+KKB	Jsc Kazkommertsbank
+KLG	Kalimantan Gold Corporation Limited
+KLN	Kellan Group [The] Plc
+KLR	Keller Group Plc
+KMCA	Komercni Banka A.S.
+KMG	Jsc Kazmunaigas Explorat
+KMR	Kenmare Resources Plc
+KNM	Konami Corporation
+KSK	Ksk Power Ventur Plc
+KUBC	Kubera Cross-Border Fund Limited
+KWS	Keywords Studios Plc
+KYGA	Kerry Group Plc
+KYS	Kryso Resources Plc
+L100	MULTI UNITS FRANCE ETF FTSE 100
+L250	MULTI UNITS FRANCE ETF FTSE 250
+LAD	Ladbrokes Plc
+LAGR	Etfs Commodity Securities Limited
+LALL	Etfs Commodity Securities Limited
+LALU	Etfs Commodity Securities Limited
+LAM	Lamprell Plc
+LAND	Land Securities Group Plc
+LAS	London & Associated Properties Plc
+LAU3	ETFS FOREIGN EXCHANGE LTD ETFS 3X LONG AUD SHORT USD
+LAUD	Etfs Foreign Exchange Limited
+LAUS	Multi Units Luxembourg
+LAUU	Multi Units Luxembourg
+LB1E	LBG CAPITAL NO.1 PLC 6.439% ENH CAP NTS 23/05/20 EUR50000
+LB1F	LBG CAPITAL NO.1 PLC 11.04% ENH CAP NTS 19/03/20 GBP50000
+LB1G	LBG CAPITAL NO.1 PLC 7.5884% ENH CAP NTS 12/05/20 GBP1000
+LB1H	LBG CAPITAL NO.1 PLC 7.869% ENH CAP NTS 25/08/20 GBP50000
+LB1I	LBG CAPITAL NO.1 PLC 7.8673% ENH CAP NTS 17/12/19 GBP1000
+LB1J	LBG CAPITAL NO.1 PLC 7.975% ENH CAP NTS 15/09/24 GBP1
+LB2A	LBG CAPITAL NO.2 PLC 9.125% ENH CAP NTS 15/07/20 GBP(VAR)
+LB2C	LBG CAPITAL NO.2 PLC 7.625% ENH CAP NTS 09/12/19 GBP(VAR)
+LB2N	LBG CAPITAL 2 11.875% ENH CAP NTS 01/09/24 GBP1000
+LB2Q	LBG CAPITAL NO.2 PLC 9.334% ENH CAP NTS 07/02/20 GBP1000
+LB2R	LBG CAPITAL NO.2 PLC 6.385% ENH CAP NTS 12/05/20 EUR(VAR)
+LB2S	LBG CAPITAL NO.2 PLC 15% ENH CAP NTS 21/12/19 GBP100000
+LB2T	LBG CAPITAL NO.2 PLC 15% ENH CAP NTS 21/12/19 EUR50000
+LB2U	LBG CAPITAL NO.2 PLC 15% ENH CAP NTS 22/01/29 GBP100000
+LBB	Litebulb Group Ltd
+LBG1	LLOYDS TSB BANK PLC 5.375% MTN 07/09/15 GBP1000 4072
+LBG2	
+LBOW	Icg-Longbow Senior Secur
+LBRT	Etfs Commodity Securities Limited
+LBS	Leeds Building Society
+LBUL	Etfs Commodity Securities Limited
+LCAD	Etfs Foreign Exchange Limited
+LCAN	Multi Units Luxembourg
+LCAU	Multi Units Luxembourg
+LCFE	Etfs Commodity Securities Limited
+LCG	London Capital Group Holdings Plc
+LCHF	Etfs Foreign Exchange Limited
+LCNP	Etfs Foreign Exchange Limited
+LCNY	Etfs Foreign Exchange Limited
+LCOC	Etfs Commodity Securities Limited
+LCOP	Etfs Commodity Securities Limited
+LCOR	Etfs Commodity Securities Limited
+LCTO	Etfs Commodity Securities Limited
+LDIV	Multi Units France
+LDP	Leed Resources Plc
+LDSG	Leeds Group Plc
+LEAF	Leaf Clean Energy Company
+LED	Led International Holdings Limited
+LEED	Etfs Commodity Securities Limited
+LEF	Ludgate Environmental Fund Limited
+LEG	Legendary Investments Plc
+LEK	Lekoil Limited
+LEMB	Multi Units France
+LEMD	Lyxor International Asse
+LEML	Lyxor International Asse
+LEMV	Ossiam Lux
+LEU3	ETFS FOREIGN EXCHANGE LTD ETFS 3X LONG EUR SHORT USD
+LEUR	Etfs Foreign Exchange Limited
+LFAS	Multi Units France
+LFI	London Finance & Investment Group Plc
+LGAS	Etfs Commodity Securities Limited
+LGB3	ETFS FOREIGN EXCHANGE LTD ETFS 3X LONG GBP SHORT USD
+LGBP	Etfs Foreign Exchange Limited
+LGCD	LG CHEM GDR EACH REP 1/2 ORD KRW5000(REG S)
+LGCF	Source Markets Public Limited Company
+LGCU	Source Markets Public Limited Company
+LGEN	Legal & General Group Plc
+LGLD	Lg Electronics Inc
+LGO	Leni Gas & Oil Plc
+LGRA	Etfs Commodity Securities Limited
+LGT	Lighthouse Group Plc
+LHEA	Etfs Commodity Securities Limited
+LID	Lidco Group Plc
+LIME	Etfs Commodity Securities Limited
+LINP	Etfs Foreign Exchange Limited
+LINR	Etfs Foreign Exchange Limited
+LIO	Liontrust Asset Management Plc
+LIV	Livermore Investments Group Limited
+LIX	FTSE Actuaries 350 Low Yield
+LJP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X LONG JPY SHORT USD
+LJPY	Etfs Foreign Exchange Limited
+LKOD	LUKOIL OAO ADR EACH REPR 1 ORD RUB0.025
+LKOH	Lukoil [Oao]
+LKUU	Multi Units France
+LKUW	Multi Units France
+LLCT	Etfs Commodity Securities Limited
+LLEA	Etfs Commodity Securities Limited
+LLHO	Etfs Commodity Securities Limited
+LLOY	Lloyds Banking Group Plc
+LLPC	Lloyds Banking Group Plc
+LLPD	Lloyds Banking Group Plc
+LLPE	Lloyds Banking Group Plc
+LLPF	Lloyds Banking Group Plc
+LLPG	Lloyds Banking Group Plc
+LLPL	Lloyds Banking Group Plc
+LLST	Etfs Commodity Securities Limited
+LMI	Lonmin Plc
+LMMV	Ossiam Lux
+LMP	Londonmetric Property Pl
+LMS	Lms Capital Plc
+LMT	Lombard Medical Technologies Plc
+LND	Landore Resources Limited
+LNEY	Etfs Commodity Securities Limited
+LNGA	Etfs Commodity Securities Limited
+LNIK	Etfs Commodity Securities Limited
+LNOK	Etfs Foreign Exchange Limited
+LNRG	Etfs Commodity Securities Limited
+LNZD	Etfs Foreign Exchange Limited
+LOGP	Lansdowne Oil & Gas Plc
+LOIL	Etfs Commodity Securities Limited
+LOK	Lok'n Store Group Plc
+LOND	London Mining Plc
+LONG	Longships Plc
+LOOK	Lookers Plc
+LOQ	Lo-Q Plc
+LOTS	LOTTE SHOPPING CO GDR EACH REPR 1/20 KRW5000`144A`/REG`S`
+LOWV	SSGA SPDR Etfs Europe I
+LPA	Lpa Group Plc
+LPET	Etfs Commodity Securities Limited
+LPH	Lp Hill Plc
+LPLA	Etfs Commodity Securities Limited
+LPMT	Etfs Commodity Securities Limited
+LQDE	Ishares Plc
+LRD	Laird Plc
+LRE	Lancashire Holdings Limited
+LRL	Leyshon Resources Limited
+LRM	Lombard Risk Management Plc
+LRS	Latin Resources Limited
+LSC	London Security Plc
+LSE	London Stock Exchange Group Plc
+LSEK	Etfs Foreign Exchange Limited
+LSFT	Etfs Commodity Securities Limited
+LSI	Lifeline Scientific Inc
+LSIC	Lifeline Scientific Inc
+LSIL	Etfs Commodity Securities Limited
+LSL	Lsl Property Services Plc
+LSLI	London & ST Lawrence Investment Company
+LSOB	Etfs Commodity Securities Limited
+LSPU	Multi Units Luxembourg
+LSPX	Multi Units Luxembourg
+LSR	The Local Shopping REIT Plc
+LSRG	LSR GROUP OJSC GDR EACH REPR 0.20 ORD `REGS` (WI)
+LSUG	Etfs Commodity Securities Limited
+LSYO	Etfs Commodity Securities Limited
+LTAM	Ishares II Plc
+LTC	Latchways Plc
+LTHM	Latham [James] Plc
+LTI	Lindsell Train Investment Trust Plc
+LTIM	Etfs Commodity Securities Limited
+LTML	Lyxor International Asse
+LTMU	Lyxor International Asse
+LTNG	Codeis Securities Sa
+LTOD	Larsen And Toubro Limite
+LUD	Ludorum Plc
+LUK2	ETFS FUND COMPANY PLC FTSE`100`LEV`2X`FD SHS GBP(GBP)
+LUMV	Ossiam Lux
+LVD	Lavendon Group Plc
+LWB	Low & Bonar Plc
+LWDB	Law Debenture Corporation Plc
+LWEA	Etfs Commodity Securities Limited
+LWI	Lowland Investment Company Plc
+LWMV	Ossiam Lux
+LWT	Loudwater Trust Limited
+LXB	Lxb Retail Properties Plc
+LZIC	Etfs Commodity Securities Limited
+LZYE	Lzye Group Plc
+M0EB	FTSE Euromid Eurobloc
+M0X	FTSE Euromid
+M0XU	FTSE Euromid ex UK
+MAB	Mitchells & Butlers Plc
+MAC	Marechale Capital Plc
+MACF	Macfarlane Group Plc
+MAE	Mallett Plc
+MAFL	Mineral & Financial Investment Ltd.
+MAGP	Magnolia Petroleum Plc
+MAI	Maintel Holdings Plc
+MAIL	Man Alternative Inv Ld Ord 0.1p
+MAJE	Majedie Investments Plc
+MAN	Manroy Plc
+MAR	Mar City Plc
+MARL	Mariana Resources Limited
+MARS	Marston's Plc
+MASA	Masawara Plc
+MATD	Petro Matad Limited
+MATG	Multi Units Luxembourg
+MATW	Multi Units Luxembourg
+MAV4	MAVEN INCOME & GROWTH VCT 4 PLC ORD GBP0.1
+MAVC	Maven Income & Growth Vc
+MAW	Maruwa Co. Ltd
+MAX	Max Property Group Plc
+MBC	Mitsubishi Corporation
+MBH	Michelmersh Brick Holdings Plc
+MBO	Mobilityone Limited
+MBSP	Manchester Building Society
+MBSR	Manchester Building Society
+MBT	Mobile Tornado Group Plc
+MCB	Mcbride Plc
+MCBS	MCB BANK LTD GDR EACH REPR 4 ORD `REGS`SPON
+MCGN	Microgen Plc
+MCIX	FTSE Mid 250 [Exit]
+MCKS	Mckay Securities Plc
+MCM	Motivcom Plc
+MCP	Martin Currie Pacific Trust Plc
+MCR	Mercer Resources Plc
+MCRB	Mcb Finance Group Plc
+MCRO	Micro Focus International Plc
+MCT	Middlefield Canadian Income Pcc
+MCX	FTSE Mid 250
+MCXNUK	FTSE 250 Net Dividend Index
+MDM	Mdm Engineering Group Limited
+MDO	Mandarin Oriental Intern
+MDW	Mediwatch Plc
+MDZ	Mediazest Plc
+MEC	Mecom Group Plc
+MED1	FTSE Med 100
+MEDG	Medgenics Inc.
+MEDI	Medilink-Global UK Limited
+MEDU	Medgenics Inc.
+MEL	Mitsubishi Electric Corporation
+MELG	Multi Units Luxembourg
+MEN	Mentum Inc.
+MER	Mears Group Plc
+MES	Messaging International Plc
+MET	Metro Baltic Horizons Plc
+METL	Multi Units Luxembourg
+MFX	Manx Financial Group Plc
+MGAM	Morgan Crucible Co Plc
+MGGT	Meggitt Plc
+MGHC	M & G High Income Investment Trust Plc
+MGHI	M & G High Income Investment Trust Plc
+MGHP	M & G High Income Investment Trust Plc
+MGHU	M & G High Income Investment Trust Plc
+MGHZ	M & G High Income Investment Trust Plc
+MGII100	
+MGNS	Morgan Sindall Group Plc
+MGNT	Ojsc Magnit
+MGR	Miton Group Plc
+MHDU	Source Markets Public Limited Company
+MHDX	Source Markets Public Limited Company
+MHID	Mahindra & Mahindra Limi
+MHM	Marsh & Mclennan Cos. Inc
+MHPC	MHP SA GDR EACH REPR 1 ORD SHARE `REGS`(WI)
+MHUE	Source Markets Public Li
+MHUU	Source Markets Public Limited Company
+MIDD	Ishares Plc
+MIG	Mobeus Income & Growth 2 Vct Plc
+MIG1	MAVEN INCOME & GROWTH VCT PLC ORD GBP0.10
+MIG2	MAVEN INCOME & GROWTH VCT 2 PLC ORD GBP0.10
+MIG3	MAVEN INCOME & GROWTH VCT 3 PLC ORD GBP0.10
+MIG4	MATRIX INCOME & GROWTH 4 VCT PLC ORD GBP0.01
+MIGT	Midas Income & Growth Trust Plc
+MIL	Myanmar Investments Inte
+MILW	Myanmar Investments Inte
+MIN	Minoan Group Plc
+MINT	Pimco Fixed Income Source Etfs Plc
+MINV	Ishares Vi Plc (The Comp
+MIO	Minco Plc
+MIOT	Miton Income Opportuniti
+MIR	Mining Investments Resou
+MIRA	Mirada Plc
+MIRL	Minera Irl Limited
+MIUSA	Macquarie USA Infrstructure Idx
+MIX	Mobeus Income & Growth Vct Plc
+MJW	Majestic Wine Plc
+MKLW	Mucklow [A & J] Group Plc
+MKS	Marks And Spencer Group Plc
+MLC	Millennium & Copthorne Hotels Plc
+MLD	Mirland Development Corporation Plc
+MLIN	Molins Plc
+MLPD	Source Markets Public Li
+MLPP	Source Markets Public Li
+MLPQ	Source Markets Public Li
+MLPS	Source Markets Public Li
+MM	MOOD MEDIA CORP NPV
+MMC	Management Consulting Group Plc
+MMK	Ojsc Magnitogorsk Iron &
+MML	Medusa Mining Limited
+MMO	Mercom Oil Sands Plc
+MMP	Marwyn Management Partners Plc
+MMPW	Marwyn Management Partners Plc
+MN1X	FTSE Global 100 Index
+MNC	Metminco Limited
+MNDI	Mondi Plc
+MNKS	Monks Investment Trust Plc
+MNL	Manchester & London Investment Trust Plc
+MNOD	Mmc Norilsk Nickel
+MNP	Martin Currie Global Portfolio Trust Plc
+MNZS	Menzies[John] Plc
+MOG	Mediterranean Oil & Gas Plc
+MOGP	Mountfield Group Plc
+MOIL	Madagascar Oil Limited
+MOMT	Multi Units Luxembourg
+MONI	Monitise Plc
+MONY	Moneysupermarket.Com Group Plc
+MOOO	Barclays Bank Plc
+MOS	Mobile Streams Plc
+MOSB	Moss Bros Group Plc
+MPE	M.P. Evans Group Plc
+MPFE	Source Markets Public Li
+MPI	Michael Page International Plc
+MPLE	Maple Energy Plc
+MPO	Macau Property Opportunities Fund Limite
+MRC	Mercantile Investment Trust [The] Plc
+MRCH	Merchants Trust Plc
+MRO	Melrose Plc
+MRSK	Joint-Stock Company Inte
+MRW	Morrison [Wm] Supermarkets Plc
+MSG	Milestone Group Plc
+MSI	Ms International Plc
+MSLH	Marshalls Plc
+MSUE	UBS Ag
+MSYS	Microsaic Systems Plc
+MTA	Matra Petroleum Plc
+MTC	Mothercare Plc
+MTE	Montanaro European Smaller C. Tst Plc
+MTEC	Matchtech Group Plc
+MTH	Mithras Investment Trust Plc
+MTL	Metals Exploration Plc
+MTO	Mitie Group Plc
+MTU	Montanaro UK Smaller Companies Investmen
+MTV	Motive Television Plc
+MTVW	Mountview Estates Plc
+MTW	Mattioli Woods Plc
+MUBL	Mbl Group Plc
+MUL	Mulberry Group Plc
+MUR	Murgitroyd Group Plc
+MUT	Murray Income Trust Plc
+MV1X	FTSE MV Exchanges Index
+MVEU	Ishares Vi Plc (The Comp
+MVI	Marwyn Value Investors Limited
+MVIB	Marwyn Value Investors Limited
+MVOL	Ishares Vi Plc (The Comp
+MVUS	Ishares Vi Plc (The Comp
+MWA	Mwana Africa Plc
+MWE	Mti Wireless Edge Ltd.
+MWG	Modern Water Plc
+MWGT	Miton Worldwide Grwth Inv Tst Plc
+MWY	Mid-Wynd International Investment Trust
+MXBS	Source Markets Public Limited Company
+MXCS	Source Markets Public Limited Company
+MXF	Medicx Fund Limited
+MXFS	Source Markets Public Limited Company
+MXIS	Source Markets Public Limited Company
+MXJP	Source Markets Public Limited Company
+MXP	Max Petroleum Plc
+MXUS	Source Markets Public Limited Company
+MXWO	Source Markets Public Limited Company
+MYI	Murray International Trust Plc
+MYIB	Murray International Trust Plc
+MYT	Mytrah Energy Limited
+MYX	Mycelx Technologies Corporation
+MYXR	Mycelx Technologies Corp
+N098	
+N099	
+N135	
+N175	
+N177	
+N272	
+N30X	FTSE Norex 30 Index
+N30XU	
+N353	
+N357	
+N510	
+N520	
+N530	
+N533	
+N537	
+N550	
+N580	
+N835	
+N853	
+N857	
+N863	
+N877	
+NABA	Nationwide Building Society
+NAIT	North American Income Trust [The] Plc
+NAK	Nakama Group Plc
+NAND	Nandan Cleantec Plc
+NANO	Nanoco Group Plc
+NANW	Nationwide Building Society
+NAR	Northamber Plc
+NARS	Nationwide Accident Repair Services Plc
+NAS	North Atlantic Smaller Companies Investm
+NASA	Nasstar Plc
+NATN	National Westminster Bank Plc
+NBB	Norman Broadbent Plc
+NBDD	Nb Distressed Debt Investment Fund Limit
+NBDX	Nb Distressed Debt Inves
+NBI	Northbridge Industrial Services Plc
+NBL	Noble Investments [Uk] Plc
+NBLS	Nb Global Floating Rate Income Fund Limi
+NBLU	Nb Global Floating Rate Income Fund Limi
+NBNK	Nbnk Investments Plc
+NBP	Narborough Plantations Plc
+NBPE	Nb Private Equity Partners Limited
+NBPO	New Britain Palm Oil Limited
+NBPZ	Nb Private Equity Partners Limited
+NBR	Namibian Resources Plc
+NBSP	Newcastle Building Society
+NBSR	Newcastle Building Society
+NBU	Naibu Global International Company Plc
+NCA	New Century Aim Vct Plc
+NCA2	NEW CENTURY AIM VCT 2 PLC ORD GBP0.10
+NCC	Ncc Group Plc
+NCCL	Ncondezi Coal Company Limited
+NCE	New City Energy Limited
+NCEA	New City Energy Limited
+NCLG	Societe Generale Effekten Gmbh
+NCON	Norcon Plc
+NCSP	Public Joint Stock Compa
+NCT	Northcote Energy Limited
+NCYF	New City High Yield Fund Limited
+NDCM	Ntt Docomo Inc
+NDKX	FTSE Denmark 20 Index
+NDXH	Amundi Investment Soluti
+NEOS	Neos Resources Plc
+NEP	Neptune-Calculus Income And Growth Vct P
+NEPI	New Europe Property Investments Plc
+NET	Netcall Plc
+NETD	Netdimensions [Holdings] Limited
+NEW	New World Oil And Gas Plc
+NEX	National Express Group Plc
+NFC	Next Fifteen Communications Group Plc
+NFIX	FTSE Finland 25 Index
+NFTY	Ishares IV Plc
+NG	NATIONAL GRID TRACO ord gbp0.10
+NGAF	Etfs Commodity Securities Limited
+NGAS	Etfs Commodity Securities Limited
+NGR	Nature Group Plc
+NGSP	Etfs Commodity Securities Limited
+NHY	Norsk Hydro A.S.A
+NICK	Etfs Commodity Securities Limited
+NICL	Nichols Plc
+NIFT	Ishares IV Plc
+NII	New India Investment Trust Plc
+NLGOV01	
+NLMK	NOVOLIPETSK IRON AND STEEL CORP GDS EACH REPR 10 ORD RUB1 `REGS`
+NMC	Nmc Health Plc
+NMD	North Midland Construction Plc
+NMG	Noricum Gold Limited
+NMIX	FTSE Actuaries 350 [Exit]
+NMOS	Open Joint Stock Company
+NMX	FTSE Actuaries 350
+NMX0530	FTSE 350 Oil & Gas Produces
+NMX0570	FTSE 350 Oil Equipment Services
+NMX1350	FTSE 350 Chemicals
+NMX1730	FTSE 350 Forestry & Paper
+NMX1750	FTSE 350 Industrial Metals
+NMX1770	FTSE 350 Mining
+NMX2350	FTSE 350 Construction & Materials
+NMX2710	FTSE 350 Aerospace & Defence
+NMX2720	FTSE 350 General Industrials
+NMX2730	FTSE 350 Electronic & Electrical Equipment
+NMX2750	FTSE 350 Industrial Engineering
+NMX2770	FTSE 350 Industrial Transportation
+NMX2790	FTSE 350 Support Services
+NMX3350	FTSE 350 Automobiles & Parts
+NMX3530	FTSE 350 Beverages
+NMX3570	FTSE 350 Food Producers
+NMX3720	FTSE 350 Household Goods
+NMX3760	FTSE 350 Personal Goods
+NMX3780	FTSE 350 Tobacco
+NMX4530	FTSE 350 Healthcare Equipment & Services
+NMX4570	FTSE 350 Pharmaceuticals & Biotechnology
+NMX5330	FTSE 350 Food & Drug Retailers
+NMX5370	FTSE 350 General Retailers
+NMX5550	FTSE 350 Media
+NMX5750	FTSE 350 Travel & Leisure
+NMX6530	FTSE 350 Fixed Line Telecommunications
+NMX6570	FTSE 350 Mobile Telecommunications
+NMX7530	FTSE 350 Electricity
+NMX7570	FTSE 350 Gas Water & Utilities
+NMX8350	FTSE 350 Banks
+NMX8530	FTSE 350 Non-Life Insurance
+NMX8570	FTSE 350 Life Insurance
+NMX8630	
+NMX8670	
+NMX8770	FTSE 350 General Financial
+NMX8980	FTSE 350 Equity Investment Instruments
+NMX9530	FTSE 350 Software & Computer Services
+NMX9570	FTSE 350 Technology Hardware & Equipment
+NOKP	Etfs Foreign Exchange Limited
+NOP	Northern Petroleum Plc
+NORWAY30	
+NOTP	Nottingham Building Society
+NOVA	Nova Resources Limited
+NPN	Nippon Telegraph And Telephone Corporati
+NPSN	NASPERS ADR EACH REPR 1 CLS`N` ORD(SPON)
+NPT	Netplay Tv Plc
+NRGG	Multi Units Luxembourg
+NRGW	Multi Units Luxembourg
+NRGY	Barclays Bank Plc
+NRI	Northern Investors Company Plc
+NRKP	Northern Rock [Asset Management] Plc
+NRR	Newriver Retail Limited
+NRRP	North River Resources Plc
+NSH	Norish Plc
+NSI	New Star Investment Trust Plc
+NSIX	FTSE Actuaries Fledgling [Exit]
+NSN	Natasa Mining Ltd
+NSWX	FTSE Sweden 30 Index
+NSX	FTSE Actuaries Fledgling
+NTA	Northacre Plc
+NTBC	Noida Toll Bridge Company Limited
+NTBR	Northern Bear Plc
+NTEA	Northern Electric Plc
+NTG	Northgate Plc
+NTN	Northern 3 Vct Plc
+NTOG	Nostra Terra Oil And Gas Company Plc
+NTQ	Enteq Upstream Plc
+NTV	Northern 2 Vct Plc
+NUKE	Etfx Fund Company Plc
+NUKP	Etfx Fund Company Plc
+NUM	Numis Corporation Plc
+NVA	Novae Group Plc
+NVT	Northern Venture Trust Plc
+NVTK	NOVATEK OAO GDR EACH REPR 10 ORD `REG S`
+NWBD	National Westminster Bank Plc
+NWF	Nwf Group Plc
+NWKI	Networkers International Plc
+NWR	New World Resources Plc
+NWS	Smiths News Plc
+NWT	Newmark Security Plc
+NXR	Norcros Plc
+NXT	Next Plc
+NYO	Nyota Minerals Ld
+NZDP	Etfs Foreign Exchange Limited
+NZGB	Etfs Foreign Exchange Limited
+O006	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES DAX (DE)
+O010	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES DJ EURO STOXX (DE)
+O011	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES DJ EURO STOXX 50 (DE)
+O012	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES DJ EURO STOXX BANKS (DE)
+O019	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES DJ EURO STOXX SUST 40 (DE)
+O025	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES DJ STOXX 600 (DE)
+O034	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES DJ STOXX 600 HEALTH CARE (DE)
+O080	ISHARES IBOXX EURO LIQUID CORP(DT ZERT)
+O102	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES MDAX (DE)
+O120	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES NIKKEI 225 (DE)
+O126	BLACKROCK ASSET MNGT DEUTSCHELAND ISHARES SMI (DE)
+OAP3	OCTOPUS APOLLO VCT 3 PLC ORD GBP0.10
+OBT	Obtala Resources Limited
+OCDO	Ocado Group Plc
+OCG	Oxford Catalysts Group Plc
+OCL	Oakley Capital Investments Limited
+OCN	Ocean Wilsons [Holdings] Ld
+ODX	Omega Diagnostics Group Plc
+OEC1	OCTOPUS ECLIPSE VCT PLC ORD GBP0.1
+OEX	Oilex Ld
+OFF	Office2Office Plc
+OGDC	OIL & GAS DEVELOPMENT CO GDR EACH REPR 10 ORD `REGS`
+OGN	Origin Enterprises Plc
+OGT	International Oil And Gas Technology Lim
+OGZD	GAZPROM OAO ADS EACH REPR 4 ORD SHS
+OIG	Oryx International Growth Fund Ltd
+OILB	Etfs Oil Securities Ld
+OILD	UBS Ag
+OILW	Etfs Oil Securities Ld
+OKEY	O`KEY GROUP SA GDR EACH REPR 1 SHARE REG S WI
+OLBP	Etfs Oil Securities Ld
+OLWP	Etfs Oil Securities Ld
+OMG	Omg Plc
+OMI	Orosur Mining Inc
+OMIP	One Media Ip Group Plc
+OML	Old Mutual Plc
+OMZD	UTD HEAVY MACHINERY URALMASH-IZHORA ADR EACH REPR 1 RUB0.1`LVL 1`
+ONE	One Delta Plc
+ONL	On-Line Plc
+OOA	Octopus Aim Vct Plc
+OPAY	Optimal Payments Plc
+OPE	Optare Plc
+OPG	Opg Power Ventures Plc
+OPHR	Ophir Energy Plc
+OPM	1Pm Plc
+OPP	Origo Partners Plc
+OPPP	Origo Partners Plc
+OPTM	Multi Units Luxembourg
+OPTS	Optos Plc
+ORCP	Oracle Coalfields Plc
+ORE	Orogen Gold Plc
+ORM	Ormonde Mining Plc
+ORSD	Orascom Construction Ind
+OSB1	ETFS OIL SECURITIES LTD ETFS BRENT OIL 1YR
+OSB2	ETFS OIL SECURITIES LTD ETFS BRENT OIL 2YR
+OSB3	ETFS OIL SECURITIES LTD ETFS BRENT OIL 3YR
+OSEC	Octopus Second Aim Vct Plc
+OSG	Opsec Security Group Plc
+OSU	Orsu Metals Corporation
+OSW1	ETFS OIL SECURITIES LTD ETFS WTI OIL 1YR
+OSW2	ETFS OIL SECURITIES LTD ETFS WTI OIL 2YR
+OSW3	ETFS OIL SECURITIES LTD ETFS WTI OIL 3YR
+OTC	Ortac Resources Limited
+OTLD	Orascom Telecom Holding
+OTM	Ottoman Fund Limited [The]
+OTMT	Orascom Telecom Media An
+OTPD	Otp Bank Plc
+OTT	Oxford Technology 3 Venture Capital Trus
+OTV1	OCTOPUS TITAN VCT 1 PLC ORD GBP0.10
+OTV2	OCTOPUS TITAN VCT 2 PLC ORD GBP0.10
+OTV3	OCTOPUS TITAN VCT 3 PLC ORD GBP0.10
+OUT	Outsourcery Plc
+OVCT	Octopus Vct Plc
+OVG	Ovoca Gold Plc
+OXA	Oxford Advanced Surfaces Group Plc
+OXB	Oxford Biomedica Plc
+OXF	Oxford Technology 4 Venture Capital Trus
+OXH	Oxford Technology 2 Venture Capital Trus
+OXIG	Oxford Instruments Plc
+OXP	Oxford Pharmascience Group Plc
+OXS	Oxus Gold Plc
+OXT	Oxford Technology Venture Capital Trust
+PA	Partnership Assurance Group
+PAA	Parallel Media Group Plc
+PAC	Pacific Assets Trust Plc
+PACC	Prime Active Capital Plc
+PACL	Pacific Alliance China Land Limited
+PADV	SSGA SPDR Etfs Europe I
+PAF	Pan African Resources Plc
+PAG	Paragon Group Of Companies Plc
+PAGR	Etfs Hedged Commodity Securities Limited
+PAH	Platform Acquisition Hol
+PAL	Equatorial Palm Oil Plc
+PALL	Etfs Hedged Commodity Securities Limited
+PALM	Asian Plantations Limited
+PAN	Pan European Terminals P
+PANR	Pantheon Resources Plc
+PAP	Paddy Power Plc
+PAR	Paragon Resources Plc
+PAX	Pacific Alliance Asia Opportunity Fund L
+PAY	Paypoint Plc
+PBRT	Etfs Hedged Commodity Securities Limited
+PBTY	Probability Plc
+PBUL	Etfs Hedged Commodity Securities Limited
+PCA	Palace Capital Plc
+PCF	Private & Commercial Finance Group Plc
+PCFS	Polar Capital Global Fin
+PCFT	Polar Capital Global Fin
+PCGH	Polar Cap Glbl Health Gwth&Inc Tst Plc
+PCGS	Polar Cap Glbl Health Gwth&Inc Tst Plc
+PCH	Pochin's Plc
+PCI	Petroceltic International Plc
+PCOP	Etfs Hedged Commodity Securities Limited
+PCRD	Etfs Hedged Commodity Securities Limited
+PCT	Polar Capital Technology Trust Plc
+PCTN	Picton Property Income Ld
+PCTS	Polar Capital Technology Trust Plc
+PCTZ	Picton Zdp Limited
+PDG	Pendragon Plc
+PDL	Petra Diamonds Limited
+PEBI	Port Erin Biopharma Investments Limited
+PEG	Petards Group Plc
+PEL	Paragon Entertainment Limited
+PEN	Pennant International Group Plc
+PENR	Etfs Hedged Commodity Securities Limited
+PEQ	Private Equity Investor Plc
+PER	Perform Group Plc
+PERU20	
+PERU20U	
+PET	Petrel Resources Plc
+PEW	Premier Energy & Water Trust Plc
+PEWZ	Premier Energy & Water Trust Plc
+PEY	Princess Private Equity Holding Limited
+PF16	
+PFAG	Etfs Hedged Commodity Securities Limited
+PFAND01	
+PFAND03	
+PFAND05	
+PFAND07	
+PFAND10	
+PFAND30	
+PFC	Petrofac Limited
+PFCM	Etfs Hedged Commodity Securities Limited
+PFD	Premier Foods Plc
+PFEN	Etfs Hedged Commodity Securities Limited
+PFG	Provident Financial Plc
+PFG7	PROVIDENT FINANCIAL 7% GTD BDS 14/04/20 GBP1
+PFL	Premier Farnell Plc
+PFLA	Premier Farnell Plc
+PFLB	Premier Farnell Plc
+PFLM	Powerfilm Inc.
+PFO	Prime Focus London Plc
+PFP	Pathfinder Minerals Plc
+PFP5	
+PFZ	Pfizer Incorporated
+PGB	Pilat Media Global Plc
+PGD	Patagonia Gold Plc
+PGH	Personal Group Holdings Plc
+PGIL	Polyus Gold International Limited
+PGL	Peninsular Gold Limited
+PGOO	Proven Growth & Income Vct Plc
+PGR	Premier Gold Resources Plc
+PHAG	Etfs Metal Securities Ld
+PHAL	Etfs Industrial Metal Securities Limited
+PHAU	Etfs Metal Securities Limited
+PHC	Plant Health Care Plc
+PHCU	Etfs Industrial Metal Securities Limited
+PHD	Proactis Holdings Plc
+PHE	Powerhouse Energy Group Plc
+PHGP	Etfs Metal Securities Ld
+PHI	Pacific Horizon Investment Trust Plc
+PHNI	Etfs Industrial Metal Securities Limited
+PHNW	Phoenix Group Holdings
+PHNX	Phoenix Group Holdings
+PHO	Peel Hotels Plc
+PHOR	Ojsc Phosagro
+PHP	Primary Health Properties Plc
+PHPB	Etfs Industrial Metal Securities Limited
+PHPD	Etfs Metal Securities Ld
+PHPM	Etfs Metal Securities Ld
+PHPP	Etfs Metal Securities Ld
+PHPT	Etfs Metal Securities Ld
+PHRM	Phorm Inc
+PHSC	Phsc Plc
+PHSN	Etfs Industrial Metal Securities Limited
+PHSP	Etfs Metal Securities Ld
+PHST	PHARMSTANDARD OJSC GDR EACH REPR 0.25 ORD`REGS`
+PHTM	Photo-Me International Plc
+PHU	Pactolus Hungarian Property Plc
+PHZN	Etfs Industrial Metal Securities Limited
+PIC	Pace Plc
+PIDD	POSCO ADR EACH REP 1/4 KRW5000 LVL111(BNY)
+PIK	PIK GROUP OJSC GDR EACH REPR 1 ORD  `REGS
+PIL	Produce Investments Plc
+PIM	Plant Impact Plc
+PIMT	Etfs Hedged Commodity Securities Limited
+PIN	Pantheon International Participations Pl
+PINN	Pinnacle Technology Group Plc
+PINR	Pantheon International Participations Pl
+PIP	Pipehawk Plc
+PIRI	Pires Investments Plc
+PJF	Prospect Japan Fund Ld
+PKG	Park Group Plc
+PLA	Plastics Capital Plc
+PLAG	Societe Generale Effekten Gmbh
+PLAZ	Plaza Centers N.V.
+PLE	Plethora Solutions Holdings Plc
+PLI	Perpetual Income And Growth Investment T
+PLIS	Perpetual Income And Growth Investment T
+PLMO	Polemos Plc
+PLR	Plutus Resources Plc
+PLTI	UBS Ag
+PLTM	Etfs Commodity Securities Limited
+PLUS	Plus500 Ltd
+PMEA	Pme African Infrastructure Opportunities
+PMET	Barclays Bank Plc
+PMG	Parkmead Group [The] Plc
+PMH	Puma High Income Vct Plc
+PMHL	Prosperity Minerals Holdings Limited
+PML	Papua Mining Plc
+PMO	Premier Oil Plc
+PMP	Portmeirion Group Plc
+PMR	Panmure Gordon & Co. Plc
+PNA	Penna Consulting Plc
+PNGA	Etfs Hedged Commodity Securities Limited
+PNL	Personal Assets Trust Plc
+PNN	Pennon Group Plc
+PNS	Panther Securities Plc
+PNX	Phoenix It Group Plc
+POB	Nationwide Building Society
+POBA	Nationwide Building Society
+POG	Petropavlovsk Plc
+POL	Polo Resources Limited
+POLR	Polar Capital Holdings Plc
+POLY	Polymetal International Plc
+POS	Plexus Holdings Plc
+POWR	Powerflute Oyj
+PPC	President Petroleum Company Plc
+PPH	Pphe Hotel Group Limited
+PPIX	Prophotonix Limited
+PPMT	Etfs Hedged Commodity Securities Limited
+PPR	Pentagon Protection Plc
+PPS	Proton Power Systems Plc
+PPT	Planet Payment Inc.
+PRAE	Praetorian Resources Limited
+PREE	UBS Ag
+PREG	UBS Ag
+PREM	Premier African Minerals
+PRES	Pressure Technologies Plc
+PRG	Paragon Diamonds Limited
+PRM	Proteome Sciences Plc
+PRO	Progressive Digital Media Group Plc
+PROX	Proxama PLC
+PRP	Prime People Plc
+PRS	Paternoster Resources Plc
+PRSS	Praetorian Resources Limited
+PRU	Prudential Plc
+PRUD	Prudential Plc
+PRV	Porvair Plc
+PRW	Promethean World Plc
+PRZ	Prezzo Plc
+PSBW	Powershares Glbal Funds Ireland Plc Powershares
+PSES	Powershares Glbal Funds Ireland Plc
+PSGA	Powershares Glbal Funds Ireland Plc
+PSHO	Powershares Glbal Funds Ireland Plc
+PSL	Photonstar Led Group Plc
+PSN	Persimmon Plc
+PSON	Pearson Plc
+PSPI	Public Service Properties Investments Li
+PSRA	Powershares Glbal Funds Ireland Plc
+PSRD	Powershares Glbal Funds Ireland Plc
+PSRE	Powershares Glbal Funds Ireland Plc
+PSRF	Powershares Glbal Funds Ireland Plc
+PSRH	Powershares Glbal Funds Ireland Plc
+PSRM	Powershares Glbal Funds Ireland Plc
+PSRU	Powershares Glbal Funds Ireland Plc
+PSRW	Powershares Glbal Funds Ireland Plc
+PSSP	Powershares Glbal Funds Ireland Plc
+PSVR	Etfs Hedged Commodity Securities Limited
+PSWC	Powershares Glbal Funds Ireland Plc
+PTCM	Porta Communications Plc
+PTD	Pittards Plc
+PTEC	Playtech Limited
+PTF	Phaunos Timber Fund Limited
+PTGOV01	
+PTH	Promethean Plc
+PTMN	Petmin Limited
+PTO	Publishing Technology Plc
+PTR	Petroneft Resources Plc
+PTV	Peertv Plc
+PTY	Parity Group Plc
+PUB	Punch Taverns Plc
+PUME	Puma Vct V Plc
+PUR	Pure Wafer Plc
+PURE	Purecircle Limited
+PURI	Puricore Plc
+PUS3	ETFS FOREIGN EXCHANGE LTD ETFS 3X SHORT USD LONG GBP
+PVCS	Pv Crystalox Solar Plc
+PVF	Prosperity Voskhod Fund Limited
+PVN	Proven Vct Plc
+PVR	Providence Resources Plc
+PWS	Pinewood Shepperton Plc
+PXS	Provexis Plc
+PYC	Physiomics Plc
+PZC	Pz Cussons Plc
+Q500	FTSE NASDAQ 500 INDEX
+QDII1	
+QDII2	
+QED	Quintain Estates And Development Plc
+QFI	Quadrise Fuels International Plc
+QIF	Qatar Investment Fund Plc
+QIH	Qihang Equipment Company Limited
+QIL	Qannas Investments Limited
+QLGC	FTSE Nasdaq Large Cap Index
+QMID	FTSE Nasdaq Mid Cap Index
+QPP	Quindell Portfolio Plc
+QQ	qinetiq group ord gbp0
+QQQS	Boost Issuer Public Limi
+QRM	Quoram Plc
+QRT	Quarto Group Incorporated
+QSMC	FTSE Nasdaq Small Cap Index
+QUID	Pimco Fixed Income Source Etfs Plc
+QXT	Quixant Plc
+RADG	Radiant Growth Investments Limited
+RAM	Ram Active Media Plc
+RAT	Rathbone Brothers Plc
+RB	Reckitt Benckiser
+RB01	ROYAL BANK OF SCOTLAND IDX CERT 28/04/14(FTSE 100 IDX)
+RB05	ROYAL BANK OF SCOTLAND UK ACC TRK2 CERT 11/9/14(FTSE 100 )GBP
+RB19	ROYAL BANK OF SCOTLAND CERTS 12/01/15(FTSE 100 INDEX)GBP
+RB41	ROYAL BANK OF SCOTLAND CERTS 31/03/15(ROYAL 4.125% BD)GBP
+RB51	ROYAL BANK OF SCOTLAND 5.1% PRINC PROT NTS 01/02/20 GBP100
+RB53	ROYAL BANK OF SCOTLAND CERTS 26/08/15(FXD RTE PAY OFF GBP)GBP
+RB81	ROYAL BANK OF SCOTLAND CERTS 17/06/19(RBS CUR HEDGED LKD TO GLD
+RB84	ROYAL BANK OF SCOTLAND CERTS 17/06/19(RBS CUR HDG LKD RICI ENH
+RBD	Reabold Resources Plc
+RBLI	Royal Bank Of Scotland Plc
+RBN	Robinson Plc
+RBPI	Royal Bank Of Scotland Plc
+RBPX	Royal Bank Of Scotland Plc
+RBS	Royal Bank Of Scotland Group Plc
+RBSU	Royal Bank Of Scotland Plc
+RBXD	Ranbaxy Laboratories Lim
+RC2	RECONSTRUCTION CAPITAL II ORD EUR0.01
+RCDO	Ricardo Plc
+RCG	Rcg Holdings Limited
+RCHA	Rothschilds Continuation Finance [C.I.]
+RCI	Rapidcloud International
+RCN	Redcentric Plc
+RCP	Rit Capital Partners Plc
+RDI	Redefine International P.L.C.
+RDSA	Royal Dutch Shell Plc
+RDSB	Royal Dutch Shell Plc
+RDW	Redrow Plc
+RDXS	Source Markets Public Limited Company
+RE	R.e.a. Holdings
+RE.B	R.E.A. Holdings Plc
+REC	Record Plc
+RECI	Real Estate Credit Investments Pcc Limit
+RECP	Real Estate Credit Investments Pcc Limit
+RED	Redstone Plc
+REDT	Red24 Plc
+REG	Rare Earths Global Limited
+REH	Renewable Energy Holdings Plc
+REL	Reed Elsevier Plc
+REM	Rare Earth Minerals Plc
+RENE	Reneuron Group Plc
+REVO	Revolymer Plc
+REX	Rexam Plc
+RFC	Rangers International Fo
+RGD	The Real Good Food Company Plc
+RGI	R.G.I. International Limited
+RGM	Regency Mines Plc
+RGO	2 Ergo Group Plc
+RGP	Ross Group Plc
+RGS	Regenersis Plc
+RGU	Regus Plc
+RHL	Redhall Group Plc
+RHM	Resource Holding Management Limited
+RIA	Rialto Energy Limited
+RIC	Richoux Group Plc
+RICA	Ruffer Investment Company Ltd
+RICI	RBS Market Access
+RICM	RBS Market Access
+RICO	Ricoh Co Ltd
+RIFS	Reliance Infrastructure
+RIG	Cqs Rig Finance Fund Limited
+RIGD	RELIANCE INDUSTRIES GDR EACH REP 2 INR10 LEVEL 1(BNY)`144A
+RIIC	Rights & Issues Investment Trust Plc
+RIIG	Resources In Insurance Group Plc
+RIII	Rights & Issues Investment Trust Plc
+RIO	Rio Tinto Plc
+RIOB	FTSE Russia Iob Index
+RIOL	Lyxor International Asse
+RIOU	Lyxor International Asse
+RKH	Rockhopper Exploration Plc
+RKMD	Ojsc Rostelecom
+RLD	Richland Resources Ltd
+RLE	Real Estate Investors Plc
+RLH	Red Leopard Holdings Plc
+RM	RM Plc
+RMM	Rambler Metals & Mining Plc
+RMP	Red Emperor Resources Nl
+RMV	Rightmove Plc
+RNK	Rank Group Plc
+RNO	Renold Plc
+RNVO	Renovo Group Plc
+RNWH	Renew Holdings Plc
+ROL	Rotala Plc
+ROR	Rotork Plc
+ROSE	Rose Petroleum PLC
+ROSN	Ojsc Oc Rosneft
+RPC	Rpc Group Plc
+RPO	Ruspetro Plc
+RPS	Rps Group Plc
+RPT	Regal Petroleum Plc
+RQIH	Randall & Quilter Investment Holdings Pl
+RR	Rolls Royce Group
+RRL	Range Resources Limited
+RRR	Red Rock Resources Plc
+RRS	Randgold Resources Ld
+RS03	ROYAL BANK OF SCOTLAND CERTS 29/07/16(RBS CERT RS04)
+RS05	ROYAL BANK OF SCOTLAND IDX CERT 15/10/14(FTSE 100 IDX)
+RS14	ROYAL BANK OF SCOTLAND PLC CERTS 23/11/15(RBS CERT ISHS MSCI IDX)
+RS27	ROYAL BANK OF SCOTLAND PLC CERTS 25/04/16(RBS EX FTSE RS26)
+RSA	Rsa Insurance Group Plc
+RSAB	Rsa Insurance Group Plc
+RSB	Rensburg Aim Vct Plc
+RSL	Resolution Limited
+RSS	Rab Special Situations Company Limited
+RST	Restore Plc
+RSW	Renishaw Plc
+RTC	Rtc Group Plc
+RTG	Rethink Group [The] Plc
+RTI	Rolta India Limited
+RTN	Restaurant Group Plc
+RTO	Rentokil Initial Plc
+RTT	Rcm Technology Trust Plc
+RTWO	Etfx Fund Company Plc
+RTWP	Etfx Fund Company Plc
+RTYS	Source Markets Public Limited Company
+RUG	Renaissance US Growth Investment Trust P
+RUR	Rurelec Plc
+RUS	Raven Russia Ltd
+RUSD	RBS Market Access
+RUSP	Raven Russia Ltd
+RUSS	Ishares IV Plc
+RUSW	Raven Russia Ltd
+RVG	Retroscreen Virology Group Plc
+RWA	Robert Walters Plc
+RWS	Rws Holdings Plc
+RXP	Roxi Petroleum Plc
+RYA	Ryanair Holdings Plc
+S100	SOURCE MARKETS FTSE`100`SOURCE ETF  CLS`A`GBP
+S250	SOURCE MARKETS FTSE`250`SOURCE ETF CLS`A`GBP
+S599	SOCIETE GENERALE ACCEPTANCE NV PUT WTS PERPFTSE 100 E1000 GBP10000 C
+S946	SOCIETE GENERALE ACCEPTANCE NV CALL WTS OPENPLATINUM E100 USD C
+SA11	SOCIETE GENERALE ACCEPTANCE NV put wts 16/12/05bp. e1 gbx650 c
+SA13	SOCIETE GENERALE ACCEPTANCE NV call wts 16/12/05azn e0.1 gbx2800 c
+SA16	SOCIETE GENERALE ACCEPTANCE NV call wts 16/12/05gsk e0.1 gbx1450 c
+SA17	SOCIETE GENERALE ACCEPTANCE NV put wts 16/12/05gsk e0.1 gbx1350 c
+SA23	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06rdsb e0.1 gbx1750 c
+SA26	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06lloy e1 gbx500 c
+SA27	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06hbos e0.1 gbx850 c
+SA28	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06hbos e0.1 gbx950 c
+SA29	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06hbos e0.1 gbx875 c
+SA35	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06av. e0.1 gbx650 c
+SA36	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06bsy e0.1 gbx525 c
+SA37	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06bsy e0.1 gbx575 c
+SA40	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06ba. e1 gbx350 c
+SA44	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06bay e1 gbx275 c
+SA46	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06bay e1 gbx275 c
+SA47	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06bt.a e1 gbx225 c
+SA48	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06bt.a e1 gbx250 c
+SA50	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06dge e0.1 gbx800 c
+SA51	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06dge e0.1 gbx800 c
+SA62	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06pru e0.1 gbx525 c
+SA63	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06rtr e1 gbx375 c
+SA64	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06rtr e1 gbx425 c
+SA65	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06rtr e1 gbx400 c
+SA66	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06tsco e1 gbx320 c
+SA69	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06rr. e1 gbx360 c
+SA70	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06rr. e1 gbx330 c
+SA72	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06wmh e0.1 gbx575 c
+SA73	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06sx50 e0.01 eur3200 c
+SA74	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06sx50 e0.01 eur3600 c
+SA75	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06sx50 e0.01 eur3200 c
+SA76	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06dj30 e0.001 usd10000 c
+SA77	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06dj30 e0.001 usd11000 c
+SA78	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06dj30 e0.001 usd12000 c
+SA79	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06dj30 e0.001 usd10000 c
+SA80	SOCIETE GENERALE ACCEPTANCE NV put wts 17/3/06dj30 e0.001 usd11000 c
+SA82	SOCIETE GENERALE ACCEPTANCE NV call wts 17/3/06n100 e0.01 usd1700 c
+SAA	M&C Saatchi Plc
+SAAA	Ishares Vi Plc (The Comp
+SAB	Sabmiller Plc
+SACC	Ishares III Plc
+SAD	Etfs Foreign Exchange Limited
+SAF	Safeland Plc
+SAFE	Safestore Holdings Plc
+SAG	Sagentia Group Plc
+SAGR	Etfs Commodity Securities Limited
+SAL	Spaceandpeople Plc
+SALL	Etfs Commodity Securities Limited
+SALU	Etfs Commodity Securities Limited
+SAN	Santander UK Plc
+SANB	Santander UK Plc
+SAP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X SHORT AUD LONG GBP
+SAPO	South African Property Opportunities Plc
+SAR	Sareum Holdings Plc
+SAU3	ETFS FOREIGN EXCHANGE LTD ETFS 3X SHORT AUD LONG USD
+SAUP	Etfs Foreign Exchange Limited
+SAUS	Ishares III Plc
+SAVG	Savile Group Plc
+SB03	societe generale acceptance nv call wts 17/03/06 stan e0.01 gbx1400 c
+SB04	societe generale acceptance nv put wts 17/03/06 stan e0.01 gbx1200 c
+SB05	societe generale acceptance nv call wts 17/03/06 boc e0.1 gbx1200 c
+SB11	societe generale acceptance nv call wts 15/12/06 gsp e0.01 usd450 c
+SB12	societe generale acceptance nv call wts 15/12/06 gsp e0.01 usd500 c
+SB14	societe generale acceptance nv put wts 28/12/05 gsp e0.01 usd475 c
+SB15	societe generale acceptance nv call wts 10/03/06 n225 e0.1 jpy14000 c a
+SB20	societe generale acceptance nv put wts 17/03/06prty e1 gbx80 c
+SB22	societe generale acceptance nv put wts 17/3/06aal e0.1 gbx1600 c
+SB25	societe generale acceptance nv call wts 17/3/06spw e1 gbx550 c
+SB28	SOCIETE GENERALE ACCEPTANCE NV CALL WT 17/12/10(LYXOR F.JSE T40)GBP30
+SB32	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(BARCLAYS)GBP4.25
+SB36	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 18/09/09(LEGAL&GENRL)GBX100
+SB37	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 20/03/09(MARKS&SPNCR)GBX275
+SB38	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 20/03/09(MARKS&SPENCER)GBX250
+SB43	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 19/06/09(NEXT)GBX1000
+SB44	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 18/09/09(NEXT)GBX900
+SB45	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 20/03/09(RYL BK SCOT)GBX75
+SB52	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 18/09/09(SAINSBURY(J))GBX200
+SB53	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 20/3/09(RYL DUTCH SHL B)GBX1900
+SB55	societe generale acceptance nv call wts 15/9/06shp e0.1 gbx750 c
+SB66	societe generale acceptance nv call wts 15/9/06blt e0.1 gbx1000 c
+SB68	societe generale acceptance nv call wts 15/9/06anto e0.1 gbx1800 c
+SB72	societe generale acceptance nv put wts 15/9/06mks e1 gbx500c
+SB73	societe generale acceptance nv call wts 15/9/06bats e0.1 gbx1300 c
+SB75	societe generale acceptance nv call wts 15/9/06bay e1 gbx350 c
+SB80	societe generale acceptance nv call wts 15/9/06emg e0.1 gbx2200 c
+SB83	societe generale acceptance nv call wts 15/9/06ba e1 gbx375 c
+SB87	societe generale acceptance nv call wts 15/9/06rbs e0.1 gbx1800 c
+SB88	societe generale acceptance nv call wts 15/9/06rbs e0.1 gbx2100 c
+SB89	societe generale acceptance nv call wts 15/9/06rr e1 gbx400 c
+SB92	societe generale acceptance nv call wts 15/9/06tsco e1 gbx390 c
+SB93	societe generale acceptance nv call wts 15/9/06wmh e0.1 gbx525 c
+SB94	societe generale acceptance nv call wts 15/9/06wmh e0.1 gbx600 c
+SB96	societe generale acceptance nv call wts 15/12/06gsp e0.01 usd600 c
+SBD	Songbird Estates Plc
+SBER	Sberbank Of Russia
+SBID	State Bank Of India
+SBLM	Sable Mining Africa Ld
+SBRT	Etfs Commodity Securities Limited
+SBRY	Sainsbury [J] Plc
+SBS	Source Bioscience Plc
+SBSA	Skipton Building Society
+SBSB	Skipton Building Society
+SBUL	Etfs Commodity Securities Limited
+SC01	societe generale acceptance nv call wts 11/5/06cq56 e0.1 usd70 c
+SC02	societe generale acceptance nv put wts 11/5/06lcq56 e0.1 usd60 c
+SC03	societe generale acceptance nv call wts 15/11/06cq56 e0.1 usd60 c
+SC04	societe generale acceptance nv put wts 15/11/06cq56 e0.1 usd60 c
+SC06	societe generale acceptance nv put wts 8/9/06top e1 jpy1600 c
+SC08	societe generale acceptance nv call wts 17/3/06f100 e0.001 gbp5725 c
+SC09	societe generale acceptance nv put wts 17/3/06f100 e0.001 gbp5625 c
+SC34	societe generale acceptance nv call wts 15/09/06gsk e0.1 gbx1400 c
+SC37	societe generale acceptance nv call wts 15/09/06qntq e1 gbx250 c
+SCAD	Etfs Foreign Exchange Limited
+SCAM	Scottish American Investment Co. Plc
+SCAN	Ishares III Plc
+SCDP	Etfs Foreign Exchange Limited
+SCE	Surface Transforms Plc
+SCF	Schroder Income Growth Fund Plc
+SCFE	Etfs Commodity Securities Limited
+SCHF	Etfs Foreign Exchange Limited
+SCHP	Etfs Foreign Exchange Limited
+SCIN	Scottish Investment Trust Plc
+SCL	Schlumberger Ld
+SCLP	Scancell Holdings Plc
+SCNY	Etfs Foreign Exchange Limited
+SCOC	Etfs Commodity Securities Limited
+SCOP	Etfs Commodity Securities Limited
+SCOR	Etfs Commodity Securities Limited
+SCOV	Ishares III Plc
+SCP	Schroder UK Mid Cap Fund Plc
+SCPA	Scapa Group Plc
+SCTO	Etfs Commodity Securities Limited
+SCYP	Etfs Foreign Exchange Limited
+SD11	FTSE Dev Small Cap ex US Index
+SD12	FTSE Dev Small Cap ex North Amercia Inde
+SD13	FTSE Dev Europe Small Cap Index
+SDEU	Ishares V Public Limited Company
+SDI	Scientific Digital Imaging Plc
+SDL	Sdl Plc
+SDM	Stadium Group Plc
+SDP	Schroder Asiapacific Fund Plc
+SDR	Schroders Plc
+SDRA	Ishares IV Plc
+SDRC	Schroders Plc
+SDRE	Ishares IV Plc
+SDRM	Ishares IV Plc
+SDU	Schroder UK Growth Fund Plc
+SDV	Small Companies Dividend Trust Plc
+SDVZ	Small Companies Zdp Plc
+SDY	Speedy Hire Plc
+SDYC	Ishares IV Plc
+SE15	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 16/3/07GSK E0.1 GBX1500 C
+SEA	Seaenergy Plc
+SEAG	Ishares III Plc
+SEC	Strategic Equity Capital Plc
+SEDY	Ishares V Public Limited Company
+SEE	Seeing Machines Limited
+SEED	Barclays Bank Plc
+SEGA	Ishares III Plc
+SEKP	Etfs Foreign Exchange Limited
+SEMA	Ishares III Plc
+SEMB	Ishares II Plc
+SEML	Ishares III Plc
+SEMS	Ishares III Plc
+SEP	Standard Life European Private Equity TR
+SEPU	Sepura Plc
+SER	Sefton Resources Inc.
+SESP	Ishares V Public Limited Company
+SEU3	ETFS FOREIGN EXCHANGE LTD ETFS 3X SHORT EUR LONG USD
+SEUA	Ishares III Plc
+SEUP	Etfs Foreign Exchange Limited
+SEUR	Etfs Foreign Exchange Limited
+SEV	Servision Plc
+SEY	Sterling Energy Plc
+SFI	Sagicor Financial Corporation
+SFIN	Ishares V Public Limited Company
+SFR	Severfield-Rowen Plc
+SFRB	Ishares V Public Limited Company
+SG01	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 15/12/06VOD E1 GBX50 C
+SG02	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 14/06/10 COC1 E1 USD0 C
+SG04	societe generale acceptance nv call wts 08/12/08gsp e1 gbx
+SG05	societe generale acceptance nv call wts 14/12/07n225 e1 jpy c
+SG06	societe generale acceptance nv call wts 15/09/06que6 e1 gbx0 c
+SG92	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 13/11/15(FTSE 100 IDX)GBP0.001
+SG94	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 13/11/15(FTSE 100 IDX)GBP0.001
+SG96	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 11/11/13(BRENT DEC 13)USD
+SGAS	Etfs Commodity Securities Limited
+SGB3	ETFS FOREIGN EXCHANGE LTD ETFS 3X SHORT GBP LONG USD
+SGBP	Etfs Foreign Exchange Limited
+SGBS	Etfs Metal Securities Ld
+SGC	Stagecoach Group Plc
+SGCC	Ishares III Plc
+SGE	Sage Group Plc
+SGEA	Ishares III Plc
+SGGD	SURGUTNEFTEGAZ ADR EACH REPR 50 ORD
+SGI	Stanley Gibbons Group Plc
+SGIL	Ishares III Plc
+SGLD	Source Physical Markets Plc
+SGLN	Ishares Physical Metals Plc
+SGLO	Ishares III Plc
+SGLP	Source Physical Markets Plc
+SGM	Sigma Capital Group Plc
+SGP	Supergroup Plc
+SGQD	Multi Units Luxembourg
+SGQI	Sga Societe Generale Acceptance N.V.
+SGQL	Multi Units Luxembourg
+SGQP	Multi Units Luxembourg
+SGR	Shore Capital Group Limited
+SGRA	Etfs Commodity Securities Limited
+SGRO	Segro Plc
+SGS100	
+SGZ	Scotgold Resources Limited
+SHB	Shaftesbury Plc
+SHEA	Etfs Commodity Securities Limited
+SHFT	Shaft Sinkers Holdings Plc
+SHG	Shanta Gold Limited
+SHI	Sig Plc
+SHIP	Etfx Fund Company Plc
+SHLP	Shellproof Limited
+SHOK	Shellshock Limited
+SHP	Shire Plc
+SHPP	Etfx Fund Company Plc
+SHRE	Share Plc
+SHRS	Shires Income Plc
+SHYG	Ishares Plc
+SHYU	Ishares II Plc
+SIA	Soco International Plc
+SIAG	Sherborne Investors [Guernsey] A Limited
+SIE	Siemens Ag
+SIG	Signet Jewelers Limited
+SIGB	Sherborne Investors (Gue
+SIHL	Symphony International Holdings Ld
+SIM	Simigon Ltd.
+SIME	Etfs Commodity Securities Limited
+SINP	Etfs Foreign Exchange Limited
+SINR	Etfs Foreign Exchange Limited
+SIS	Science In Sport PLC
+SITB	Ishares V Public Limited Company
+SIV	St. Ives Plc
+SIXH	600 Group Plc
+SJ37	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 18/12/15(FTSE 100)GBP12000
+SJG	Schroder Japan Growth Fund Plc
+SJP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X SHORT JPY LONG USD
+SJPA	Ishares III Plc
+SJPN	FTSE Shariah Japan 100 Index
+SJPNU	FTSE Japan 100 Shariah Index USD
+SJPP	Etfs Foreign Exchange Limited
+SJPY	Etfs Foreign Exchange Limited
+SKG	Smurfit Kappa Group Plc
+SKIP	Skipton Building Society
+SKMD	SK TELECOM ADR EACH REP 1/9 KRW500(CIT)SPONS
+SKP	Skyepharma Plc
+SKR	Sunkar Resources Plc
+SKS	Shanks Group Plc
+SKZ	Shalkiyazinc N.V
+SL	STANDARD LIFE PLC ORD GBP0.10
+SL81	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 20/06/08 SILV E1 USD18 C
+SLCT	Etfs Commodity Securities Limited
+SLE	San Leon Energy Plc
+SLEA	Etfs Commodity Securities Limited
+SLED	LEBANESE CO FOR DEV&REC OF BEIRUT GDS EACH REP 1 USD10'A'(REG S)
+SLES	Standard Life Equity Income Trust Plc
+SLET	Standard Life Equity Income Trust Plc
+SLHO	Etfs Commodity Securities Limited
+SLI	Standard Life Investments Property Incom
+SLN	Silence Therapeutics Plc
+SLNG	Slingsby [H.C.] Plc
+SLP	Sylvania Platinum Limited
+SLS	Standard Life UK Smaller Companies Trust
+SLSC	Standard Life UK Smaller Companies Trust
+SLST	Etfs Commodity Securities Limited
+SLVE	Societe Generale Effekten Gmbh
+SLVG	Societe Generale Effekten Gmbh
+SLVR	Etfs Commodity Securities Limited
+SLXX	Ishares Plc
+SM13	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 19/12/08 STAN E0.1 GBX1800 C
+SM29	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 19/12/08 F100 E0.001 GBP6600 C
+SM46	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 20/6/08BARC E1 GBX500 C
+SMA	Sovereign Mines Of Africa Plc
+SMDR	Salamander Energy Plc
+SMDS	Smith [Ds] Plc
+SMEA	Ishares III Plc
+SMEX	Ishares Vi Plc [The Company]
+SMIN	Smiths Group Plc
+SMJ	Smart [J.] & Co. [Contractors] Plc
+SML	Strategic Minerals Plc
+SMN1	
+SMP	St.Modwen Properties Plc
+SMS	Smart Metering Systems Plc
+SMSD	Samsung Electronics Co L
+SMSN	Samsung EL.Gdr
+SMT	Scottish Mortgage Investment Trust Plc
+SMWH	Wh Smith Plc
+SMX	FTSE Smallcap
+SMXX	FTSE Smallcap [Exit]
+SN	Smith & Nephew
+SNAK	Snacktime Plc
+SNCL	Sinclair [William] Holdings Plc
+SND	Sanderson Group Plc
+SNEY	Etfs Commodity Securities Limited
+SNG	Synairgen Plc
+SNGA	Etfs Commodity Securities Limited
+SNIK	Etfs Commodity Securities Limited
+SNLD	Ishares V Public Limited Company
+SNOK	Etfs Foreign Exchange Limited
+SNOP	Etfs Foreign Exchange Limited
+SNP	CHINA PETROLEUM & CHEMICAL CORP ADS EACH REP 100`H`SHS CNY1
+SNR	Senior Plc
+SNRG	Etfs Commodity Securities Limited
+SNRP	Strategic Natural Resources Plc
+SNT	Sabien Technology Group Plc
+SNTY	Synety Group Plc
+SNX	Synectics Plc
+SNZD	Etfs Foreign Exchange Limited
+SNZP	Etfs Foreign Exchange Limited
+SO79	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 20/06/08 SL. E1 GBX300 C
+SOFF	Etfs Commodity Securities Limited
+SOFT	Barclays Bank Plc
+SOG	Statpro Group Plc
+SOI	Schroder Oriental Income Fund Limited
+SOIL	Etfs Commodity Securities Limited
+SOLG	Solgold Plc
+SOLO	Solo Oil Plc
+SOM	Somero Enterprise Inc.
+SON	Sony Corporation
+SORB	Sorbic International Plc
+SOU	Sound Oil Plc
+SOYB	Etfs Commodity Securities Limited
+SOYO	Etfs Commodity Securities Limited
+SPA	1Spatial Plc
+SPAG	Ishares V Public Limited Company
+SPAL	Source Physical Markets Plc
+SPD	Sports Direct International Plc
+SPDI	Spdi Secure Property Dev
+SPDM	Ishares Physical Metals Plc
+SPE	Sopheon Plc
+SPET	Etfs Commodity Securities Limited
+SPGH	Superglass Holdings Plc
+SPGP	Ishares V Public Limited Company
+SPGS	Barclays Bank Plc
+SPH	Sinclair Is Pharma Plc
+SPHR	Sphere Medical Holding Plc
+SPK	Spark Ventures Plc
+SPL	Skil Ports & Logistics Limited
+SPLA	Etfs Commodity Securities Limited
+SPLT	Ishares Physical Metals Plc
+SPMT	Etfs Commodity Securities Limited
+SPMV	Ishares Vi Plc (The Comp
+SPO	Sportech Plc
+SPOG	Ishares V Public Limited Company
+SPOL	Ishares V Public Limited Company
+SPPC	ST Peter Port Capital Limited
+SPPT	Source Physical Markets Plc
+SPRT	Spirit Pub Company Plc
+SPSM	Sports Stars Media Plc
+SPSY	Spectra Systems Corporation
+SPT	Spirent Communications Plc
+SPX	Spirax-Sarco Engineering Plc
+SPXJ	Ishares III Plc
+SPXS	Source Markets Public Limited Company
+SQS	Sqs Software Quality Systems Ag
+SQZ	Serica Energy Plc
+SRB	Serabi Gold Plc
+SRE	Sirius Real Estate Ld
+SREI	Schroder Real Estate Investment Trust Li
+SRES	Sunrise Resources Plc
+SRG	Security Research Group
+SRO	Spitfire Oil Limited
+SRP	Serco Group Plc
+SRSA	Ishares III Plc
+SRSP	Sirius Petroleum Plc
+SRT	Software Radio Technology Plc
+SRX	Sierra Rutile Limited
+SS03	FTSE Global Small Cap ex US Index
+SS07	FTSE Europe Small Cap Index
+SS08	FTSE Europe Small Cap ex UK Index
+SS09	FTSE Asia Pacific Small Cap Index
+SSA	SISTEMA JSFC GDR EACH REPR 1/50 RUB90 REG`S`
+SSAC	Ishares V Public Limited Company
+SSAM	Ishares V Public Limited Company
+SSE	Sse Plc
+SSEK	Etfs Foreign Exchange Limited
+SSEP	Etfs Foreign Exchange Limited
+SSFT	Etfs Commodity Securities Limited
+SSHY	Pimco Fixed Income Sourc
+SSIL	Etfs Commodity Securities Limited
+SSLN	Ishares Physical Metals Plc
+SSLV	Source Physical Markets Plc
+SSOB	Etfs Commodity Securities Limited
+SSP	Solid State Plc
+SST	Scottish Oriental Smaller Companies Trus
+SSUG	Etfs Commodity Securities Limited
+SSXF	Ishares III Plc
+SSY	Scisys Plc
+SSYO	Etfs Commodity Securities Limited
+STAA	Multi Units France
+STAB	Standard Chartered Plc
+STAC	Standard Chartered Plc
+STAF	Staffline Group Plc
+STAG	Multi Units Luxembourg
+STAN	Standard Chartered Plc
+STAR	Starcom Plc
+STAW	Multi Units Luxembourg
+STB	Secure Trust Bank Plc
+STCM	Steppe Cement Ltd
+STE	Stewart & Wight Plc
+STEL	Stellar Diamonds Plc
+STG	Stellar Resources Plc
+STGR	Stratmin Global Resources Plc
+STHR	Sthree Plc
+STHY	Pimco Fixed Income Source Etfs Plc
+STI	Stratex International Plc
+STIM	Etfs Commodity Securities Limited
+STJ	St. James's Place Plc
+STK	Suretrack Monitoring Plc
+STL	Stilo International Plc
+STM	Stm Group Pc
+STOB	Stobart Group Ld
+STS	Securities Trust Of Scotland Plc
+STT	Straight Plc
+STVG	Stv Group Plc
+STY	Styles & Wood Group Plc
+SUAG	Ishares II Plc
+SUEL	SUZLON ENERGY LTD GDR EACH REP 4 ORD REG`S WI
+SUGA	Etfs Commodity Securities Limited
+SUGE	UBS Ag
+SUGG	UBS Ag
+SUH	Sutton Harbour Holdings Plc
+SUK2	ETFS FUND COMPANY PLC FTSE`100`SUPER SHORT STRAT`2X`FD SHS GBP
+SULA	Sula Iron & Gold Plc
+SUMM	Summit Corporation Plc
+SUN	Surgical Innovations Group Plc
+SUP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X SHORT EUR LONG GBP
+SUS	S & U Plc
+SV80	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 19/09/08(PRUDENTIAL)GBX600
+SV84	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 19/09/08(VODAFONE GRP)GBX150
+SV87	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 19/09/08(FTSE100 IDX)GBP6450
+SVCA	Servoca Plc
+SVE	Starvest Plc
+SVI	Svg Capital Plc
+SVM	Svm UK Emerging Fund Plc
+SVO	Serviced Office Group Plc
+SVR	Servicepower Technologies Plc
+SVS	Savills Plc
+SVST	Oao Severstal
+SVT	Severn Trent Plc
+SVTL	Severn Trent Plc
+SW11	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 20/03/09(FTSE100)GBP4900
+SW21	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 19/06/09(GLAXOSMITHKLINE)GBP16
+SW23	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(UNITED UTILITIES)GBP4.5
+SW26	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/10/10(3I GRP)GBP2.5
+SW27	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 19/06/09(ROYAL BANK SCOT)GBP1
+SW44	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 18/09/09(GBP/EUR SPOT) EUR1.3
+SW47	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 20/03/09(EUR/USD SPOT) USD1.4
+SW48	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 20/03/09(GBP/USD SPOT)USD1.85
+SW49	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 20/03/09(GBP/USD SPOT) USD1.7
+SW58	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 02/12/09(COPPER) USD8000
+SW60	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 02/12/09(COPPER) USD6000
+SW61	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 19/06/09(GOLD SPOT) USD900
+SW66	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 18/09/09(SILVER SPOT) USD15
+SW67	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 19/06/09(SILVER SPOT) USD9
+SW72	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 18/09/09(HSBC HLDGS) GBX1000
+SW75	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 18/09/09(MARKS&SPNCR) GBX200
+SW77	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/09/10(RIO TINTO)GBP39
+SWALLE	FTSE Shariah Emerging Index
+SWAP	Moneyswap Plc
+SWCHN	FTSE Shariah China Index
+SWDA	Ishares III Plc
+SWDEURS	FTSE Shariah Developed Europe Index
+SWDPAC	FTSE Shariah Developed Asia Pacific
+SWDPACXJ	FTSE Shariah Developed Asia Pacific Ex J
+SWDXUS	FTSE Shariah Developed Ex US Index
+SWEA	Etfs Commodity Securities Limited
+SWEF	Starwood European Real E
+SWIND	FTSE Shariah India Index
+SWJ	Swan [John] & Sons Plc
+SWL	Swallowfield Plc
+SWORLDS	FTSE Shariah All-World Index
+SWP	Swp Group Plc
+SWPACXJA	FTSE Shariah Asia Pacific Ex Japan Index
+SWPXJAN	FTSE Shariah Asia-Pacific
+SWUSA	FTSE Shariah USA Index
+SWXU	Ishares III Plc
+SX38	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 21/12/07EUSD E10 GBP1.35 C
+SX39	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 21/12/07EUSD E10 GBP1.25 C
+SX41	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 18/06/10(ROYAL BK SCT)GBP0.38
+SX69	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 12/12/08GBP/JPY E10 JPY220 C
+SX73	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 12/12/08EUSD E0.1 USD1.60 C
+SX74	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 20/06/08EUSD E0.1 USD1.45 C
+SX75	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 12/12/08EUSD E0.1 USD1.50 C
+SX93	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(SILVER SPOT)USD16
+SXMU	Ishares III Plc
+SXS	Spectris Plc
+SXX	Sirius Minerals Plc
+SY14	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(EUR/USD SPOT)USD1.45
+SY15	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(EUR/USD SPOT)USD1.4
+SY28	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(RIO TINTO)GBP34
+SY34	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/09/10(RIO TINTO)GBP33
+SY42	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/09/10(FTSE 100)GBP4900
+SY43	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/09/10(FTSE 100)GBP5100
+SY44	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/09/10(FTSE 100)GBP5500
+SY45	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(FTSE 100)GBP4600
+SY46	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(FTSE 100)GBP4800
+SY49	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(GOLD SPOT)USD1300
+SY50	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/09/10(GOLD SPOT)USD1000
+SY51	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(GOLD SPOT)USD900
+SY52	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(GS AGRI IDX)USD60
+SY54	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(GS AGRI IDX)USD50
+SY55	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/09/10(ANGLO AMERICAN)GBP26
+SY59	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(ASTRAZENECA)GBP32
+SY62	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/09/10(BARCLAYS)GBP3.25
+SY63	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(BARCLAYS)GBP3
+SY64	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/09/10(BARCLAYS)GBP2.75
+SY65	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/09/10(BARCLAYS)GBP3.25
+SY67	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(BG GRP)GBP12
+SY69	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(BG GRP)GBP10
+SY72	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(BHP BILLITON)GBP20
+SY73	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(CENTRICA)GBP3
+SY74	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/06/11(CENTRICA)GBP3.5
+SY75	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(CENTRICA)GBP3
+SY76	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/06/11(CENTRICA)GBP2.5
+SY77	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(DIAGEO)GBP11
+SY78	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/06/11(DIAGEO)GBP13
+SY79	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(DIAGEO)GBP9
+SY81	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/09/10(GLAXOSMITHKLINE)GBP14
+SY83	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(GLAXOSMITHKLINE)GBP12
+SY84	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(HSBC HLDGS)GBP7.5
+SY85	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 18/06/10(HSBC HLDGS)GBP7
+SY89	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(IMPERIAL TOBACCO)GBP20
+SY90	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(LLOYDS BKG GRP)GBP0.6
+SY92	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/06/11(LLOYDS BANKING GRP)GBP
+SY93	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 18/06/10(MAN GRP)GBP2.75
+SY97	SOCIETE GENERALE ACCEPTANCE NV CALL WTS 17/12/10(MARKS & SP)GBP4
+SY98	SOCIETE GENERALE ACCEPTANCE NV PUT WTS 17/12/10(MARKS & SP)GBP3.25
+SYG	Speymill Plc
+SYM	Symphony Environmental Technologies Plc
+SYNT	Synthomer Plc
+SYP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X SHORT JPY LONG GBP
+SYR	Synergy Health Plc
+SZIC	Etfs Commodity Securities Limited
+T16	TREASURY 4% STK 7/09/2016
+T17	TREASURY 1.25% IDX-LKD GILT 2017
+T18	TREASURY 5% TSY GILT 07/03/18 GBP
+T19	TREASURY 4.5% GILT 07/03/2019 GBP0.01
+T1X	FTSE TechMark 100
+T22	TREASURY 1.875% IDX LKD TSY GILT 22/11/22 GBP
+T24I	TREASURY 2 1/2% INDEX-LINKED STK 2024
+T27	TREASURY 1.25% INDEX-LINKED STK 2027
+T2H	TREASURY 2 1/2% STK(1975 OR AFTER)
+T2HI	TREASURY 2 1/2% INDEX-LINKED STK 2020
+T2IL	TREASURY 2% INDEX-LINKED STK 2035
+T30I	TREASURY 4 1/8% INDEX-LINKED STK 2030
+T32	TREASURY 1.25% IDX-LKD GILT 2032 GBP0.01
+T39	TREASURY 4.25%TSY GILT 7/9/39 GBP0.01
+T3UD	TREASURY 3% STK
+T40	TREASURY 4.25% GILT 07/12/40
+T42	TREASURY 4.5% TSY GILT 7/12/42 GBP
+T42A	TREASURY 0.625% IDX-LKD GILT 22/11/42
+T46	TREASURY 4.25% TREASURY GILT 7/12/46
+T47	TREASURY 0.75% IDX LKD TSY GILT 22/11/47 GBP
+T49	TREASURY 4.25% GILT 07/12/49 GBP0.01
+T4Q	TREASURY 4 1/4% STK 2036
+T4T	TREASURY 4 3/4% STK 2015
+T514	TREASURY 5% STK 2014
+T813	TREASURY 8% STK 2013
+TAIH	Taihua Plc
+TAL	Ten Alps Plc
+TALK	Talktalk Telecom Group Plc
+TALV	Talvivaara Mining Company Plc
+TAN	Tanfield Group Plc
+TAST	Tasty Plc
+TASX	FTSE Techmark Allshare
+TATE	Tate & Lyle Plc
+TAU	Tau Capital Plc
+TAVI	Tavistock Investments Pl
+TAW	Tawa Plc
+TCA	Terra Capital Plc
+TCF	Terra Catalyst Fund
+TCG	Thomas Cook Group Plc
+TCM	Telit Communications Plc
+TCN	Tricorn Group Plc
+TCSC	Town Centre Securities Plc
+TCT	Cayenne Trust Plc [The]
+TCY	Telecity Group Plc
+TDE	Telefonica Sa
+TE10	
+TECZ	Telefonica Czech Republi
+TED	Ted Baker Plc
+TEEG	Telecom Egypt S.A.E.
+TEF	Telford Homes Plc
+TEG	Teg Group [The] Plc
+TEIF	Tamar European Industrial Fund Ld
+TELG	Multi Units Luxembourg
+TELW	Multi Units Luxembourg
+TEM	Templeton Emerging Markets Investment TR
+TEP	Telecom Plus Plc
+TERN	Tern PLC
+TET	Treatt Plc
+TFIF	Twentyfour Income Fund L
+TFL	Theo Fennell Plc
+TFV	Talisman First Venture Capital Trust Plc
+TFW	Thorpe [F.W.] Plc
+TGBD	Turkiye Garanti Bankasi
+TGL	Touchstone Gold Limited
+THAL	Thalassa Holdings Limited
+THG	Terrace Hill Group Plc
+THL	Tongaat Hulett Limited
+THR	Thor Mining Plc
+THRG	Throgmorton Trust Plc
+THRL	Target Healthcare REIT L
+THT	Thorntons Plc
+TIDE	Crimson Tide Plc
+TIG	Innovation Group Plc
+TIGT	Troy Income & Growth Trust Plc
+TINM	Etfs Commodity Securities Limited
+TIR	Tiger Resource Finance Plc
+TKK	Toray Industries Incorporated
+TLA	Tla Worldwide Plc
+TLDH	Top Level Domain Holdings Limited
+TLI	Alternative Asset Opportunities Pcc Ltd
+TLPR	Tullett Prebon Plc
+TLW	Tullow Oil Plc
+TLY	Totally Plc
+TMC	Toledo Mining Corporation Plc
+TMKS	Oao Tmk
+TMMG	The Mission Marketing Group Plc
+TMPL	Temple Bar Investment Trust Plc
+TMS1	FTSE techMARK mediscience Index
+TMT	Tmt Investments Plc
+TMZ	Toumaz Ld
+TNCI	Tinci Holdings Limited
+TND	Tandem Group Plc
+TNG	Tangent Communications Plc
+TNI	Trinity Mirror Plc
+TNO	Rsm Tenon Group Plc
+TNOA	Multi Units France
+TNOG	Multi Units Luxembourg
+TNOW	Multi Units Luxembourg
+TOM	Tomco Energy Plc
+TON	Titon Holdings Plc
+TOS	Toshiba Corporation
+TOT	Total Produce Plc
+TOYE	Toye & Company Plc
+TPET	Tangiers Petroleum Limited
+TPF	Taliesin Property Fund Limited
+TPFZ	Taliesin Property Fund L
+TPJ	Triple Plate Junction Plc
+TPK	Travis Perkins Plc
+TPL	Tethys Petroleum Limited
+TPOE	Third Point Offshore Investors Limited
+TPOG	Third Point Offshore Investors Limited
+TPOU	Third Point Offshore Investors Limited
+TPRD	Turkiye Petrol Rafineril
+TPS	Turbo Power Systems Inc
+TPSD	Telekomunikacja Polska S
+TPT	Topps Tiles Plc
+TPV1	TP70 2008(I)VCT PLC ORD GBP0.01
+TR14	TREASURY 2.25% TSY GILT 07/03/14 GBP0.01
+TR15	TREASURY 2.75% GILT 22/01/15 GBP`WI`
+TR16	TREASURY 2 1/2% INDEX-LINKED STK 2016
+TR17	TREASURY 8 3/4% STK 2017
+TR19	TREASURY 3.75% GILT 07/09/19 GBP0.01
+TR20	TREASURY 3.75% GILT 2020 GBP0.01
+TR21	TREASURY 8% STK 2021
+TR22	TREASURY 4% TSY GILT 2022 GBP0.01(WI)(FEB)
+TR25	TREASURY 5% STK 2025
+TR27	TREASURY 4.25% STK 7/12/2027
+TR28	TREASURY 6% STK 2028
+TR30	TREASURY 4.75% TREASURY GILT 07/12/30 GBP
+TR32	TREASURY 4 1/4% STK 2032
+TR34	TREASURY 4.5% GILT 7/9/2034 GBP0.01
+TR37	TREASURY 1.125% IDX-LKD GILT 22/11/37
+TR38	TREASURY 4 3/4% LN STK 07/12/38
+TR40	TREASURY 0.625% IDX-LKD GILT 22/3/40 GBP0.01
+TR4Q	TREASURY 4.25% GILT 07/12/55 GBP0.01
+TR50	TREASURY 0.5% IDX LKD GILT 22/3/50 GBP0.01
+TR60	TREASURY 4% GILT 22/1/2060 GBP0.01
+TR8F	TREASURY 1.25% IDX-LKD TSY 2055 GBP0.01
+TRAF	Trafalgar New Homes Plc
+TRAK	Trakm8 Holdings Plc
+TRAP	Trap Oil Group Plc
+TRB	Tribal Group Plc
+TRC	Trinity Capital Plc
+TRCN	TRANSCONTAINER OJSC GDR EACH REP 1/10 ORD REG`S WI
+TRCS	Tracsis Plc
+TRD	Triad Group Plc
+TRE	Trading Emissions Plc
+TREE	Cambium Global Timberland Limited
+TRG	TR European Growth Trust Plc
+TRGOV01	
+TRI	Trifast Plc
+TRIC	Tricor Plc
+TRIG	The Renewables Infrastru
+TRIN	Trinity Exploration & Pr
+TRK	Torotrak Plc
+TRMA	Thames River Multi Hedge Pcc Ld
+TRP	Tower Resources Plc
+TRS	Tarsus Group Plc
+TRSY	SSGA SPDR Etfs Europe I Plc
+TRT	Transense Technologies Plc
+TRTQ	United Kingdom
+TRV	Treveria Plc
+TRX	Tissue Regenix Group Plc
+TRY	TR Property Investment Trust Plc
+TS16	TREASURY 2% GILT 22/01/16 GBP0.01
+TS20	TREASURY 4 3/4% STK 2020
+TS52	TESCO PERSONAL FINANCE PLC 5.2% STG BDS  24/08/18 GBP100 WI
+TSCO	Tesco Plc
+TSG	Trans-Siberian Gold Plc
+TSTL	Tristel Plc
+TSTR	Tri-Star Resources Plc
+TT	TUI TRAVEL PLC ORD GBP0.10
+TTA	Total S.A.
+TTG	Tt Electronics Plc
+TTR	32Red Plc
+TTST	TATA STEEL GDR EACH REPR 1 ORD SH`REG S` WI
+TTV	Talent Group Plc
+TVCH	Tvc Holdings Plc
+TVZ	Travelzest Plc
+TW	Taylor Wimpey
+TW100	
+TW50	FTSE TSEC Taiwan 50 Index
+TW50U	FTSE TSEC Taiwan 50 Index
+TWDP	Tsec Taiwan Dividend
+TWEI	Tsec Taiwan Eight Industries
+TWL	Weather Lottery [The] Plc
+TWSH	Tsec Taiwan Shariah Index
+TWTECH	Tsec Taiwan Technology
+TXH	Tex Holdings Plc
+TXO	Txo Plc
+TY21	
+TY8	TREASURY 8% STK 2015
+TYM	Tertiary Minerals Plc
+TYMN	Tyman Plc
+TYR	Tyratech Inc
+TYRU	Tyratech Inc
+TYT	Toyota Motor Corporation
+UAV	Unicorn Aim Vct Plc
+UB0500	N/A
+UB1300	N/A
+UB1700	N/A
+UB2300	N/A
+UB2700	N/A
+UB3300	N/A
+UB3500	N/A
+UB3700	N/A
+UB4500	N/A
+UB5300	N/A
+UB5500	N/A
+UB5700	N/A
+UB65	FTSE E350 Mobile Telecommunications
+UB6500	N/A
+UB7500	N/A
+UB8300	N/A
+UB8500	N/A
+UB8600	
+UB8700	N/A
+UB9500	N/A
+UBC	Ubc Media Group Plc
+UBI	Ubisense Group Plc
+UBM	Ubm Plc
+UCG	United Carpets Group Plc
+UCP	Unitech Corporate Parks Plc
+UDG	United Drug Plc
+UDVD	SSGA SPDR Etfs Europe I Plc
+UEM	Utilico Emerging Markets Limited
+UEN	Urals Energy Public Company Limited
+UEP	Umc Energy Plc
+UFG	Ultimate Finance Group Plc
+UGAS	Etfs Commodity Securities Limited
+UGNA	Epra/Nareit North America Index [Usd]
+UJO	Union Jack Oil Plc
+UKAG	SSGA SPDR Etfs Europe I Plc
+UKCM	UK Commercial Property Trust Ld
+UKCO	SSGA SPDR Etfs Europe I Plc
+UKDV	SSGA SPDR Etfs Europe I Plc
+UKE	UK Enhanced Income
+UKM	UK Mail Group Plc
+UKMV	Ossiam Lux
+UKR	Ukrproduct Group Limited
+UKRO	Ukraine Opportunity Trust Plc
+UKT	UK Select Trust Ld
+UKW	Greencoat UK Wind Plc
+UKX	FTSE 100
+UKXDUK	FTSE 100 Total Return Declared Dividend
+UKXEQ	FTSE 100 Equally Index
+UKXMV	FTSE 100 Minimum Variance Index
+UKXNUK	FTSE 100 Net Dividend Index
+UKXSP	FTSE 100 Expiry Index
+ULE	Ultra Electronics Holdings Plc
+ULT	Ultrasis Plc
+ULVR	Unilever Plc
+UNG	Universe Group Plc
+UNGL	Epra/Nareit Global Index [Usd]
+UNUS	Epra United States Index
+UPRA	Epra Europe Index [Usd]
+URA	Uranium Resources Plc
+URGB	Etfs Foreign Exchange Limited
+URKA	URALKALI JSC GDR EACH REPR 5 ORD  `REGS`
+URU	Uru Metals Limited
+US10	MULTI UNITS FRANCE LYXOR ETF IBOXX USD TREASURIES 10Y+
+US13	MULTI UNITS FRANCE LYXOR ETF IBOXX USD TREASURIES 1-3Y
+US500	
+US57	MULTI UNITS FRANCE LYXOR ETF IBOXX USD TREASURIES 5-7Y
+USAG	SSGA SPDR Etfs Europe I Plc
+USAL	Lyxor International Asse
+USAU	Lyxor International Asse
+USD2	ETFS FOREIGN EXCHANGE LTD ETFS SHORT GBP LONG (USD)GBP
+USDV	SSGA SPDR Etfs Europe I Plc
+USE	US Enhanced Income
+USEB	US Enhanced Income
+USGB	Etfs Foreign Exchange Limited
+USLV	SSGA SPDR Etfs Europe I
+USMV	Ossiam Lux
+USP3	ETFS FOREIGN EXCHANGE LTD ETFS 3X LONG USD SHORT GBP
+USY	Unisys Corporation
+UTG	Unite Group Plc
+UTIG	Multi Units Luxembourg
+UTIW	Multi Units Luxembourg
+UTL	Utilico Investments Limited
+UTLB	Utilico Finance Limited
+UTLC	Utilico Finance Limited
+UTLD	Utilico Finance Limited
+UTN	Ultima Networks Plc
+UTV	Utv Media Plc
+UTW	Utilitywise Plc
+UU	United Utilities
+UVEL	Univision Engineering Limited
+VAL	Valirx Plc
+VAPX	Vanguard Funds Plc
+VCP	Victoria Plc
+VCT	Victrex Plc
+VDEM	Vanguard Funds Plc
+VDJP	Vanguard Funds Plc
+VDN	Vindon Healthcare Plc
+VDPX	Vanguard Funds Plc
+VEC	Vectura Group Plc
+VED	Vedanta Resources Plc
+VELA	Vela Technologies Plc
+VEN	Ventus Vct Plc
+VEN2	ventus 2 vct ord gbp0
+VENC	Ventus Vct Plc
+VENN	Venn Life Sciences Holdi
+VER	Vernalis Plc
+VEUR	Vanguard Funds Plc
+VFEM	Vanguard Funds Plc
+VGAS	Volga Gas Plc
+VGM	Vatukoula Gold Mines Plc
+VGOV	Vanguard Funds Plc
+VHYD	Vanguard Funds Plc
+VHYL	Vanguard Funds Plc
+VICO	Vimetco N.V.
+VIN	Value And Income Trust Plc
+VIP	Vipera Plc
+VIS	Vitesse Media Plc
+VIXS	Source Markets Public Limited Company
+VIY	Vialogy Plc
+VJPN	Vanguard Funds Plc
+VKW	Volkswagen Ag
+VLE	Volvere Plc
+VLK	Vislink Plc
+VLX	Volex Plc
+VML	Vane Minerals Plc
+VMT	Vmoto Limited
+VNC	Ventus 2 Vct Plc
+VNET	Vianet Group Plc
+VNF	Pxp Vietnam Fund Limited
+VNH	Vietnam Holding Limited
+VNHW	Vietnam Holding Limited
+VNI	Vietnam Infrastructure Limited
+VNL	Vinaland Limited
+VO25	VODAFONE GROUP 5.625% NTS 4/12/25 GBP(VAR)
+VO32	VODAFONE GROUP 5.90% EUR MED TRM NTS 26/11/32 GBP(VAR)
+VOD	Vodafone Group Plc
+VOF	Vinacapital Vietnam Opportunity Fund Ld
+VOG	Victoria Oil & Gas Plc
+VOLS	Source Markets Public Limited Company
+VOLT	Source Markets Public Limited Company
+VP	VP Plc
+VRP	Verona Pharma Plc
+VRS	Versarien Plc
+VSTX	Etfx Fund Company Plc
+VSVS	Vesuvius Plc
+VSXG	Barclays Bank Plc
+VSXX	Barclays Bank Plc
+VSYG	Barclays Bank Plc
+VTBR	Jsc Vtb Bank
+VTC	Vitec Group Plc [The]
+VTU	Vertu Motors Plc
+VUKE	Vanguard Funds Plc
+VUSA	Vanguard Funds Plc
+VUSD	Vanguard Funds Plc
+VWRD	Vanguard Funds Plc
+VWRL	Vanguard Funds Plc
+VXIM	Barclays Bank Plc
+VXIS	Barclays Bank Plc
+VZC	Verizon Communications
+WAFM	West African Minerals Corporation
+WALG	Walcom Group Limited
+WAND	Wandisco Plc
+WAR	War
+WAS	Wasabi Energy Limited
+WATL	Lyxor International Asse
+WATR	Water Intelligence Plc
+WBS	West Bromwich Building Society
+WCW	Walker Crips Group Plc
+WEAT	Etfs Commodity Securities Limited
+WEB	Webis Holdings Plc
+WEIR	Weir Group Plc
+WG	Wood Group (John)
+WGB	Walker Greenbank Plc
+WHE	Wildhorse Energy Limited
+WHI	W.H. Ireland Group Plc
+WI01	FTSE World
+WI02	FTSE World ex South Africa
+WI03	FTSE World Europe ex Eurobloc
+WIAUS	FTSE Australia Index
+WIAUT	FTSE Austria Index
+WIBEL	FTSE Belgium/Lux Index
+WIBRA	FTSE Brazil Index
+WICAN	FTSE Canada Index
+WICHE	FTSE Switzerland Index
+WICHL	FTSE Chile Index
+WICHN	FTSE China Index
+WICOL	FTSE Colombia Index
+WICZH	FTSE Czech Rep. Index
+WIDEN	FTSE Denmark Index
+WIDEU	FTSE Germany Index
+WIEGY	FTSE Egypt Index
+WIESP	FTSE Spain Index
+WIFIN	FTSE Finland Index
+WIFRA	FTSE France Index
+WIGBR	FTSE UK Index
+WIGRC	FTSE Greece Index
+WIHKG	FTSE Hong Kong Index
+WIHUN	FTSE Hungary Index
+WIIDN	FTSE Indonesia Index
+WIIND	FTSE India Index
+WIIRL	FTSE Ireland Index
+WIISR	FTSE Israel Index
+WIITA	FTSE Italy Index
+WIJPNG	FTSE Japan Index - Gbp
+WIJPNU	FTSE Japan Index - USD
+WIKOR	FTSE Korea Index
+WIL	Wilmington Group Plc
+WIMAL	FTSE Malaysia Index
+WIMAR	FTSE Marocco Index
+WIMEX	FTSE Mexico Index
+WIN	Wincanton Plc
+WIND	Renewable Energy Generation Limited
+WINK	M Winkworth Plc
+WINLD	FTSE Netherlands Index
+WINOR	FTSE Norway Index
+WINZL	FTSE New Zealand Index
+WIPAK	FTSE Pakistan Index
+WIPER	FTSE Peru Index
+WIPHL	FTSE Philippines Index
+WIPOL	FTSE Poland Index
+WIPTL	FTSE Portugal Index
+WIRUS	FTSE Russia Index
+WIS	Wistron Corporation
+WISGP	FTSE Singapore Index
+WISWE	FTSE Sweden Index
+WITHA	FTSE Thailand Index
+WITUR	FTSE Turkey Index
+WITWN	FTSE Taiwan Index
+WIUAE	FTSE Uae Index
+WIUSA	FTSE USA Index
+WIZAF	FTSE South Africa Index
+WKOF	Weiss Korea Opportunity
+WKP	Workspace Group Plc
+WLDD	Lyxor International Asse
+WLDL	Lyxor International Asse
+WLF	Wolfson Microelectronics Plc
+WLFE	Wolf Minerals Limited
+WMH	William Hill Plc
+WNER	Warner Estate Holdings Plc
+WOOD	Ishares II Plc
+WOR	World Careers Network Plc
+WORK	Work Group Plc
+WOS	Wolseley Plc
+WPC	Witan Pacific Investment Trust Plc
+WPP	Wpp Plc
+WRES	W Resources Plc
+WRL	Wentworth Resources Limited
+WSBN	Wishbone Gold Plc
+WSG	Westminster Group Plc
+WSL	Worldsec Ld
+WSP	Wynnstay Properties Plc
+WST	Westside Investments Plc
+WSX	Wessex Exploration Plc
+WTAN	Witan Investment Trust Plc
+WTB	Whitbread Plc
+WTE	Westmount Energy Limited
+WTH	Water Hall Group Plc
+WTI	Weatherly International Plc
+WTL	Waterlogic Plc
+WTM	Waterman Group Plc
+WTR	World Trust Fund
+WTRW	World Trust Fund
+WWH	Worldwide Healthcare Trust Plc
+WWHS	Worldwide Healthcare Trust Plc
+WYG	Wyg Plc
+WYN	Wynnstay Group Plc
+XAHD	DB X-Trackers
+XAHG	DB X-Trackers
+XAR	Xaar Plc
+XASX	DB X-Trackers
+XAUS	DB X-Trackers
+XAXD	DB X-Trackers
+XAXJ	DB X-Trackers
+XBAK	DB X-Trackers
+XBAN	DB X-Trackers
+XBCU	DB X-Trackers
+XBRD	DB X-Trackers
+XBRI	DB X-Trackers
+XBRS	DB X-Trackers
+XBUI	DB X-Trackers II
+XBUT	DB X-Trackers II
+XC4S	DB X-TRACKERS CAC 40 SHORT IDX ETF
+XCAD	DB X-Trackers
+XCAN	DB X-Trackers
+XCAP	Xcap Securities Plc
+XCH	Xchanging Plc
+XCHA	DB X-Trackers
+XCRD	DB X-Trackers
+XCRG	DB X-Trackers
+XCS3	DB X-TRACKERS MSCI MALAYSIA TRN IDX USD 1C
+XCS4	DB X-TRACKERS MSCI THAILAND TRN IDX USD 1C
+XCS5	DB X-TRACKERS MSCI INDIA TRN IDX USD 1C
+XCS6	DB X-TRACKERS MSCI CHINA TRN IDX USD 1C
+XCSD	DB X-Trackers II
+XCT2	DB ETC INDEX PLC NATURAL GAS BOOSTER ETC 30/04/60 USD
+XCT5	DB ETC INDEX PLC COMMODITY BOOSTER ETC 30/04/60 USD
+XCT6	DB ETC INDEX PLC AGRICULTURE BOOSTER ETC 30/04/60 USD
+XCT7	DB ETC INDEX PLC INDUSTRIAL MET BOOSTER ETC 30/04/60 USD
+XCT8	DB ETC INDEX PLC ENERGY BOOSTER ETC 30/04/60 USD
+XCT9	DB ETC INDEX PLC WTI CRUDE OIL BOOSTER ETC 30/04/60 USD
+XCTO	DB Etc Index Plc
+XCTS	DB Etc Index Plc
+XCX3	DB X-TRACKERS MSCI MALAYSIA TRN IDX USD 1C GBP
+XCX4	DB X-TRACKERS MSCI THAILAND TRN IDX USD 1C GBP
+XCX5	DB X-TRACKERS MSCI INDIA TRN IDX USD 1C GBP
+XCX6	DB X-TRACKERS MSCI CHINA TRN IDX USD 1C GBP
+XD3E	DB X-TRACKERS DJ EURO STOXX SELECT DIVIDEND 30 ETF`1D`
+XDBG	DB X-Trackers
+XDDX	Db X-Trackers
+XDER	DB X-Trackers
+XDJA	DB X-Trackers
+XDJP	DB X-Trackers
+XDLH	DB X-Trackers II
+XDUK	DB X-Trackers
+XECS	DB X-Trackers
+XEDS	DB X-Trackers
+XEL	Xcite Energy Limited
+XEL2	DB X-TRACKERS DJ EURO STOXX50 LEVERAGED ETF(EUR)GBP
+XEM8	DB ETC INDEX PLC MEAN REVERSION ETC 28/10/60 USD
+XEMD	DB X-Trackers
+XEME	DB X-Trackers
+XEMM	DB X-Trackers
+XEN	Xenetic Biosciences Plc
+XEO2	DB X-TRACKERS II EONIA TOTAL RETURN INDEX CAP
+XEQD	DB X-Trackers
+XESC	DB X-Trackers
+XESG	DB X-Trackers
+XESX	DB X-Trackers
+XET5	DB ETC INDEX PLC S&P GSCI ETC 30/04/60 USD
+XET6	DB ETC INDEX PLC S&P GSCI AGRICULTURE ETC 30/04/60 USD
+XET7	DB ETC INDEX PLC S&P GSCI INDUS METALS ETC 30/04/60 USD
+XET8	DB ETC INDEX PLC S&P GSCI ENERGY ETC 30/04/60 USD
+XEUM	DB X-Trackers
+XEUT	DB X-Trackers
+XFVT	DB X-Trackers
+XGDD	DB X-Trackers
+XGID	DB X-Trackers
+XGIG	DB X-Trackers II
+XGLD	DB Etc Plc
+XGLE	DB X-Trackers II
+XGLI	DB Etc Plc
+XGLR	DB X-Trackers
+XGLS	DB Etc Plc
+XGPD	DB X-Trackers
+XGSD	DB X-Trackers
+XGSG	DB X-Trackers II
+XGTU	Xg Technology Inc
+XHEG	DB X-Trackers
+XHFD	DB X-Trackers
+XHFE	DB X-Trackers
+XHFG	DB X-Trackers
+XHSD	DB X-Trackers
+XICL	Ftse/Xinhua Insurance Invest Idx
+XIDD	DB X-Trackers
+XIGS	DB X-Trackers
+XIMT	DB X-Trackers
+XIN0	FTSE Xinhua China 25
+XIN0U	FTSE Xinhua China 25 USD Index
+XIN1	FTSE Xinhua B 35 Index
+XIN2	FTSE Xinhua B All-Share Index
+XIN3	FTSE Xinhua A 200 Index
+XIN4	FTSE Xinhua A 600 index
+XIN40001	FTSE XIN600 OIL & GAS
+XIN40530	FTSE XIN600 OIL & GAS PRODUCERS
+XIN40570	FTSE XIN600 OIL EQUIP. SERVICES & DISTR
+XIN40580	
+XIN41000	FTSE XIN600 BASIC MATERIALS
+XIN41350	FTSE XIN600 CHEMICALS
+XIN41730	FTSE XIN600 FORESTRY & PAPER
+XIN41750	FTSE XIN600 INDUSTRIAL METALS
+XIN41770	FTSE XIN600 MINING
+XIN42000	FTSE XIN600 INDUSTRIALS
+XIN42350	FTSE XIN600 CONSTRUCTION & MATERIALS
+XIN42710	FTSE XIN600 AEROSPACE & DEFENSE
+XIN42720	FTSE XIN600 GENERAL INDUSTRIALS
+XIN42730	FTSE XIN600 ELECTRONIC&ELECTRICAL EQUIP
+XIN42750	FTSE XIN600 INDUSTRIAL ENGINEERING
+XIN42770	FTSE XIN600 INDUSTRIAL TRANSPORTATION
+XIN42790	FTSE XIN600 SUPPORT SERVICES
+XIN43000	FTSE XIN600 CONSUMER GOODS
+XIN43350	FTSE XIN600 AUTOMOBILES & PARTS
+XIN43530	FTSE XIN600 BEVERAGES
+XIN43570	FTSE XIN600 FOOD PRODUCERS
+XIN43720	FTSE XIN600 HOUSEHOLD GOODS
+XIN43740	FTSE XIN600 LEISURE GOODS
+XIN43760	FTSE XIN600 PERSONAL GOODS
+XIN44000	FTSE XIN600 HEALTH CARE
+XIN44570	FTSE XIN600 PHARMACEUTICALS & BIOTECH.
+XIN45000	FTSE XIN600 CONSUMER SERVICES
+XIN45330	FTSE XIN600 FOOD & DRUG RETAILERS
+XIN45370	FTSE XIN600 GENERAL RETAILERS
+XIN45550	FTSE XIN600 MEDIA
+XIN45750	FTSE XIN600 TRAVEL & LEISURE
+XIN46000	FTSE XIN600 TELECOMMUNICATIONS
+XIN46570	FTSE XIN600 MOBILE TELECOMMUNICATIONS
+XIN47000	FTSE XIN600 UTILITIES
+XIN47530	FTSE XIN600 ELECTRICITY
+XIN47570	FTSE XIN600 GAS WATER & MULTIUTILITIES
+XIN48000	FTSE XIN600 FINANCIALS
+XIN48350	FTSE XIN600 BANKS
+XIN48570	FTSE XIN600 LIFE INSURANCE
+XIN48630	
+XIN48770	FTSE XIN600 GENERAL FINANCIAL
+XIN49000	FTSE XIN600 TECHNOLOGY
+XIN49530	FTSE XIN600 SOFTWARE & COMPUTER SERVICE
+XIN49570	FTSE XIN600 TECHNOLOGY HARDWARE & EQUIP
+XIN5	FTSE Xinhua A 400 Index
+XIN6	FTSE Xinhua A SmallCap
+XIN7	FTSE Xinhua A All-Share
+XIN9	
+XINBV	Ftse/Xinhua Blueship Value 100 Idx
+XINC	FTSE Xinhua China Index
+XINH	Ftse/Xinhua H Share Index
+XKS2	DB X-TRACKERS MSCI KOREA TRN INDEX ETF `1D`
+XKSD	DB X-Trackers
+XLBS	Source Markets Public Limited Company
+XLDX	DB X-Trackers
+XLES	Source Markets Public Limited Company
+XLFQ	Source Markets Public Li
+XLFS	Source Markets Public Limited Company
+XLID	DB X-Trackers II
+XLIS	Source Markets Public Limited Company
+XLKQ	Source Markets Public Li
+XLKS	Source Markets Public Limited Company
+XLPE	DB X-Trackers
+XLPS	Source Markets Public Limited Company
+XLUS	Source Markets Public Limited Company
+XLVS	Source Markets Public Limited Company
+XLYS	Source Markets Public Limited Company
+XMAD	DB X-Trackers
+XMAF	DB X-Trackers
+XMAS	DB X-Trackers
+XMBD	DB X-Trackers
+XMBR	DB X-Trackers
+XMCL	DB X-Trackers
+XMCX	DB X-Trackers
+XMEA	DB X-Trackers
+XMEC	DB X-Trackers
+XMED	DB X-Trackers
+XMEE	DB X-Trackers
+XMEF	DB X-Trackers
+XMEH	DB X-Trackers
+XMEI	DB X-Trackers
+XMEM	DB X-Trackers
+XMEN	DB X-Trackers
+XMES	DB X-Trackers
+XMET	DB X-Trackers
+XMEU	DB X-Trackers
+XMEX	DB X-Trackers
+XMEY	DB X-Trackers
+XMID	DB X-Trackers
+XMJD	DB X-Trackers
+XMJG	DB X-Trackers
+XMJP	DB X-Trackers
+XMLA	DB X-Trackers
+XMLD	DB X-Trackers
+XMMD	DB X-Trackers
+XMRC	DB X-Trackers
+XMRD	DB X-Trackers
+XMTD	DB X-Trackers
+XMTW	DB X-Trackers
+XMUD	DB X-Trackers
+XMUJ	Db X-Trackers
+XMUS	DB X-Trackers
+XMWD	DB X-Trackers
+XMWO	DB X-Trackers
+XMXD	DB X-Trackers
+XNID	DB X-Trackers
+XNIF	DB X-Trackers
+XPAL	DB Etc Plc
+XPHG	DB X-Trackers
+XPHI	DB X-Trackers
+XPL	Xplorer Plc
+XPLA	DB Etc Plc
+XPP	Xp Power Limited
+XPS	Expansys Plc
+XPXD	DB X-Trackers
+XPXJ	DB X-Trackers
+XRMD	DB X-Trackers
+XRU2	DB X-TRACKERS RUSSELL 2000 ETF `1C` USD(GBP)
+XRUD	DB X-Trackers
+XRUM	DB X-Trackers
+XS2D	DB X-TRACKERS S&P 500 2X LEVERAGED INDEX ETF(USD)USD
+XS3R	DB X-TRACKERS DJ STOXX 600 FOOD BEVERAGE
+XS6R	DB X-TRACKERS DJ STOXX 600 UTILITIES ETF
+XS7R	DB X-TRACKERS DJ STOXX 600 BANKS ETF
+XS7S	DB X-TRACKERS DJ STOXX 600 BANKS SHORT 1C
+XS8R	DB X-TRACKERS DJ STOXX 600 TECHNOLOGY ETF
+XS8S	DB X-TRACKERS DJ STOXX 600 TECH SHORT 1C
+XSD2	DB X-TRACKERS SHORTDAX X2 ETF(EUR)GBP
+XSDR	DB X-Trackers
+XSDS	DB X-Trackers
+XSDX	DB X-Trackers
+XSER	DB X-Trackers
+XSES	DB X-Trackers
+XSEW	DB X-Trackers
+XSFD	DB X-Trackers
+XSFR	DB X-Trackers
+XSGI	DB X-Trackers
+XSHE	DB X-Trackers
+XSHJ	DB X-Trackers
+XSHU	DB X-Trackers
+XSIH	DB Etc Plc
+XSIL	DB Etc Plc
+XSIR	DB X-Trackers
+XSKR	DB X-Trackers
+XSKS	DB X-Trackers
+XSL2	DB X-TRACKERS S&P 500 2X LEVERAGED INDEX ETF(USD)GBP
+XSNR	DB X-Trackers
+XSPD	DB X-Trackers
+XSPG	DB X-Trackers
+XSPR	DB X-Trackers
+XSPS	DB X-Trackers
+XSPU	DB X-Trackers
+XSPX	DB X-Trackers
+XSSX	DB X-Trackers
+XSTR	DB X-Trackers II
+XSX6	DB X-TRACKERS DJ STOXX 600 ETF `1C`EUR(GBP)
+XT21	DB X-TRACKERS S&P 500 2X INVERSE INDEX ETF(USD)GBP
+XT2D	DB X-TRACKERS S&P 500 2X INVERSE INDEX ETF(USD)USD
+XTR	Xtract Energy Plc
+XUDS	DB X-Trackers II
+XUGS	DB X-Trackers II
+XUIT	DB X-Trackers II
+XUKS	DB X-Trackers
+XUKX	DB X-Trackers
+XULL	DB X-Trackers II
+XURA	DB Etc Index Plc
+XUSD	DB X-Trackers
+XUSS	DB X-Trackers II
+XUT3	DB X-TRACKERS II IBOXX USD TREASURES 1-3 TOTAL RETURN IDX
+XUTD	DB X-Trackers II
+XUTL	DB X-Trackers II
+XUTS	DB X-Trackers II
+XVTD	DB X-Trackers
+XWCD	DB X-Trackers
+XWED	DB X-Trackers
+XWFD	DB X-Trackers
+XWHD	DB X-Trackers
+XWID	DB X-Trackers
+XWMD	DB X-Trackers
+XWND	DB X-Trackers
+XWSC	DB X-Trackers
+XWSD	DB X-Trackers
+XWSE	DB X-Trackers
+XWSF	DB X-Trackers
+XWSH	DB X-Trackers
+XWSI	DB X-Trackers
+XWSM	DB X-Trackers
+XWSN	DB X-Trackers
+XWSS	DB X-Trackers
+XWST	DB X-Trackers
+XWSU	DB X-Trackers
+XWTD	DB X-Trackers
+XWUT	DB X-Trackers
+XWXU	DB X-Trackers
+XX25	DB X-TRACKERS FTSE/XINHUA CHINA 25 ETF `1C`
+XX2D	DB X-TRACKERS FTSE/XINHUA CHINA 25 ETF `1C` USD
+XXIC	Xxi Century Investments Public Limited
+XXSC	DB X-Trackers
+YIEL	Multi Units France
+YNGA	Young & Co's Brewery Plc [Aim]
+YNGN	Young & Co's Brewery Plc [Aim]
+YOU	Yougov Plc
+YUJ	Yujin International Limited
+ZAM	Zambeef Products Plc
+ZINC	Etfs Commodity Securities Limited
+ZIOC	Zanaga Iron Ore Company Limited
+ZKM	ZHAIKMUNAI L.P. GDR EACH REPR 1 PARTNRSHIP INT `REGS`WI
+ZMNO	Zamano Plc
+ZOL	Zoltav Resources Inc
+ZOO	Zoo Digital Group Plc
+ZOX	Zincox Resources Plc
+ZTF	Zotefoams Plc
+ZYT	Zytronic Plc
+ZZZ	Snoozebox Holdings Plc
