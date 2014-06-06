@@ -1,0 +1,5 @@
+%5EIXIC	Nasdaq Composite
+%5ENDX	Nasdaq 100
+%5ENYA	NYSE Composite(DJ)
+%5EGSPC	S&P 500
+%5EOEX	S&P 100
