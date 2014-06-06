@@ -1,0 +1,276 @@
+ MMM	3M Company
+ ABBN	ABB Ltd
+ ABT	Abbott Laboratories
+ ABBV	AbbVie Inc
+ ABSI	Absolute Invest AG
+ ACUN	Accu Holding AG
+ ACIN	Acino Holding AG
+ ATLN	Actelion Ltd.
+ ADXN	Addex Therapeutics Ltd
+ ADEN	Adecco SA
+ ADVN	Adval Tech Holding AG
+ ADBN	Advanced Digital Broadcast Holdings SA
+ AEVS	AEVIS Holding SA
+ AFGN	AFG Arbonia-Forster-Holding AG
+ AIRE	Airesis SA
+ ALLN	Allreal Holding AG
+ APHN	Alpha PetroVision Holding AG
+ ALPN	Alpine Select AG
+ ALPH	Alpiq Holding AG
+ ALSN	ALSO Holding AG
+ ALTN	Altin AG
+ AMS	ams AG
+ AAM	Anglo American plc
+ APEN	APEN AG
+ APGN	APG SGA SA
+ ARYN	ARYZTA AG
+ ASCN	Ascom Holding AG
+ AUTN	Autoneum Holding AG
+ BANB	Bachem Holding AG
+ BHI	Baker Hughes Incorporated
+ BALN	Bâloise Holding AG
+ BC	Bank Coop AG
+ LINN	Bank Linth LLB AG
+ BCGE	Banque Cantonale de Genève
+ BCJ	Banque Cantonale du Jura SA
+ BCVN	Banque Cantonale Vaudoise
+ RLD	Banque Privée Edmond de Rothschild S.A.
+ BPDG	Banque Profil de Gestion S.A.
+ BARN	Barry Callebaut AG
+ BLKB	Basellandschaftliche Kantonalbank
+ BAS	BASF SE
+ BSLN	Basilea Pharmaceutica AG
+ BSKP	Basler Kantonalbank
+ BAX	Baxter International Inc.
+ BION	BB Biotech AG
+ BEAN	BELIMO Holding AG
+ BELL	Bell AG
+ BBN	Bellevue Group AG
+ TIBN	Bergbahnen Engelberg-Trübsee-Titlis AG
+ BEKN	Berner Kantonalbank AG
+ BLIN	BFW Liegenschaften AG
+ BKW	BKW AG
+ BOBNN	Bobst Group SA
+ BON	Bondpartners SA
+ BOS	Bossard Holding AG
+ BUCN	Bucher Industries AG
+ BCHN	Burckhardt Compression Holding AG
+ BRKN	Burkhalter Holding AG
+ BVZN	BVZ Holding AG
+ CALN	Calida Holding AG
+ GAV	Carlo Gavazzi Holding AG
+ CASN	Castle Alternative Invest AG
+ CASN	Castle Alternative Invest AG
+ CPEN	Castle Private Equity AG
+ CPEN	Castle Private Equity AG
+ CAT	Caterpillar Inc.
+ CKWN	Centralschweizerische Kraftwerke AG
+ CPGN	Cham Paper Group Holding AG
+ VCH	Charles Vögele Holding AG
+ LISN	Chocoladefabriken Lindt & Sprüngli AG
+ LISP	Chocoladefabriken Lindt & Sprüngli AG
+ CIE	CI Com SA
+ CICN	Cicor Technologies Ltd.
+ CLN	Clariant AG
+ CLTN	COLTENE Holding AG
+ COTN	Comet Holding AG
+ COM	Commerzbank AG F
+ GOB	Compagnie de Saint-Gobain
+ CFR	Compagnie Financière Richemont SA
+ CFT	Compagnie financière Tradition S.A.
+ CZH	Conzzeta AG
+ COPN	COSMO Pharmaceuticals S.p.A.
+ CPHN	CPH Chemie + Papier Holding AG
+ CLXN	Crealogix Holding AG
+ CSGN	Credit Suisse Group AG
+ CYTN	Cytos Biotechnology AG
+ DAN	Danone
+ DCN	Datacolor AG
+ DAE	Dätwyler Holding AG
+ DKSH	DKSH Holding AG
+ DESN	Dottikon ES Holding AG
+ DUFN	Dufry AG
+ EPH	Eastern Property Holdings Limited
+ ESUN	Edisun Power Europe AG
+ EEII	EEII AG
+ EFGN	EFG International AG
+ LLY	Eli Lilly and Company
+ ELMN	Elma Electronic AG
+ EMMN	Emmi AG
+ EMSN	Ems-Chemie Holding AG
+ EDHN	Energiedienst Holding AG
+ RUS	ENR Russia Invest SA
+ EVE	Evolva Holding SA
+ FTON	Feintool International Holding AG
+ FHZN	Flughafen Zürich AG
+ FORN	Forbo Holding AG
+ FFI	Formulafirst Ltd.
+ GALN	Galenica AG
+ GAM	GAM Holding AG
+ GATE	gategroup Holding AG
+ GEBN	Geberit AG
+ GE	General Electric Co.
+ FI-N	Georg Fischer AG
+ GIVN	Givaudan SA
+ GOLI	Gold Fields Limited
+ GBMN	Goldbach Group AG
+ GT	Goodyear Tire & Rubber Company
+ GFMN	Gottex Fund Management Holdings Ltd
+ GRKP	Graubündner Kantonalbank
+ BAP	Groupe Baumgartner Holding SA
+ GMI	Groupe Minoteries SA
+ GUR	Gurit Holding AG
+ HBMN	HBM Healthcare Investments AG
+ HELN	Helvetia Holding AG
+ HLEE	Highlight Event and Entertainment AG
+ HOCN	HOCHDORF Holding AG
+ HOLN	Holcim Ltd
+ HUBN	Huber+Suhner AG
+ HUE	Hügli Holding AG
+ HBLN	Hypothekarbank Lenzburg AG
+ IPS	I.P.S. Innovative Packaging Solutions AG
+ IMPN	Implenia AG
+ IFCN	INFICON Holding AG
+ INI	Infranor Inter AG
+ IMZ	International Minerals Corporation
+ INRN	Interroll Holding AG
+ IS	Intershop Holding AG
+ IHSN	Intersport PSC Holding AG
+ VBSN	IVF HARTMANN Holding AG
+ BAER	Julius Bär Gruppe AG
+ JFN	Jungfraubahn Holding AG
+ KABN	Kaba Holding AG
+ KARN	Kardex AG
+ KOMN	Komax Holding AG
+ KUD	Kudelski S.A.
+ KNIN	Kühne + Nagel International AG
+ KUNN	Kuoni Reisen Holding AG
+ LECN	Leclanché S.A.
+ LEHN	LEM Holding SA
+ LEON	Leonteq AG
+ LLB	Liechtensteinische Landesbank AG
+ LIFE	LifeWatch AG
+ LOEP	Loeb Holding AG
+ LOGN	Logitech International S.A.
+ LONN	Lonza Group AG
+ LOHN	Looser Holding AG
+ LUKN	Luzerner Kantonalbank AG
+ MCHN	MCH Group AG
+ METN	METALL ZUG AG
+ MBTN	Meyer Burger Technology AG
+ MASN	Micronas Semiconductor Holding AG
+ MIKN	Mikron Holding AG
+ MOB	mobilezone holding ag
+ MOBN	Mobimo Holding AG
+ MYRN	Myriad Group AG
+ NBEN	NEBAG AG
+ NESN	Nestlé AG
+ NEWN	New Value AG
+ NEV	New Venturetec AG
+ NWRN	Newron Pharmaceuticals S.p.A.
+ NIBN	NIBE Industrier AB
+ NOBN	Nobel Biocare Holding AG
+ NIHN	NORINVEST HOLDING SA
+ NOVN	Novartis AG
+ OERL	OC Oerlikon Corporation AG
+ ODHN	Orascom Development Holding AG
+ OFN	Orell Füssli Holding AG
+ ORON	Orior AG
+ OTI	OTI Energy AG
+ PWTN	Panalpina Welttransport (Holding) AG
+ PARG	Pargesa Holding SA
+ PGHN	Partners Group Holding AG
+ PAXN	Pax-Anlage AG
+ PEAN	Peach Property Group AG
+ PEL	Pelikan Holding AG
+ PEP	PepsiCo Inc.
+ PRFN	Perfect Holding SA
+ PED	Perrot Duval Holding SA
+ PEDP	Perrot Duval Holding SA
+ PFE	Pfizer Inc.
+ PCG	PG & E Corporation
+ PMI	Philip Morris International Inc
+ PM	Phoenix Mecano AG
+ PEHN	Private Equity Holding AG
+ PRON	Progress Now! Invest AG
+ PSPN	PSP Swiss Property AG
+ PUBN	PubliGroupe SA
+ REPI	Repower AG
+ REPP	Repower AG
+ RIEN	Rieter Holding AG
+ RO	Roche Holding AG
+ ROG	Roche Holding AG
+ HREN	Romande Energie Holding SA
+ RY	Royal Bank of Canada
+ SANN	Santhera Pharmaceuticals Holding AG
+ SAHN	Schaffner Holding AG
+ SCHN	Schindler Holding AG
+ SCHP	Schindler Holding AG
+ STRN	Schlatter Industries AG
+ SLB	Schlumberger Limited
+ STLN	SCHMOLZ+BICKENBACH AG
+ SWTQ	Schweiter Technologies AG
+ NATN	Schweizerische National-Versicherungs-Gesellschaft AG
+ SNBN	Schweizerische Nationalbank
+ SCR	Scor SE
+ SGSN	SGS AG
+ SHPN	ShaPE Capital AG
+ SHLTN	SHL Telemedicine Ltd.
+ SFZN	Siegfried Holding AG
+ SIN	Siemens AG
+ SIK	Sika AG
+ CADN	Sociedad Comercial del Plata SA
+ SOPN	Società Elettrica Sopracenerina SA (SES)
+ SOON	Sonova Holding AG
+ SGKN	St.Galler Kantonalbank AG
+ STGN	Starrag Group Holding AG
+ STMN	Straumann Holding AG
+ SUN	Sulzer AG
+ SFPN	Swiss Finance & Property Investment AG
+ SLHN	Swiss Life Holding AG
+ SPSN	Swiss Prime Site AG
+ SREN	Swiss Re AG
+ SCMN	Swisscom AG
+ SLOG	Swisslog Holding AG
+ SQN	Swissquote Group Holding Ltd
+ SMET	Swmtl Holding AG in Liq
+ SYNN	Syngenta AG
+ TAMN	Tamedia AG
+ TECN	Tecan Group AG
+ TEMN	Temenos Group AG
+ TEMN	Temenos Group AG
+ DOW	The Dow Chemical Company
+ UHR	The Swatch Group AG
+ UHRN	The Swatch Group AG
+ TMX	THERAMetrics holding AG
+ TOHN	Tornos Holding AG
+ RIGN	Transocean Ltd
+ UBXN	u-blox Holding AG
+ UBSN	UBS AG
+ UIS	Unisys Corporation
+ USIN	USI Group Holdings AG
+ VLRT	Valartis Group AG
+ VATN	Valiant Holding AG
+ VALN	Valora Holding AG
+ VAHN	Vaudoise Assurances Holding SA
+ VPB	Verwaltungs- und Privat-Bank AG
+ VET	Vetropack Holding AG
+ VIJN	Victoria-Jungfrau Collection AG
+ VILN	Villars Holding S.A.
+ VW	Volkswagen AG
+ VW-V	Volkswagen AG
+ ROL	Von Roll Holding AG
+ VONN	Vontobel Holding AG
+ VZN	VZ Holding AG
+ WKB	Walliser Kantonalbank
+ WMN	Walter Meier AG
+ WARN	Warteck Invest AG
+ WFT	Weatherford International Ltd
+ YPSN	Ypsomed Holding AG
+ ZEH	Zehnder Group AG
+ ZMH	Zimmer Holdings Inc.
+ ZUBN	Züblin Immobilien Holding AG
+ ZUGN	Zug Estates Holding AG
+ ZG	Zuger Kantonalbank AG
+ ZURN	Zurich Insurance Group AG
+ ZWM	Zwahlen & Mayr SA
